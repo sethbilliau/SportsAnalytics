@@ -1,0 +1,1360 @@
+,playerA,playerB,playerARacks,playerBRacks,matchIndex,date,competition
+0,Mazen Berjawi,Mariusz Skoneczny,9,2,1,2010-06-29,2010 WPA World 9-Ball Championship
+1,Hasan Zeraatgar,Bruno Muratore,3,9,2,2010-06-29,2010 WPA World 9-Ball Championship
+2,Abdulla a. Al Daham,Mazen Berjawi,6,9,3,2010-06-29,2010 WPA World 9-Ball Championship
+3,Imran Majid,Bruno Muratore,7,9,4,2010-06-29,2010 WPA World 9-Ball Championship
+4,Shane Van Boening,Abdulla a. Al Daham,9,6,5,2010-06-29,2010 WPA World 9-Ball Championship
+5,Mazen Berjawi,Hasan Zeraatgar,6,9,6,2010-06-29,2010 WPA World 9-Ball Championship
+6,Imran Majid,Mariusz Skoneczny,6,9,7,2010-06-29,2010 WPA World 9-Ball Championship
+7,Ibrahim Bin Amir,Bruno Muratore,9,7,8,2010-06-29,2010 WPA World 9-Ball Championship
+8,Shane Van Boening,Hasan Zeraatgar,9,7,9,2010-06-29,2010 WPA World 9-Ball Championship
+9,Mariusz Skoneczny,Ibrahim Bin Amir,5,9,10,2010-06-29,2010 WPA World 9-Ball Championship
+10,Kenny Kwok,Joven Alba,5,9,11,2010-06-29,2010 WPA World 9-Ball Championship
+11,Francis Crevier,Marlon Manalo,2,9,12,2010-06-29,2010 WPA World 9-Ball Championship
+12,Jim Chawki,Kenny Kwok,7,9,13,2010-06-29,2010 WPA World 9-Ball Championship
+13,Marlon Manalo,Waleed Majid,9,7,14,2010-06-29,2010 WPA World 9-Ball Championship
+14,Lu Hui Chan,Jim Chawki,9,6,15,2010-06-29,2010 WPA World 9-Ball Championship
+15,Francis Crevier,Kenny Kwok,9,7,16,2010-06-29,2010 WPA World 9-Ball Championship
+16,Marlon Manalo,Joven Alba,8,9,17,2010-06-29,2010 WPA World 9-Ball Championship
+17,Scott Higgins,Waleed Majid,9,6,18,2010-06-29,2010 WPA World 9-Ball Championship
+18,Lu Hui Chan,Francis Crevier,9,3,19,2010-06-29,2010 WPA World 9-Ball Championship
+19,Joven Alba,Scott Higgins,4,9,20,2010-06-29,2010 WPA World 9-Ball Championship
+20,Thorsten Hohmann,Lee Chenman,6,9,21,2010-06-29,2010 WPA World 9-Ball Championship
+21,Charles Williams,Ham Won Sik,9,6,22,2010-06-29,2010 WPA World 9-Ball Championship
+22,Thorsten Hohmann,Kazuki Nishimura,9,4,23,2010-06-29,2010 WPA World 9-Ball Championship
+23,Ham Won Sik,Hussain Jaffer,9,8,24,2010-06-29,2010 WPA World 9-Ball Championship
+24,Thorsten Hohmann,Charles Williams,7,9,25,2010-06-29,2010 WPA World 9-Ball Championship
+25,Sandor Tot,Kazuki Nishimura,9,4,26,2010-06-29,2010 WPA World 9-Ball Championship
+26,Stephan Cohen,Ham Won Sik,9,3,27,2010-06-29,2010 WPA World 9-Ball Championship
+27,Lee Chenman,Hussain Jaffer,9,4,28,2010-06-29,2010 WPA World 9-Ball Championship
+28,Charles Williams,Sandor Tot,8,9,29,2010-06-29,2010 WPA World 9-Ball Championship
+29,Stephan Cohen,Lee Chenman,9,6,30,2010-06-29,2010 WPA World 9-Ball Championship
+30,Ernesto Dominguez,Karl Boyes,9,7,31,2010-06-29,2010 WPA World 9-Ball Championship
+31,Huidji See,Lee Poh Soon,6,9,32,2010-06-29,2010 WPA World 9-Ball Championship
+32,Mohd. Ali Berjawi,Ernesto Dominguez,3,9,33,2010-06-29,2010 WPA World 9-Ball Championship
+33,Lee Poh Soon,Ali Obaidly,9,4,34,2010-06-29,2010 WPA World 9-Ball Championship
+34,Yang Ching Shun,Mohd. Ali Berjawi,9,3,35,2010-06-29,2010 WPA World 9-Ball Championship
+35,Ernesto Dominguez,Huidji See,5,9,36,2010-06-29,2010 WPA World 9-Ball Championship
+36,Karl Boyes,Lee Poh Soon,9,0,37,2010-06-29,2010 WPA World 9-Ball Championship
+37,Ali Obaidly,Tony Drago,3,9,38,2010-06-29,2010 WPA World 9-Ball Championship
+38,Yang Ching Shun,Huidji See,9,5,39,2010-06-29,2010 WPA World 9-Ball Championship
+39,Karl Boyes,Tony Drago,4,9,40,2010-06-29,2010 WPA World 9-Ball Championship
+40,Basem Aboud,Tohru Kuribayashi,3,9,41,2010-06-29,2010 WPA World 9-Ball Championship
+41,So Shaw,Fabio Petroni,9,8,42,2010-06-29,2010 WPA World 9-Ball Championship
+42,Basem Aboud,Wael Tallat,9,8,43,2010-06-29,2010 WPA World 9-Ball Championship
+43,Fabio Petroni,Mohd. A. Al Harthi,9,4,44,2010-06-29,2010 WPA World 9-Ball Championship
+44,Basem Aboud,So Shaw,5,9,45,2010-06-29,2010 WPA World 9-Ball Championship
+45,Wael Tallat,Hanni Al Howri,5,9,46,2010-06-29,2010 WPA World 9-Ball Championship
+46,Francisco Bustamante,Fabio Petroni,9,7,47,2010-06-29,2010 WPA World 9-Ball Championship
+47,Mohd. A. Al Harthi,Tohru Kuribayashi,3,9,48,2010-06-29,2010 WPA World 9-Ball Championship
+48,So Shaw,Hanni Al Howri,5,9,49,2010-06-29,2010 WPA World 9-Ball Championship
+49,Francisco Bustamante,Tohru Kuribayashi,9,6,50,2010-06-29,2010 WPA World 9-Ball Championship
+50,Yousseff Jalar,Niels Feijen,9,6,51,2010-06-29,2010 WPA World 9-Ball Championship
+51,Rodney Morris,Chan Keng Kwang,7,9,52,2010-06-29,2010 WPA World 9-Ball Championship
+52,Yousseff Jalar,Heck Helmut,9,4,53,2010-06-29,2010 WPA World 9-Ball Championship
+53,Mohd. H. Al Hosani,Chan Keng Kwang,8,9,54,2010-06-29,2010 WPA World 9-Ball Championship
+54,Rodney Morris,Yousseff Jalar,9,4,55,2010-06-29,2010 WPA World 9-Ball Championship
+55,Dang Jinhu,Heck Helmut,9,9,56,2010-06-29,2010 WPA World 9-Ball Championship
+56,Niels Feijen,Mohd. H. Al Hosani,9,1,57,2010-06-29,2010 WPA World 9-Ball Championship
+57,Chan Keng Kwang,Alen Cuarcero,7,9,58,2010-06-29,2010 WPA World 9-Ball Championship
+58,Rodney Morris,Dang Jinhu,8,9,59,2010-06-29,2010 WPA World 9-Ball Championship
+59,Niels Feijen,Alen Cuarcero,6,9,60,2010-06-29,2010 WPA World 9-Ball Championship
+60,Yukio Akakariyama,Thomas Engert,9,5,61,2010-06-29,2010 WPA World 9-Ball Championship
+61,Salah Al Riwani,Kuo Po Chen,2,9,62,2010-06-29,2010 WPA World 9-Ball Championship
+62,Yukio Akakariyama,Aleksandros Kazaqi,9,0,63,2010-06-29,2010 WPA World 9-Ball Championship
+63,Kuo Po Chen,Ben Judge,9,8,64,2010-06-29,2010 WPA World 9-Ball Championship
+64,Yukio Akakariyama,John Morra,4,9,65,2010-06-29,2010 WPA World 9-Ball Championship
+65,Aleksandros Kazaqi,Salah Al Riwani,4,9,66,2010-06-29,2010 WPA World 9-Ball Championship
+66,Kuo Po Chen,Thomas Engert,5,9,67,2010-06-29,2010 WPA World 9-Ball Championship
+67,Craig Osbome,Ben Judge,9,5,68,2010-06-29,2010 WPA World 9-Ball Championship
+68,John Morra,Salah Al Riwani,9,5,69,2010-06-29,2010 WPA World 9-Ball Championship
+69,Thomas Engert,Craig Osbome,8,9,70,2010-06-29,2010 WPA World 9-Ball Championship
+70,Mohammad Al Asaal,Marcus Chamat,8,9,71,2010-06-29,2010 WPA World 9-Ball Championship
+71,Bashar Hussain,Del Amo Hector,9,4,72,2010-06-29,2010 WPA World 9-Ball Championship
+72,Mohammad Al Asaal,Mehdi Rasekhi,9,8,73,2010-06-29,2010 WPA World 9-Ball Championship
+73,Oscar Dominguez,Del Amo Hector,5,8,74,2010-06-29,2010 WPA World 9-Ball Championship
+74,Bashar Hussain,Mohammad Al Asaal,9,6,75,2010-06-29,2010 WPA World 9-Ball Championship
+75,Masaaki Tanaka,Mehdi Rasekhi,9,4,76,2010-06-29,2010 WPA World 9-Ball Championship
+76,Marcus Chamat,Oscar Dominguez,9,8,77,2010-06-29,2010 WPA World 9-Ball Championship
+77,Konstantin Stepanov,Del Amo Hector,9,2,78,2010-06-29,2010 WPA World 9-Ball Championship
+78,Bashar Hussain,Masaaki Tanaka,2,9,79,2010-06-29,2010 WPA World 9-Ball Championship
+79,Marcus Chamat,Konstantin Stepanov,8,9,80,2010-06-29,2010 WPA World 9-Ball Championship
+80,Ralf Souquet,Fahad S. Al Barak,9,0,81,2010-06-29,2010 WPA World 9-Ball Championship
+81,Chris Melling,Jeong Young Hwa,9,1,82,2010-06-29,2010 WPA World 9-Ball Championship
+82,Ralf Souquet,Carlo Castro,9,1,83,2010-06-29,2010 WPA World 9-Ball Championship
+83,Mohd Al Bin Ali,Jeong Young Hwa,5,9,84,2010-06-29,2010 WPA World 9-Ball Championship
+84,Ralf Souquet,Dennis Orcollo,6,9,85,2010-06-29,2010 WPA World 9-Ball Championship
+85,Chris Melling,Carlo Castro,9,2,86,2010-06-29,2010 WPA World 9-Ball Championship
+86,Mohd Al Bin Ali,Fahad S. Al Barak,8,9,87,2010-06-29,2010 WPA World 9-Ball Championship
+87,Jeong Young Hwa,Oliver Medenilla,6,9,88,2010-06-29,2010 WPA World 9-Ball Championship
+88,Dennis Orcollo,Chris Melling,9,4,89,2010-06-29,2010 WPA World 9-Ball Championship
+89,Fahad S. Al Barak,Oliver Medenilla,6,9,90,2010-06-29,2010 WPA World 9-Ball Championship
+90,Toh Lian Han,Nguyen Phuc Long,6,9,91,2010-06-29,2010 WPA World 9-Ball Championship
+91,Jakob Belka,Artem Koshovoj,7,9,92,2010-06-29,2010 WPA World 9-Ball Championship
+92,Toh Lian Han,Abas Ali,9,3,93,2010-06-29,2010 WPA World 9-Ball Championship
+93,Daryl Peach,Artem Koshovoj,8,9,94,2010-06-29,2010 WPA World 9-Ball Championship
+94,Johnny Archer,Toh Lian Han,9,3,95,2010-06-29,2010 WPA World 9-Ball Championship
+95,Abas Ali,Jakob Belka,2,9,96,2010-06-29,2010 WPA World 9-Ball Championship
+96,Daryl Peach,Israel Rota,8,9,97,2010-06-29,2010 WPA World 9-Ball Championship
+97,Artem Koshovoj,Nguyen Phuc Long,8,9,98,2010-06-29,2010 WPA World 9-Ball Championship
+98,Johnny Archer,Jakob Belka,9,8,99,2010-06-29,2010 WPA World 9-Ball Championship
+99,Israel Rota,Nguyen Phuc Long,9,6,100,2010-06-29,2010 WPA World 9-Ball Championship
+100,Ibrahim Al Khadar,Carlo Dalmatin,5,9,101,2010-06-29,2010 WPA World 9-Ball Championship
+101,Lee Van Corteza,Mohanna Obaidly,9,3,102,2010-06-29,2010 WPA World 9-Ball Championship
+102,Ibrahim Al Khadar,Carol Skowersui,9,6,103,2010-06-29,2010 WPA World 9-Ball Championship
+103,Sundeep Gulati,Mohanna Obaidly,3,9,104,2010-06-29,2010 WPA World 9-Ball Championship
+104,Lee Van Corteza,Ibrahim Al Khadar,9,1,105,2010-06-29,2010 WPA World 9-Ball Championship
+105,Christian Reimering,Carol Skowersui,9,5,106,2010-06-29,2010 WPA World 9-Ball Championship
+106,Ko Pin Yi,Sundeep Gulati,9,1,107,2010-06-29,2010 WPA World 9-Ball Championship
+107,Mohanna Obaidly,Carlo Dalmatin,6,9,108,2010-06-29,2010 WPA World 9-Ball Championship
+108,Lee Van Corteza,Christian Reimering,5,9,109,2010-06-29,2010 WPA World 9-Ball Championship
+109,Ko Pin Yi,Carlo Dalmatin,9,7,110,2010-06-29,2010 WPA World 9-Ball Championship
+110,Mark Gray,Jason Klatt,3,9,111,2010-06-29,2010 WPA World 9-Ball Championship
+111,Nick van den Berg,Taqi Aldin Moustafawi,9,1,112,2010-06-29,2010 WPA World 9-Ball Championship
+112,Mark Gray,Mohd. Bewi Simanjuntak,9,4,113,2010-06-29,2010 WPA World 9-Ball Championship
+113,Darren Appleton,Taqi Aldin Moustafawi,4,9,114,2010-06-29,2010 WPA World 9-Ball Championship
+114,Mark Gray,Raymund Faron,2,9,115,2010-06-29,2010 WPA World 9-Ball Championship
+115,Nick van den Berg,Mohd. Bewi Simanjuntak,9,2,116,2010-06-29,2010 WPA World 9-Ball Championship
+116,Darren Appleton,Jason Klatt,3,9,117,2010-06-29,2010 WPA World 9-Ball Championship
+117,Chang Jung Lin,Taqi Aldin Moustafawi,9,2,118,2010-06-29,2010 WPA World 9-Ball Championship
+118,Raymund Faron,Nick van den Berg,9,8,119,2010-06-29,2010 WPA World 9-Ball Championship
+119,Jason Klatt,Chang Jung Lin,2,9,120,2010-06-29,2010 WPA World 9-Ball Championship
+120,Jeffrey De Luna,Khalid K. Almutari,9,3,121,2010-06-29,2010 WPA World 9-Ball Championship
+121,Alain Martel,Radosław Babica,9,8,122,2010-06-29,2010 WPA World 9-Ball Championship
+122,Jeffrey De Luna,Richard Jones,9,6,123,2010-06-29,2010 WPA World 9-Ball Championship
+123,Radosław Babica,Abdulatif Fawal,9,7,124,2010-06-29,2010 WPA World 9-Ball Championship
+124,Jeffrey De Luna,Nitiwat Kanjanasri,6,9,125,2010-06-29,2010 WPA World 9-Ball Championship
+125,Alain Martel,Richard Jones,9,6,126,2010-06-29,2010 WPA World 9-Ball Championship
+126,Radosław Babica,Hayato Hijikata,2,9,127,2010-06-29,2010 WPA World 9-Ball Championship
+127,Khalid K. Almutari,Abdulatif Fawal,9,3,128,2010-06-29,2010 WPA World 9-Ball Championship
+128,Nitiwat Kanjanasri,Alain Martel,9,3,129,2010-06-29,2010 WPA World 9-Ball Championship
+129,Hayato Hijikata,Khalid K. Almutari,9,5,130,2010-06-29,2010 WPA World 9-Ball Championship
+130,Corey Deuel,Antonio Gabica,3,9,131,2010-06-29,2010 WPA World 9-Ball Championship
+131,Khalid Al Kamale,Muhammad Zulfikri,8,9,132,2010-06-29,2010 WPA World 9-Ball Championship
+132,Corey Deuel,Martin Kempter,9,2,133,2010-06-29,2010 WPA World 9-Ball Championship
+133,Nicolas Ottermann,Muhammad Zulfikri,5,9,134,2010-06-29,2010 WPA World 9-Ball Championship
+134,Antonio Lining,Corey Deuel,9,7,135,2010-06-29,2010 WPA World 9-Ball Championship
+135,Martin Kempter,Khalid Al Kamale,8,9,136,2010-06-29,2010 WPA World 9-Ball Championship
+136,Antonio Gabica,Nicolas Ottermann,9,7,137,2010-06-29,2010 WPA World 9-Ball Championship
+137,Muhammad Zulfikri,Francisco Felicilda,8,9,138,2010-06-29,2010 WPA World 9-Ball Championship
+138,Antonio Lining,Khalid Al Kamale,9,5,139,2010-06-29,2010 WPA World 9-Ball Championship
+139,Antonio Gabica,Francisco Felicilda,8,9,140,2010-06-29,2010 WPA World 9-Ball Championship
+140,Majid N. Alazmi,Liu Haitao,5,9,141,2010-06-29,2010 WPA World 9-Ball Championship
+141,Ihab Hassan,Efren Reyes,0,9,142,2010-06-29,2010 WPA World 9-Ball Championship
+142,Majid N. Alazmi,Alaa Bata,9,1,143,2010-06-29,2010 WPA World 9-Ball Championship
+143,Efren Reyes,Holger Gries,9,7,144,2010-06-29,2010 WPA World 9-Ball Championship
+144,Mika Immonen,Majid N. Alazmi,9,3,145,2010-06-29,2010 WPA World 9-Ball Championship
+145,Ihab Hassan,Alaa Bata,9,5,146,2010-06-29,2010 WPA World 9-Ball Championship
+146,Efren Reyes,Liu Haitao,5,9,147,2010-06-29,2010 WPA World 9-Ball Championship
+147,Holger Gries,Vinancio Tanio,5,9,148,2010-06-29,2010 WPA World 9-Ball Championship
+148,Mika Immonen,Ihab Hassan,9,4,149,2010-06-29,2010 WPA World 9-Ball Championship
+149,Liu Haitao,Vinancio Tanio,8,9,150,2010-06-29,2010 WPA World 9-Ball Championship
+150,Ahmed Hassan,Oliver Ortmann,3,9,151,2010-06-29,2010 WPA World 9-Ball Championship
+151,David Alcaide,Ricky Yang,9,7,152,2010-06-29,2010 WPA World 9-Ball Championship
+152,Jason Theron,Ahmed Hassan,6,9,153,2010-06-29,2010 WPA World 9-Ball Championship
+153,Ricky Yang,Taher Hussain,9,2,154,2010-06-29,2010 WPA World 9-Ball Championship
+154,David Alcaide,Jason Theron,9,6,155,2010-06-29,2010 WPA World 9-Ball Championship
+155,Ronato Alcano,Ahmed Hassan,9,1,156,2010-06-29,2010 WPA World 9-Ball Championship
+156,Ricky Yang,Dimitri Jungo,8,9,157,2010-06-29,2010 WPA World 9-Ball Championship
+157,Taher Hussain,Oliver Ortmann,2,9,158,2010-06-29,2010 WPA World 9-Ball Championship
+158,David Alcaide,Ronato Alcano,5,9,159,2010-06-29,2010 WPA World 9-Ball Championship
+159,Dimitri Jungo,Oliver Ortmann,9,6,160,2010-06-29,2010 WPA World 9-Ball Championship
+160,Chang Jung Lin,Jeffry De Luna,9,11,161,2010-06-29,2010 WPA World 9-Ball Championship
+161,Francisco Felicilda,Bashar Hussain,11,7,162,2010-06-29,2010 WPA World 9-Ball Championship
+162,Raymund Farun,Artem Koshovoj,11,8,163,2010-06-29,2010 WPA World 9-Ball Championship
+163,Scott Higgins,Charles Williams,11,9,164,2010-06-29,2010 WPA World 9-Ball Championship
+164,Lu Hui Chan,Marlon Manalo,8,11,165,2010-06-29,2010 WPA World 9-Ball Championship
+165,Shane Van Boening,Joven Alba,11,7,166,2010-06-29,2010 WPA World 9-Ball Championship
+166,Francisco Bustamante,Oliver Ortmann,11,2,167,2010-06-29,2010 WPA World 9-Ball Championship
+167,Ko Pin Yi,Ernesto Dominguez,11,3,168,2010-06-29,2010 WPA World 9-Ball Championship
+168,Jeffry De Luna,Francisco Felicilda,10,11,169,2010-06-29,2010 WPA World 9-Ball Championship
+169,Raymund Farun,Scott Higgins,11,10,170,2010-06-29,2010 WPA World 9-Ball Championship
+170,Marlon Manalo,Shane Van Boening,11,7,171,2010-06-29,2010 WPA World 9-Ball Championship
+171,Francisco Bustamante,Ko Pin Yi,11,8,172,2010-06-29,2010 WPA World 9-Ball Championship
+172,Francisco Felicilda,Raymund Farun,11,8,173,2010-06-29,2010 WPA World 9-Ball Championship
+173,Marlon Manalo,Francisco Bustamante,6,11,174,2010-06-29,2010 WPA World 9-Ball Championship
+174,Francisco Felicilda,Francisco Felicilda,5,5,175,2010-06-29,2010 WPA World 9-Ball Championship
+175,Francisco Bustamante,Francisco Bustamante,11,11,176,2010-06-29,2010 WPA World 9-Ball Championship
+176,Tony Drago,Lee Van Corteza,11,7,177,2010-06-29,2010 WPA World 9-Ball Championship
+177,Craig Osbome,Antonio Gabica,11,4,178,2010-06-29,2010 WPA World 9-Ball Championship
+178,Oliver Medenilla,Yukio Akakariyama,11,9,179,2010-06-29,2010 WPA World 9-Ball Championship
+179,Nitiwat Kanjanasri,So Shaw,11,4,180,2010-06-29,2010 WPA World 9-Ball Championship
+180,Hanni Al Howri,Nguyen Phuc Long,2,11,181,2010-06-29,2010 WPA World 9-Ball Championship
+181,Antonio Lining,Lee Poh Soon,11,7,182,2010-06-29,2010 WPA World 9-Ball Championship
+182,Dimitri Jungo,Yousseff Jaffar,11,2,183,2010-06-29,2010 WPA World 9-Ball Championship
+183,Mika Immonen,Lee Chenman,3,11,184,2010-06-29,2010 WPA World 9-Ball Championship
+184,Tony Drago,Craig Osbome,8,11,185,2010-06-29,2010 WPA World 9-Ball Championship
+185,Oliver Medenilla,Nitiwat Kanjanasri,11,9,186,2010-06-29,2010 WPA World 9-Ball Championship
+186,Nguyen Phuc Long,Antonio Lining,6,11,187,2010-06-29,2010 WPA World 9-Ball Championship
+187,Dimitri Jungo,Lee Chenman,11,8,188,2010-06-29,2010 WPA World 9-Ball Championship
+188,Craig Osbome,Oliver Medenilla,9,11,189,2010-06-29,2010 WPA World 9-Ball Championship
+189,Antonio Lining,Dimitri Jungo,11,8,190,2010-06-29,2010 WPA World 9-Ball Championship
+190,Oliver Medenilla,Oliver Medenilla,10,10,191,2010-06-29,2010 WPA World 9-Ball Championship
+191,Antonio Lining,Antonio Lining,11,11,192,2010-06-29,2010 WPA World 9-Ball Championship
+192,Masaaki Tanaka,Alain Martel,11,8,193,2010-06-29,2010 WPA World 9-Ball Championship
+193,Israel Rota,Jason Klatt,8,11,194,2010-06-29,2010 WPA World 9-Ball Championship
+194,Johnny Archer,Efren Reyes,11,10,195,2010-06-29,2010 WPA World 9-Ball Championship
+195,Dennis Orcollo,Bruno Muratore,7,11,196,2010-06-29,2010 WPA World 9-Ball Championship
+196,Stephan Cohen,Mariusz Skoneczny,9,11,197,2010-06-29,2010 WPA World 9-Ball Championship
+197,Sandor Tot,Marcus Chamat,11,5,198,2010-06-29,2010 WPA World 9-Ball Championship
+198,Vinancio Tanio,Ralf Souquet,11,2,199,2010-06-29,2010 WPA World 9-Ball Championship
+199,Hayato Hijikata,Liu Haitao,11,11,200,2010-06-29,2010 WPA World 9-Ball Championship
+200,Masaaki Tanaka,Jason Klatt,10,11,201,2010-06-29,2010 WPA World 9-Ball Championship
+201,Johnny Archer,Bruno Muratore,11,7,202,2010-06-29,2010 WPA World 9-Ball Championship
+202,Mariusz Skoneczny,Sandor Tot,6,11,203,2010-06-29,2010 WPA World 9-Ball Championship
+203,Vinancio Tanio,Hayato Hijikata,5,11,204,2010-06-29,2010 WPA World 9-Ball Championship
+204,Jason Klatt,Johnny Archer,8,11,205,2010-06-29,2010 WPA World 9-Ball Championship
+205,Sandor Tot,Hayato Hijikata,11,8,206,2010-06-29,2010 WPA World 9-Ball Championship
+206,Johnny Archer,Johnny Archer,11,11,207,2010-06-29,2010 WPA World 9-Ball Championship
+207,Sandor Tot,Sandor Tot,6,6,208,2010-06-29,2010 WPA World 9-Ball Championship
+208,Yang Ching Shun,David Alcaide,11,7,209,2010-06-29,2010 WPA World 9-Ball Championship
+209,Alen Cuarcero,Nick van den Berg,6,11,210,2010-06-29,2010 WPA World 9-Ball Championship
+210,Ibrahim Bin Amir,Chan Keng Kwang,11,7,211,2010-06-29,2010 WPA World 9-Ball Championship
+211,John Morra,Kuo Po Chen,9,11,212,2010-06-29,2010 WPA World 9-Ball Championship
+212,Christian Reimering,Carlo Dalmatin,11,9,213,2010-06-29,2010 WPA World 9-Ball Championship
+213,Konstantin Stepanov,Tohru Kuribayashi,9,11,214,2010-06-29,2010 WPA World 9-Ball Championship
+214,Dang Jinhu,Chris Melling,11,2,215,2010-06-29,2010 WPA World 9-Ball Championship
+215,Ronato Alcano,Muhammad Zulfikri,11,6,216,2010-06-29,2010 WPA World 9-Ball Championship
+216,Yang Ching Shun,Nick van den Berg,11,9,217,2010-06-29,2010 WPA World 9-Ball Championship
+217,Ibrahim Bin Amir,Kuo Po Chen,10,11,218,2010-06-29,2010 WPA World 9-Ball Championship
+218,Christian Reimering,Tohru Kuribayashi,11,6,219,2010-06-29,2010 WPA World 9-Ball Championship
+219,Dang Jinhu,Ronato Alcano,7,11,220,2010-06-29,2010 WPA World 9-Ball Championship
+220,Yang Ching Shun,Kuo Po Chen,9,11,221,2010-06-29,2010 WPA World 9-Ball Championship
+221,Christian Reimering,Ronato Alcano,11,8,222,2010-06-29,2010 WPA World 9-Ball Championship
+222,Kuo Po Chen,Ronato Alcano,11,5,223,2010-06-29,2010 WPA World 9-Ball Championship
+223,Francisco Bustamante,Antonio Lining,11,5,224,2010-06-29,2010 WPA World 9-Ball Championship
+224,Johnny Archer,Kuo Po Chen,10,11,225,2010-06-29,2010 WPA World 9-Ball Championship
+225,Francisco Bustamante,Kuo Po Chen,13,7,226,2010-06-29,2010 WPA World 9-Ball Championship
+226,Ralf Souquet,Serge Das,11,5,1,2011-06-25,2011 WPA World 9-Ball Championship
+227,Radosław Babica,Mariusz Skoneczny,7,11,2,2011-06-25,2011 WPA World 9-Ball Championship
+228,Thorsten Hohmann,Lo Li-wen,7,11,3,2011-06-25,2011 WPA World 9-Ball Championship
+229,Nick van den Berg,Vicenancio Tanio,7,11,4,2011-06-25,2011 WPA World 9-Ball Championship
+230,Ralf Souquet,Mariusz Skoneczny,11,2,5,2011-06-25,2011 WPA World 9-Ball Championship
+231,Lo Li-wen,Vicenancio Tanio,6,11,6,2011-06-25,2011 WPA World 9-Ball Championship
+232,Ralf Souquet,Vicenancio Tanio,9,11,7,2011-06-25,2011 WPA World 9-Ball Championship
+233,Carlo Dalmatin,Hsu Kai Lun,11,7,8,2011-06-25,2011 WPA World 9-Ball Championship
+234,Yukio Akakariyama,Soheil Vahedi,11,7,9,2011-06-25,2011 WPA World 9-Ball Championship
+235,Oliver Medenilla,Lee Van Corteza,5,11,10,2011-06-25,2011 WPA World 9-Ball Championship
+236,Carlo Biado,Takhti Zarekani,11,6,11,2011-06-25,2011 WPA World 9-Ball Championship
+237,Carlo Dalmatin,Yukio Akakariyama,8,11,12,2011-06-25,2011 WPA World 9-Ball Championship
+238,Lee Van Corteza,Carlo Biado,10,11,13,2011-06-25,2011 WPA World 9-Ball Championship
+239,Yukio Akakariyama,Carlo Biado,11,9,14,2011-06-25,2011 WPA World 9-Ball Championship
+240,Mika Immonen,Antonio Gabica,10,11,15,2011-06-25,2011 WPA World 9-Ball Championship
+241,Imran Majid,Naoyuki Ōi,4,11,16,2011-06-25,2011 WPA World 9-Ball Championship
+242,Chris Melling,Hwang Yong,11,2,17,2011-06-25,2011 WPA World 9-Ball Championship
+243,Kuo Po-Cheng,Mark Gray,10,11,18,2011-06-25,2011 WPA World 9-Ball Championship
+244,Antonio Gabica,Naoyuki Ōi,11,6,19,2011-06-25,2011 WPA World 9-Ball Championship
+245,Chris Melling,Mark Gray,10,11,20,2011-06-25,2011 WPA World 9-Ball Championship
+246,Antonio Gabica,Mark Gray,5,11,21,2011-06-25,2011 WPA World 9-Ball Championship
+247,Darren Appleton,Dang Jinhu,11,6,22,2011-06-25,2011 WPA World 9-Ball Championship
+248,Alan Cuartero,Ahmad Taufiq Murni,11,9,23,2011-06-25,2011 WPA World 9-Ball Championship
+249,Shane Van Boening,Konstantin Stepanov,11,8,24,2011-06-25,2011 WPA World 9-Ball Championship
+250,Chang Jun Lin,Joven Alba,11,5,25,2011-06-25,2011 WPA World 9-Ball Championship
+251,Darren Appleton,Alan Cuartero,11,4,26,2011-06-25,2011 WPA World 9-Ball Championship
+252,Shane Van Boening,Chang Jun Lin,11,5,27,2011-06-25,2011 WPA World 9-Ball Championship
+253,Darren Appleton,Shane Van Boening,10,11,28,2011-06-25,2011 WPA World 9-Ball Championship
+254,Chris Orme,Ronnie Alcano,7,11,29,2011-06-25,2011 WPA World 9-Ball Championship
+255,Raj Hundal,Tomoo Takano,11,10,30,2011-06-25,2011 WPA World 9-Ball Championship
+256,Chang Yu-lung,Israel Rota,11,9,31,2011-06-25,2011 WPA World 9-Ball Championship
+257,Niels Feijen,Scott Higgins,10,11,32,2011-06-25,2011 WPA World 9-Ball Championship
+258,Ronnie Alcano,Raj Hundal,11,9,33,2011-06-25,2011 WPA World 9-Ball Championship
+259,Chang Yu-lung,Scott Higgins,11,4,34,2011-06-25,2011 WPA World 9-Ball Championship
+260,Ronnie Alcano,Chang Yu-lung,11,5,35,2011-06-25,2011 WPA World 9-Ball Championship
+261,Antonio Lining,Oliver Ortmann,11,5,36,2011-06-25,2011 WPA World 9-Ball Championship
+262,Roman Hybler,Liu Haitao,11,7,37,2011-06-25,2011 WPA World 9-Ball Championship
+263,Mario He,Hunter Lombardo,8,11,38,2011-06-25,2011 WPA World 9-Ball Championship
+264,Huidji See,Tōru Kuribayashi,8,11,39,2011-06-25,2011 WPA World 9-Ball Championship
+265,Antonio Lining,Roman Hybler,11,5,40,2011-06-25,2011 WPA World 9-Ball Championship
+266,Hunter Lombardo,Tōru Kuribayashi,4,11,41,2011-06-25,2011 WPA World 9-Ball Championship
+267,Antonio Lining,Tōru Kuribayashi,9,11,42,2011-06-25,2011 WPA World 9-Ball Championship
+268,Dennis Orcullo,Muhammad Zulfikri,11,9,43,2011-06-25,2011 WPA World 9-Ball Championship
+269,Efren Reyes,Caneda Villamor,5,11,44,2011-06-25,2011 WPA World 9-Ball Championship
+270,Francisco Bustamante,Sascha-Andrej Tege,11,4,45,2011-06-25,2011 WPA World 9-Ball Championship
+271,Carlos Cabello,Riyan Setiawan,8,11,46,2011-06-25,2011 WPA World 9-Ball Championship
+272,Dennis Orcullo,Caneda Villamor,11,6,47,2011-06-25,2011 WPA World 9-Ball Championship
+273,Francisco Bustamante,Riyan Setiawan,11,10,48,2011-06-25,2011 WPA World 9-Ball Championship
+274,Dennis Orcullo,Francisco Bustamante,11,7,49,2011-06-25,2011 WPA World 9-Ball Championship
+275,Jeffrey de Luna,Fu Che-wei,9,11,50,2011-06-25,2011 WPA World 9-Ball Championship
+276,Daryl Peach,Roberto Gomez,11,4,51,2011-06-25,2011 WPA World 9-Ball Championship
+277,Stephan Cohen,Raymund Faron,11,9,52,2011-06-25,2011 WPA World 9-Ball Championship
+278,Karl Boyes,Ko Pin-yi,8,11,53,2011-06-25,2011 WPA World 9-Ball Championship
+279,Fu Che-wei,Daryl Peach,1,11,54,2011-06-25,2011 WPA World 9-Ball Championship
+280,Stephan Cohen,Ko Pin-yi,3,11,55,2011-06-25,2011 WPA World 9-Ball Championship
+281,Daryl Peach,Ko Pin-yi,11,9,56,2011-06-25,2011 WPA World 9-Ball Championship
+282,Vicenancio Tanio,Yukio Akakariyama,10,11,57,2011-06-25,2011 WPA World 9-Ball Championship
+283,Mark Gray,Shane Van Boening,11,9,58,2011-06-25,2011 WPA World 9-Ball Championship
+284,Ronnie Alcano,Tōru Kuribayashi,11,10,59,2011-06-25,2011 WPA World 9-Ball Championship
+285,Dennis Orcullo,Daryl Peach,11,4,60,2011-06-25,2011 WPA World 9-Ball Championship
+286,Yukio Akakariyama,Mark Gray,11,10,61,2011-06-25,2011 WPA World 9-Ball Championship
+287,Ronnie Alcano,Dennis Orcullo,11,9,62,2011-06-25,2011 WPA World 9-Ball Championship
+288,Yukio Akakariyama,Ronnie Alcano,13,11,63,2011-06-25,2011 WPA World 9-Ball Championship
+289,Ralf Souquet,Nick Malai,11,4,1,2012-06-22,2012 WPA World 9-Ball Championship
+290,Jonny Martinez,Takashi Uraoka,11,8,2,2012-06-22,2012 WPA World 9-Ball Championship
+291,Fu Che-wei,Andrea Klasovic,11,4,3,2012-06-22,2012 WPA World 9-Ball Championship
+292,Jayson Shaw,Bruno Muratore,6,11,4,2012-06-22,2012 WPA World 9-Ball Championship
+293,Aki Heiskanen,Hsu Kai-lun,5,11,5,2012-06-22,2012 WPA World 9-Ball Championship
+294,Andrew Kong,Dennis Orcollo,8,11,6,2012-06-22,2012 WPA World 9-Ball Championship
+295,Nick van den Berg,Marlon Caneda,11,6,7,2012-06-22,2012 WPA World 9-Ball Championship
+296,Han Haoxiang,Israel Rota,11,8,8,2012-06-22,2012 WPA World 9-Ball Championship
+297,Lee Van Corteza,Serge Das,11,4,9,2012-06-22,2012 WPA World 9-Ball Championship
+298,Tony Drago,Mika Immonen,10,11,10,2012-06-22,2012 WPA World 9-Ball Championship
+299,Antonio Gabica,Mario He,11,7,11,2012-06-22,2012 WPA World 9-Ball Championship
+300,Vincent Facquet,Yang Ching-shun,4,11,12,2012-06-22,2012 WPA World 9-Ball Championship
+301,Majed Alazmi,Khaled al-Mutairi,8,11,13,2012-06-22,2012 WPA World 9-Ball Championship
+302,Chang Yu-Lung,Omar al-Shaheen,10,11,14,2012-06-22,2012 WPA World 9-Ball Championship
+303,John Morra,Elvis Calasang,11,7,15,2012-06-22,2012 WPA World 9-Ball Championship
+304,Jason Klatt,Li Hewen,9,11,16,2012-06-22,2012 WPA World 9-Ball Championship
+305,Carlo Biado,Naoyuki Ōi,10,11,17,2012-06-22,2012 WPA World 9-Ball Championship
+306,Chang Jung-Lin,Joven Alba,11,2,18,2012-06-22,2012 WPA World 9-Ball Championship
+307,Thorsten Hohmann,Badr al-Awadi,11,4,19,2012-06-22,2012 WPA World 9-Ball Championship
+308,Thomas Engert,Yukio Akakariyama,9,11,20,2012-06-22,2012 WPA World 9-Ball Championship
+309,Karl Boyes,Do The Kien,11,9,21,2012-06-22,2012 WPA World 9-Ball Championship
+310,Francisco Bustamante,Chao Fong-Pang,6,11,22,2012-06-22,2012 WPA World 9-Ball Championship
+311,Manuel Gama,Dominic Jentsch,6,11,23,2012-06-22,2012 WPA World 9-Ball Championship
+312,Efren Reyes,Toh Lian Han,11,6,24,2012-06-22,2012 WPA World 9-Ball Championship
+313,Roberto Gomez,Liu Haitao (pool player),4,11,25,2012-06-22,2012 WPA World 9-Ball Championship
+314,konomopoulos,Ryu Seung-woo,11,5,26,2012-06-22,2012 WPA World 9-Ball Championship
+315,Matthew Edwards,Tōru Kuribayashi,11,7,27,2012-06-22,2012 WPA World 9-Ball Championship
+316,Darren Appleton,Mateusz Śniegocki,11,5,28,2012-06-22,2012 WPA World 9-Ball Championship
+317,Konstantin Stepanow,Ryoji Hori,11,5,29,2012-06-22,2012 WPA World 9-Ball Championship
+318,Ronato Alcano,Jundel Mazon,9,11,30,2012-06-22,2012 WPA World 9-Ball Championship
+319,Daryl Peach,Lo Li-wen,9,11,31,2012-06-22,2012 WPA World 9-Ball Championship
+320,Ko Pin-yi,Huidji See,11,6,32,2012-06-22,2012 WPA World 9-Ball Championship
+321,Ralf Souquet,Jonny Martinez,11,7,33,2012-06-22,2012 WPA World 9-Ball Championship
+322,Fu Che-wei,Bruno Muratore,9,11,34,2012-06-22,2012 WPA World 9-Ball Championship
+323,Hsu Kai-lun,Dennis Orcollo,8,11,35,2012-06-22,2012 WPA World 9-Ball Championship
+324,Nick van den Berg,Han Haoxiang,11,9,36,2012-06-22,2012 WPA World 9-Ball Championship
+325,Lee Van Corteza,Mika Immonen,5,11,37,2012-06-22,2012 WPA World 9-Ball Championship
+326,Antonio Gabica,Yang Ching-shun,11,9,38,2012-06-22,2012 WPA World 9-Ball Championship
+327,Khaled al-Mutairi,Omar al-Shaheen,6,11,39,2012-06-22,2012 WPA World 9-Ball Championship
+328,John Morra,Li Hewen,8,11,40,2012-06-22,2012 WPA World 9-Ball Championship
+329,Naoyuki Ōi,Chang Jung-Lin,11,3,41,2012-06-22,2012 WPA World 9-Ball Championship
+330,Thorsten Hohmann,Yukio Akakariyama,11,9,42,2012-06-22,2012 WPA World 9-Ball Championship
+331,Karl Boyes,Chao Fong-Pang,11,8,43,2012-06-22,2012 WPA World 9-Ball Championship
+332,Dominic Jentsch,Efren Reyes,11,10,44,2012-06-22,2012 WPA World 9-Ball Championship
+333,Liu Haitao (pool player),konomopoulos,8,11,45,2012-06-22,2012 WPA World 9-Ball Championship
+334,Matthew Edwards,Darren Appleton,10,11,46,2012-06-22,2012 WPA World 9-Ball Championship
+335,Konstantin Stepanow,Jundel Mazon,3,11,47,2012-06-22,2012 WPA World 9-Ball Championship
+336,Lo Li-wen,Ko Pin-yi,10,11,48,2012-06-22,2012 WPA World 9-Ball Championship
+337,Ralf Souquet,Bruno Muratore,11,4,49,2012-06-22,2012 WPA World 9-Ball Championship
+338,Dennis Orcollo,Nick van den Berg,6,11,50,2012-06-22,2012 WPA World 9-Ball Championship
+339,Mika Immonen,Antonio Gabica,9,11,51,2012-06-22,2012 WPA World 9-Ball Championship
+340,Omar al-Shaheen,Li Hewen,9,11,52,2012-06-22,2012 WPA World 9-Ball Championship
+341,Naoyuki Ōi,Thorsten Hohmann,11,9,53,2012-06-22,2012 WPA World 9-Ball Championship
+342,Karl Boyes,Dominic Jentsch,11,10,54,2012-06-22,2012 WPA World 9-Ball Championship
+343,konomopoulos,Darren Appleton,8,11,55,2012-06-22,2012 WPA World 9-Ball Championship
+344,Jundel Mazon,Ko Pin-yi,9,11,56,2012-06-22,2012 WPA World 9-Ball Championship
+345,Ralf Souquet,Nick van den Berg,11,9,57,2012-06-22,2012 WPA World 9-Ball Championship
+346,Antonio Gabica,Li Hewen,10,11,58,2012-06-22,2012 WPA World 9-Ball Championship
+347,Naoyuki Ōi,Karl Boyes,11,9,59,2012-06-22,2012 WPA World 9-Ball Championship
+348,Darren Appleton,Ko Pin-yi,11,9,60,2012-06-22,2012 WPA World 9-Ball Championship
+349,Ralf Souquet,Li Hewen,6,11,61,2012-06-22,2012 WPA World 9-Ball Championship
+350,Naoyuki Ōi,Darren Appleton,7,11,62,2012-06-22,2012 WPA World 9-Ball Championship
+351,Li Hewen,Darren Appleton,12,13,63,2012-06-22,2012 WPA World 9-Ball Championship
+352,Chang Jung-Lin,Oliver Ortmann,6,11,1,2013-09-02,2013 WPA World 9-Ball Championship
+353,Antonio Gabica,Ang Tuan Nguyen,11,8,2,2013-09-02,2013 WPA World 9-Ball Championship
+354,Ko Pin-yi,Ryu Seung-woo,11,2,3,2013-09-02,2013 WPA World 9-Ball Championship
+355,Mika Immonen,Alex Pagulayan,11,6,4,2013-09-02,2013 WPA World 9-Ball Championship
+356,Wu Jiaqing,Chao Fong-pang,11,8,5,2013-09-02,2013 WPA World 9-Ball Championship
+357,Nick van den Berg,Efren Reyes,11,5,6,2013-09-02,2013 WPA World 9-Ball Championship
+358,Toh Lian Han,Bu Hong Kong,11,5,7,2013-09-02,2013 WPA World 9-Ball Championship
+359,Hsu Kai-lun,Phil Burford,11,6,8,2013-09-02,2013 WPA World 9-Ball Championship
+360,Marlon Villamor,Karl Boyes,10,11,9,2013-09-02,2013 WPA World 9-Ball Championship
+361,Konstantin Stepanow,Huidji See,6,11,10,2013-09-02,2013 WPA World 9-Ball Championship
+362,Israel Rota,Mark Antony,11,8,11,2013-09-02,2013 WPA World 9-Ball Championship
+363,Lo Li-wen,Raymund Faraon,11,4,12,2013-09-02,2013 WPA World 9-Ball Championship
+364,Manuel Gama,Lee Van Corteza,7,11,13,2013-09-02,2013 WPA World 9-Ball Championship
+365,Daryl Peach,Corey Deuel,11,10,14,2013-09-02,2013 WPA World 9-Ball Championship
+366,Mario He,Mark Gray,11,7,15,2013-09-02,2013 WPA World 9-Ball Championship
+367,Wang Can,Nikos Ekonomopoulos,8,11,16,2013-09-02,2013 WPA World 9-Ball Championship
+368,Naoyuki Ōi,Dominic Jentsch,11,5,17,2013-09-02,2013 WPA World 9-Ball Championship
+369,Vilmos Földes,Khanh Hoang Nguyen,11,6,18,2013-09-02,2013 WPA World 9-Ball Championship
+370,Niels Feijen,Jeffrey de Luna,9,11,19,2013-09-02,2013 WPA World 9-Ball Championship
+371,Ruslan Chinahov,Muhammad Zulfikiri,7,11,20,2013-09-02,2013 WPA World 9-Ball Championship
+372,Darren Appleton,Ivo Aarts,11,3,21,2013-09-02,2013 WPA World 9-Ball Championship
+373,Tōru Kuribayashi,Thorsten Hohmann,10,11,22,2013-09-02,2013 WPA World 9-Ball Championship
+374,Nick Malai,John Morra,9,11,23,2013-09-02,2013 WPA World 9-Ball Championship
+375,Dennis Orcollo,Cheng Yu-hsuan,11,10,24,2013-09-02,2013 WPA World 9-Ball Championship
+376,Chang Yu-Lung,Chris Melling,7,11,25,2013-09-02,2013 WPA World 9-Ball Championship
+377,Enrique Rojas,Ramil Gallego,8,11,26,2013-09-02,2013 WPA World 9-Ball Championship
+378,David Alcaide,Imran Majid,11,8,27,2013-09-02,2013 WPA World 9-Ball Championship
+379,Jalal Yousef,Alexander Kazakis,11,6,28,2013-09-02,2013 WPA World 9-Ball Championship
+380,Ralf Souquet,Carlo Biado,5,11,29,2013-09-02,2013 WPA World 9-Ball Championship
+381,Shane Van Boening,Mohamad Ali Berjaoui,11,2,30,2013-09-02,2013 WPA World 9-Ball Championship
+382,Fabio Petroni,Dimitri Jungo,11,6,31,2013-09-02,2013 WPA World 9-Ball Championship
+383,Omar al-Shaheen,Marlon Manalo,5,11,32,2013-09-02,2013 WPA World 9-Ball Championship
+384,Oliver Ortmann,Antonio Gabica,8,11,33,2013-09-02,2013 WPA World 9-Ball Championship
+385,Ko Pin-yi,Mika Immonen,11,8,34,2013-09-02,2013 WPA World 9-Ball Championship
+386,Wu Jiaqing,Nick van den Berg,10,11,35,2013-09-02,2013 WPA World 9-Ball Championship
+387,Toh Lian Han,Hsu Kai-lun,9,11,36,2013-09-02,2013 WPA World 9-Ball Championship
+388,Karl Boyes,Huidji See,11,8,37,2013-09-02,2013 WPA World 9-Ball Championship
+389,Israel Rota,Lo Li-wen,2,11,38,2013-09-02,2013 WPA World 9-Ball Championship
+390,Lee Van Corteza,Daryl Peach,11,4,39,2013-09-02,2013 WPA World 9-Ball Championship
+391,Mario He,Nikos Ekonomopoulos,6,11,40,2013-09-02,2013 WPA World 9-Ball Championship
+392,Naoyuki Ōi,Vilmos Földes,7,11,41,2013-09-02,2013 WPA World 9-Ball Championship
+393,Jeffrey de Luna,Muhammad Zulfikiri,11,5,42,2013-09-02,2013 WPA World 9-Ball Championship
+394,Darren Appleton,Thorsten Hohmann,5,11,43,2013-09-02,2013 WPA World 9-Ball Championship
+395,John Morra,Dennis Orcollo,6,11,44,2013-09-02,2013 WPA World 9-Ball Championship
+396,Chris Melling,Ramil Gallego,11,7,45,2013-09-02,2013 WPA World 9-Ball Championship
+397,David Alcaide,Jalal Yousef,11,7,46,2013-09-02,2013 WPA World 9-Ball Championship
+398,Carlo Biado,Shane Van Boening,11,10,47,2013-09-02,2013 WPA World 9-Ball Championship
+399,Fabio Petroni,Marlon Manalo,11,7,48,2013-09-02,2013 WPA World 9-Ball Championship
+400,Antonio Gabica,Ko Pin-yi,11,9,49,2013-09-02,2013 WPA World 9-Ball Championship
+401,Nick van den Berg,Hsu Kai-lun,11,7,50,2013-09-02,2013 WPA World 9-Ball Championship
+402,Karl Boyes,Lo Li-wen,11,10,51,2013-09-02,2013 WPA World 9-Ball Championship
+403,Lee Van Corteza,Nikos Ekonomopoulos,9,11,52,2013-09-02,2013 WPA World 9-Ball Championship
+404,Vilmos Földes,Jeffrey de Luna,8,11,53,2013-09-02,2013 WPA World 9-Ball Championship
+405,Thorsten Hohmann,Dennis Orcollo,11,8,54,2013-09-02,2013 WPA World 9-Ball Championship
+406,Chris Melling,David Alcaide,11,8,55,2013-09-02,2013 WPA World 9-Ball Championship
+407,Carlo Biado,Fabio Petroni,11,10,56,2013-09-02,2013 WPA World 9-Ball Championship
+408,Antonio Gabica,Nick van den Berg,11,10,57,2013-09-02,2013 WPA World 9-Ball Championship
+409,Karl Boyes,Nikos Ekonomopoulos,11,8,58,2013-09-02,2013 WPA World 9-Ball Championship
+410,Jeffrey de Luna,Thorsten Hohmann,7,11,59,2013-09-02,2013 WPA World 9-Ball Championship
+411,Chris Melling,Carlo Biado,3,11,60,2013-09-02,2013 WPA World 9-Ball Championship
+412,Antonio Gabica,Karl Boyes,11,6,61,2013-09-02,2013 WPA World 9-Ball Championship
+413,Thorsten Hohmann,Carlo Biado,11,4,62,2013-09-02,2013 WPA World 9-Ball Championship
+414,Antonio Gabica,Thorsten Hohmann,6,13,63,2013-09-02,2013 WPA World 9-Ball Championship
+415,Wang Can,Warren Kiamco,11,9,1,2014-06-21,2014 WPA World 9-Ball Championship
+416,Raymund Faraon,Liu Cheng-chieh,11,5,2,2014-06-21,2014 WPA World 9-Ball Championship
+417,Elmer Haya,Francisco Felicilda,11,4,3,2014-06-21,2014 WPA World 9-Ball Championship
+418,Hayato Hijikata,Masaaki Tanaka,11,8,4,2014-06-21,2014 WPA World 9-Ball Championship
+419,Waleed Majid,Lee Van Corteza,11,6,5,2014-06-21,2014 WPA World 9-Ball Championship
+420,Darren Appleton,Daryl Peach,11,3,6,2014-06-21,2014 WPA World 9-Ball Championship
+421,Konstantin Stepanow,Andreas Gerwen,11,8,7,2014-06-21,2014 WPA World 9-Ball Championship
+422,Johann Chua,Daniele Corrieri,11,4,8,2014-06-21,2014 WPA World 9-Ball Championship
+423,Mario He,Alex Pagulayan,11,9,9,2014-06-21,2014 WPA World 9-Ball Championship
+424,Jayson Shaw,Jeong Young-hwa,9,11,10,2014-06-21,2014 WPA World 9-Ball Championship
+425,Radosław Babica,Manuel Gama,11,3,11,2014-06-21,2014 WPA World 9-Ball Championship
+426,Niels Feijen,Salaheldeen Al Rimawi,11,4,12,2014-06-21,2014 WPA World 9-Ball Championship
+427,Carlo Biado,Mieszko Fortuński,11,6,13,2014-06-21,2014 WPA World 9-Ball Championship
+428,Jeffrey de Luna,Jason Klatt,6,11,14,2014-06-21,2014 WPA World 9-Ball Championship
+429,Dennis Orcollo,Naoyuki Ōi,8,11,15,2014-06-21,2014 WPA World 9-Ball Championship
+430,Ko Pin-yi,Sundeep Gulati,11,3,16,2014-06-21,2014 WPA World 9-Ball Championship
+431,Fu Che-wei,Hsu Kai-lun,6,11,17,2014-06-21,2014 WPA World 9-Ball Championship
+432,Wu Jiaqing,Lo Li-wen,11,4,18,2014-06-21,2014 WPA World 9-Ball Championship
+433,Huidji See,Stephan Cohen,5,11,19,2014-06-21,2014 WPA World 9-Ball Championship
+434,Cheng Yu-hsuan,Chang Yu-Lung,9,11,20,2014-06-21,2014 WPA World 9-Ball Championship
+435,Shane Van Boening,Chang Jung-Lin,11,9,21,2014-06-21,2014 WPA World 9-Ball Championship
+436,Dang Jinhu,Karl Boyes,11,6,22,2014-06-21,2014 WPA World 9-Ball Championship
+437,Tōru Kuribayashi,Alexander Kazakis,11,9,23,2014-06-21,2014 WPA World 9-Ball Championship
+438,Nikos Ekonomopoulos,Fabio Petroni,11,5,24,2014-06-21,2014 WPA World 9-Ball Championship
+439,Antonio Gabica,Mehdi Rasekhi,11,7,25,2014-06-21,2014 WPA World 9-Ball Championship
+440,Bruno Muratore,Ryu Seung-woo,7,11,26,2014-06-21,2014 WPA World 9-Ball Championship
+441,Mika Immonen,Roman Hybler,7,11,27,2014-06-21,2014 WPA World 9-Ball Championship
+442,Oliver Ortmann,Albin Ouschan,5,11,28,2014-06-21,2014 WPA World 9-Ball Championship
+443,Li Hewen,Dimitri Jungo,11,7,29,2014-06-21,2014 WPA World 9-Ball Championship
+444,Thorsten Hohmann,Marco Teutscher,9,11,30,2014-06-21,2014 WPA World 9-Ball Championship
+445,Nick van den Berg,Aloysius Yapp,11,8,31,2014-06-21,2014 WPA World 9-Ball Championship
+446,Ralf Souquet,Ramil Gallego,10,11,32,2014-06-21,2014 WPA World 9-Ball Championship
+447,Wang Can,Raymund Faraon,7,11,33,2014-06-21,2014 WPA World 9-Ball Championship
+448,Elmer Haya,Hayato Hijikata,11,8,34,2014-06-21,2014 WPA World 9-Ball Championship
+449,Waleed Majid,Darren Appleton,11,9,35,2014-06-21,2014 WPA World 9-Ball Championship
+450,Konstantin Stepanov,Johann Chua,3,11,36,2014-06-21,2014 WPA World 9-Ball Championship
+451,Mario He,Jeong Young-hwa,11,10,37,2014-06-21,2014 WPA World 9-Ball Championship
+452,Radosław Babica,Niels Feijen,6,11,38,2014-06-21,2014 WPA World 9-Ball Championship
+453,Carlo Biado,Jason Klatt,11,5,39,2014-06-21,2014 WPA World 9-Ball Championship
+454,Naoyuki Ōi,Ko Pin-yi,10,11,40,2014-06-21,2014 WPA World 9-Ball Championship
+455,Hsu Kai-lun,Wu Jiaqing,10,11,41,2014-06-21,2014 WPA World 9-Ball Championship
+456,Stephan Cohen,Chang Yu-Lung,6,11,42,2014-06-21,2014 WPA World 9-Ball Championship
+457,Shane Van Boening,Dang Jinhu,11,4,43,2014-06-21,2014 WPA World 9-Ball Championship
+458,Tōru Kuribayashi,Nikos Ekonomopoulos,11,9,44,2014-06-21,2014 WPA World 9-Ball Championship
+459,Antonio Gabica,Ryu Seung-woo,11,6,45,2014-06-21,2014 WPA World 9-Ball Championship
+460,Roman Hybler,Albin Ouschan,9,11,46,2014-06-21,2014 WPA World 9-Ball Championship
+461,Li Hewen,Marco Teutscher,11,8,47,2014-06-21,2014 WPA World 9-Ball Championship
+462,Nick van den Berg,Ramil Gallego,11,8,48,2014-06-21,2014 WPA World 9-Ball Championship
+463,Raymund Faraon,Elmer Haya,8,11,49,2014-06-21,2014 WPA World 9-Ball Championship
+464,Waleed Majid,Johann Chua,8,11,50,2014-06-21,2014 WPA World 9-Ball Championship
+465,Mario He,Niels Feijen,6,11,51,2014-06-21,2014 WPA World 9-Ball Championship
+466,Carlo Biado,Ko Pin-yi,11,7,52,2014-06-21,2014 WPA World 9-Ball Championship
+467,Wu Jiaqing,Chang Yu-Lung,10,11,53,2014-06-21,2014 WPA World 9-Ball Championship
+468,Shane Van Boening,Tōru Kuribayashi,11,5,54,2014-06-21,2014 WPA World 9-Ball Championship
+469,Antonio Gabica,Albin Ouschan,9,11,55,2014-06-21,2014 WPA World 9-Ball Championship
+470,Li Hewen,Nick van den Berg,11,7,56,2014-06-21,2014 WPA World 9-Ball Championship
+471,Elmer Haya,Johann Chua,11,8,57,2014-06-21,2014 WPA World 9-Ball Championship
+472,Niels Feijen,Carlo Biado,11,7,58,2014-06-21,2014 WPA World 9-Ball Championship
+473,Chang Yu-Lung,Shane Van Boening,11,8,59,2014-06-21,2014 WPA World 9-Ball Championship
+474,Albin Ouschan,Li Hewen,11,8,60,2014-06-21,2014 WPA World 9-Ball Championship
+475,Elmer Haya,Niels Feijen,7,11,61,2014-06-21,2014 WPA World 9-Ball Championship
+476,Chang Yu-Lung,Albin Ouschan,7,11,62,2014-06-21,2014 WPA World 9-Ball Championship
+477,Niels Feijen,Albin Ouschan,13,10,63,2014-06-21,2014 WPA World 9-Ball Championship
+478,Hunter Lombardo,Bashar Hussain,9,8,1,2015-09-07,2015 WPA World 9-Ball Championship
+479,Irsal Nasution,Albin Ouschan,8,9,2,2015-09-07,2015 WPA World 9-Ball Championship
+480,Khaled Farag,Hunter Lombardo,5,9,3,2015-09-07,2015 WPA World 9-Ball Championship
+481,Irsal Nasution,Konstantin Stepanow,9,5,4,2015-09-07,2015 WPA World 9-Ball Championship
+482,Albin Ouschan,Khaled Farag,9,5,5,2015-09-07,2015 WPA World 9-Ball Championship
+483,Satoshi Kawabata,Hunter Lombardo,9,6,6,2015-09-07,2015 WPA World 9-Ball Championship
+484,Bashar Hussain,Irsal Nasution,9,5,7,2015-09-07,2015 WPA World 9-Ball Championship
+485,Konstantin Stepanow,Wu Kun-lin,7,9,8,2015-09-07,2015 WPA World 9-Ball Championship
+486,Albin Ouschan,Satoshi Kawabata,8,9,9,2015-09-07,2015 WPA World 9-Ball Championship
+487,Bashar Hussain,Wu Kun-lin,4,9,10,2015-09-07,2015 WPA World 9-Ball Championship
+488,Tōru Kuribayashi,Radosław Babica,9,8,11,2015-09-07,2015 WPA World 9-Ball Championship
+489,Abdullah al-Yousef,Marc Bijsterbosch,8,9,12,2015-09-07,2015 WPA World 9-Ball Championship
+490,Tōru Kuribayashi,Mohd Al Bin Ali,9,8,13,2015-09-07,2015 WPA World 9-Ball Championship
+491,Abdullah al-Yousef,Bader al-Awadhi,9,6,14,2015-09-07,2015 WPA World 9-Ball Championship
+492,Wang Can,Tōru Kuribayashi,9,6,15,2015-09-07,2015 WPA World 9-Ball Championship
+493,Marc Bijsterbosch,Mohd Al Bin Ali,9,4,16,2015-09-07,2015 WPA World 9-Ball Championship
+494,Radosław Babica,Abdullah al-Yousef,9,3,17,2015-09-07,2015 WPA World 9-Ball Championship
+495,Rubén Bautista,Bader al-Awadhi,9,7,18,2015-09-07,2015 WPA World 9-Ball Championship
+496,Wang Can,Marc Bijsterbosch,9,4,19,2015-09-07,2015 WPA World 9-Ball Championship
+497,Radosław Babica,Rubén Bautista,8,9,20,2015-09-07,2015 WPA World 9-Ball Championship
+498,Mehdi Rasekhi,Yang Ching-shun,5,9,21,2015-09-07,2015 WPA World 9-Ball Championship
+499,Waleed Majid,Justin Campbell,5,9,22,2015-09-07,2015 WPA World 9-Ball Championship
+500,Roman Hybler,Mehdi Rasekhi,7,9,23,2015-09-07,2015 WPA World 9-Ball Championship
+501,Waleed Majid,Francisco Sánchez,9,5,24,2015-09-07,2015 WPA World 9-Ball Championship
+502,Li Hewen,Roman Hybler,9,8,25,2015-09-07,2015 WPA World 9-Ball Championship
+503,Justin Campbell,Mehdi Rasekhi,9,2,26,2015-09-07,2015 WPA World 9-Ball Championship
+504,Waleed Majid,Yang Ching-shun,6,9,27,2015-09-07,2015 WPA World 9-Ball Championship
+505,Francisco Sánchez,Yukio Akakariyama,8,9,28,2015-09-07,2015 WPA World 9-Ball Championship
+506,Li Hewen,Justin Campbell,9,2,29,2015-09-07,2015 WPA World 9-Ball Championship
+507,Yang Ching-shun,Yukio Akakariyama,6,9,30,2015-09-07,2015 WPA World 9-Ball Championship
+508,Mohammed Saeed (pool player),Zhou Long (Poolbillardspieler) [Zhou ,5,9,31,2015-09-07,2015 WPA World 9-Ball Championship
+509,Marco Teutscher,Pordel Mohammadali,9,3,32,2015-09-07,2015 WPA World 9-Ball Championship
+510,Francois Ellis,Mohammed Saeed (pool player),3,9,33,2015-09-07,2015 WPA World 9-Ball Championship
+511,Mohamed Shareef,Marco Teutscher,0,9,34,2015-09-07,2015 WPA World 9-Ball Championship
+512,Raymund Faraon,Francois Ellis,9,3,35,2015-09-07,2015 WPA World 9-Ball Championship
+513,Pordel Mohammadali,Mohammed Saeed,9,6,36,2015-09-07,2015 WPA World 9-Ball Championship
+514,Nikos Ekonomopoulos,Mohamed Shareef,9,1,37,2015-09-07,2015 WPA World 9-Ball Championship
+515,Marco Teutscher,Zhou Long,7,9,38,2015-09-07,2015 WPA World 9-Ball Championship
+516,Raymund Faraon,Pordel Mohammadali,9,4,39,2015-09-07,2015 WPA World 9-Ball Championship
+517,Nikos Ekonomopoulos,Zhou Long,9,6,40,2015-09-07,2015 WPA World 9-Ball Championship
+518,Vegar Kristiansen,Oliver Medenilla,6,9,41,2015-09-07,2015 WPA World 9-Ball Championship
+519,Shannon Ducharme,Warren Kiamco,6,9,42,2015-09-07,2015 WPA World 9-Ball Championship
+520,Vegar Kristiansen,Jeong Young-hwa,9,7,43,2015-09-07,2015 WPA World 9-Ball Championship
+521,Shannon Ducharme,Mohanna Obaidly,9,8,44,2015-09-07,2015 WPA World 9-Ball Championship
+522,Warren Kiamco,Vegar Kristiansen,9,2,45,2015-09-07,2015 WPA World 9-Ball Championship
+523,Jeong Young-hwa,Wojciech Szewczyk,2,9,46,2015-09-07,2015 WPA World 9-Ball Championship
+524,Wu Jiaqing,Shannon Ducharme,9,5,47,2015-09-07,2015 WPA World 9-Ball Championship
+525,Mohanna Obaidly,Oliver Medenilla,2,9,48,2015-09-07,2015 WPA World 9-Ball Championship
+526,Warren Kiamco,Wojciech Szewczyk,5,9,49,2015-09-07,2015 WPA World 9-Ball Championship
+527,Wu Jiaqing,Oliver Medenilla,9,2,50,2015-09-07,2015 WPA World 9-Ball Championship
+528,Chang Jung-Lin,Johann Chua,6,9,51,2015-09-07,2015 WPA World 9-Ball Championship
+529,Ali Obaidly,Ralf Souquet,5,9,52,2015-09-07,2015 WPA World 9-Ball Championship
+530,Chang Jung-Lin,Mohammad Sharif (pool player),9,4,53,2015-09-07,2015 WPA World 9-Ball Championship
+531,Ali Obaidly,Hichem Benaissa,9,3,54,2015-09-07,2015 WPA World 9-Ball Championship
+532,Chang Jung-Lin,Ralf Souquet,8,9,55,2015-09-07,2015 WPA World 9-Ball Championship
+533,Mateusz Śniegocki,Mohammad Sharif,9,8,56,2015-09-07,2015 WPA World 9-Ball Championship
+534,Johann Chua,Ali Obaidly,9,7,57,2015-09-07,2015 WPA World 9-Ball Championship
+535,Hichem Benaissa,Abdul Rahman al-Amar,3,9,58,2015-09-07,2015 WPA World 9-Ball Championship
+536,Ralf Souquet,Mateusz Śniegocki,1,9,59,2015-09-07,2015 WPA World 9-Ball Championship
+537,Johann Chua,Abdul Rahman al-Amar,7,9,60,2015-09-07,2015 WPA World 9-Ball Championship
+538,Nick van den Berg,Ruslan Tschinachow,4,9,61,2015-09-07,2015 WPA World 9-Ball Championship
+539,Lee Van Corteza,Tom Teriault,9,2,62,2015-09-07,2015 WPA World 9-Ball Championship
+540,Nick van den Berg,Abdultif Fawal,9,3,63,2015-09-07,2015 WPA World 9-Ball Championship
+541,Lee Van Corteza,Mohamed al-Hosani,9,7,64,2015-09-07,2015 WPA World 9-Ball Championship
+542,Nick van den Berg,Naoyuki Ōi,5,9,65,2015-09-07,2015 WPA World 9-Ball Championship
+543,Tom Teriault,Abdultif Fawal,9,7,66,2015-09-07,2015 WPA World 9-Ball Championship
+544,Lee Van Corteza,Ruslan Tschinachow,6,9,67,2015-09-07,2015 WPA World 9-Ball Championship
+545,Mohamed al-Hosani,Liu Cheng-chieh,8,9,68,2015-09-07,2015 WPA World 9-Ball Championship
+546,Naoyuki Ōi,Tom Teriault,9,2,69,2015-09-07,2015 WPA World 9-Ball Championship
+547,Ruslan Tschinachow,Liu Cheng-chieh,4,9,70,2015-09-07,2015 WPA World 9-Ball Championship
+548,M. Simanjuntak,Daniele Corrieri,9,7,71,2015-09-07,2015 WPA World 9-Ball Championship
+549,Mishel Turkey,Daryl Peach,9,5,72,2015-09-07,2015 WPA World 9-Ball Championship
+550,M. Simanjuntak,Alejandro Carvajal,9,5,73,2015-09-07,2015 WPA World 9-Ball Championship
+551,Fahad Khalaf,Mishel Turkey,5,9,74,2015-09-07,2015 WPA World 9-Ball Championship
+552,Daryl Peach,Muhammad Simanjuntak,9,2,75,2015-09-07,2015 WPA World 9-Ball Championship
+553,Mike Dechaine,Alejandro Carvajal,9,4,76,2015-09-07,2015 WPA World 9-Ball Championship
+554,Carlo Biado,Fahad Khalaf,9,6,77,2015-09-07,2015 WPA World 9-Ball Championship
+555,Daniele Corrieri,Mishel Turkey,9,6,78,2015-09-07,2015 WPA World 9-Ball Championship
+556,Daryl Peach,Mike Dechaine,5,9,79,2015-09-07,2015 WPA World 9-Ball Championship
+557,Carlo Biado,Daniele Corrieri,9,5,80,2015-09-07,2015 WPA World 9-Ball Championship
+558,Denis Grabe,Oliver Ortmann,9,7,81,2015-09-07,2015 WPA World 9-Ball Championship
+559,Zhu Xihe,Matey Ullah,6,9,82,2015-09-07,2015 WPA World 9-Ball Championship
+560,Denis Grabe,Rajandran Nair,9,4,83,2015-09-07,2015 WPA World 9-Ball Championship
+561,Amir Rota,Zhu Xihe,8,9,84,2015-09-07,2015 WPA World 9-Ball Championship
+562,Ko Pin-yi,Denis Grabe,9,4,85,2015-09-07,2015 WPA World 9-Ball Championship
+563,Rajandran Nair,Matey Ullah,6,9,86,2015-09-07,2015 WPA World 9-Ball Championship
+564,Mika Immonen,Amir Rota,9,4,87,2015-09-07,2015 WPA World 9-Ball Championship
+565,Oliver Ortmann,Zhu Xihe,9,2,88,2015-09-07,2015 WPA World 9-Ball Championship
+566,Ko Pin-yi,Matey Ullah,9,6,89,2015-09-07,2015 WPA World 9-Ball Championship
+567,Mika Immonen,Oliver Ortmann,9,5,90,2015-09-07,2015 WPA World 9-Ball Championship
+568,Cheng Yu-hsuan,Richard Jones,9,6,91,2015-09-07,2015 WPA World 9-Ball Championship
+569,Omran Salem,Christopher Tevez,9,7,92,2015-09-07,2015 WPA World 9-Ball Championship
+570,Marcus Chamat,Cheng Yu-hsuan,6,9,93,2015-09-07,2015 WPA World 9-Ball Championship
+571,Omran Salem,Hassan Shafraz,9,8,94,2015-09-07,2015 WPA World 9-Ball Championship
+572,Ko Ping-chung,Marcus Chamat,9,5,95,2015-09-07,2015 WPA World 9-Ball Championship
+573,Christopher Tevez,Cheng Yu-hsuan,9,5,96,2015-09-07,2015 WPA World 9-Ball Championship
+574,Shane Van Boening,Omran Salem,9,6,97,2015-09-07,2015 WPA World 9-Ball Championship
+575,Hassan Shafraz,Richard Jones,1,9,98,2015-09-07,2015 WPA World 9-Ball Championship
+576,Ko Ping-chung,Christopher Tevez,9,2,99,2015-09-07,2015 WPA World 9-Ball Championship
+577,Shane Van Boening,Richard Jones,9,5,100,2015-09-07,2015 WPA World 9-Ball Championship
+578,Mario He,Hesam Abdulaziz,9,2,101,2015-09-07,2015 WPA World 9-Ball Championship
+579,Chu Bingjie,Toh Lian Han,8,9,102,2015-09-07,2015 WPA World 9-Ball Championship
+580,Mario He,Mazen Berjaoui,9,6,103,2015-09-07,2015 WPA World 9-Ball Championship
+581,Chu Bingjie,Khalid Yousuf,9,6,104,2015-09-07,2015 WPA World 9-Ball Championship
+582,John Morra,Mario He,9,8,105,2015-09-07,2015 WPA World 9-Ball Championship
+583,Toh Lian Han,Mazen Berjaoui,9,6,106,2015-09-07,2015 WPA World 9-Ball Championship
+584,Chu Bingjie,David Alcaide,3,9,107,2015-09-07,2015 WPA World 9-Ball Championship
+585,Hesam Abdulaziz,Khalid Yousuf,9,8,108,2015-09-07,2015 WPA World 9-Ball Championship
+586,John Morra,Toh Lian Han,9,4,109,2015-09-07,2015 WPA World 9-Ball Championship
+587,David Alcaide,Hesam Abdulaziz,9,6,110,2015-09-07,2015 WPA World 9-Ball Championship
+588,Ryu Seung-woo,Niels Feijen,9,8,111,2015-09-07,2015 WPA World 9-Ball Championship
+589,Francisco Felicilda,Tomasz Kapłan,7,9,112,2015-09-07,2015 WPA World 9-Ball Championship
+590,Ryu Seung-woo,Hamzaa Saeed Ali,9,2,113,2015-09-07,2015 WPA World 9-Ball Championship
+591,Francisco Felicilda,Mohammad Berjaoui,9,7,114,2015-09-07,2015 WPA World 9-Ball Championship
+592,Dang Jinhu,Ryu Seung-woo,9,5,115,2015-09-07,2015 WPA World 9-Ball Championship
+593,Hamzaa Saeed Ali,Tomasz Kapłan,5,9,116,2015-09-07,2015 WPA World 9-Ball Championship
+594,Niels Feijen,Francisco Felicilda,9,4,117,2015-09-07,2015 WPA World 9-Ball Championship
+595,Alexander Kazakis,Mohammad Berjaoui,9,1,118,2015-09-07,2015 WPA World 9-Ball Championship
+596,Dang Jinhu,Tomasz Kapłan,9,4,119,2015-09-07,2015 WPA World 9-Ball Championship
+597,Niels Feijen,Alexander Kazakis,8,9,120,2015-09-07,2015 WPA World 9-Ball Championship
+598,Francisco Díaz-Pizarro,Thorsten Hohmann,9,4,121,2015-09-07,2015 WPA World 9-Ball Championship
+599,Goh Chin Teck,Hosain Sayeem,9,5,122,2015-09-07,2015 WPA World 9-Ball Championship
+600,Francisco Díaz-Pizarro,Fahad al-Hejeli,9,3,123,2015-09-07,2015 WPA World 9-Ball Championship
+601,Nizar Mosbah Tamimi,Goh Chin Teck,5,9,124,2015-09-07,2015 WPA World 9-Ball Championship
+602,Dennis Orcollo,Francisco Díaz-Pizarro,9,4,125,2015-09-07,2015 WPA World 9-Ball Championship
+603,Hosain Sayeem,Fahad al-Hejeli,9,7,126,2015-09-07,2015 WPA World 9-Ball Championship
+604,Thorsten Hohmann,Nizar Mosbah Tamimi,9,3,127,2015-09-07,2015 WPA World 9-Ball Championship
+605,Goh Chin Teck,Jalal Yousef,7,9,128,2015-09-07,2015 WPA World 9-Ball Championship
+606,Dennis Orcollo,Hosain Sayeem,9,6,129,2015-09-07,2015 WPA World 9-Ball Championship
+607,Thorsten Hohmann,Jalal Yousef,8,9,130,2015-09-07,2015 WPA World 9-Ball Championship
+608,Karl Boyes,Chao Fong-Pang,7,9,131,2015-09-07,2015 WPA World 9-Ball Championship
+609,Liu Haitao (pool player),Lo Ho Sum,9,5,132,2015-09-07,2015 WPA World 9-Ball Championship
+610,Karl Boyes,Sameer al-Madhi,9,2,133,2015-09-07,2015 WPA World 9-Ball Championship
+611,Liu Haitao (pool player),Meshal al-Murdhi,9,2,134,2015-09-07,2015 WPA World 9-Ball Championship
+612,Karl Boyes,Lo Ho Sum,5,9,135,2015-09-07,2015 WPA World 9-Ball Championship
+613,Imran Majid,Sameer al-Madhi,9,4,136,2015-09-07,2015 WPA World 9-Ball Championship
+614,Liu Haitao (pool player),Chao Fong-Pang,5,9,137,2015-09-07,2015 WPA World 9-Ball Championship
+615,Karol Skowerski,Meshal al-Murdhi,9,4,138,2015-09-07,2015 WPA World 9-Ball Championship
+616,Lo Ho Sum,Imran Majid,6,9,139,2015-09-07,2015 WPA World 9-Ball Championship
+617,Chao Fong-Pang,Karol Skowerski,8,9,140,2015-09-07,2015 WPA World 9-Ball Championship
+618,Petri Makkonen,Jason Klatt,2,9,141,2015-09-07,2015 WPA World 9-Ball Championship
+619,Andreas Gerwen,Matthew Edwards,9,7,142,2015-09-07,2015 WPA World 9-Ball Championship
+620,Sundeep Gulati,Petri Makkonen,8,9,143,2015-09-07,2015 WPA World 9-Ball Championship
+621,Ali Hussein Ali,Andreas Gerwen,4,9,144,2015-09-07,2015 WPA World 9-Ball Championship
+622,Chang Yu-Lung,Sundeep Gulati,9,4,145,2015-09-07,2015 WPA World 9-Ball Championship
+623,Petri Makkonen,Matthew Edwards,8,9,146,2015-09-07,2015 WPA World 9-Ball Championship
+624,Jason Klatt,Ali Hussein Ali,9,4,147,2015-09-07,2015 WPA World 9-Ball Championship
+625,Andreas Gerwen,Jeffrey Ignacio,7,9,148,2015-09-07,2015 WPA World 9-Ball Championship
+626,Chang Yu-Lung,Matthew Edwards,9,3,149,2015-09-07,2015 WPA World 9-Ball Championship
+627,Jason Klatt,Jeffrey Ignacio,6,9,150,2015-09-07,2015 WPA World 9-Ball Championship
+628,Omar al-Shaheen,Aloysius Yapp,5,9,151,2015-09-07,2015 WPA World 9-Ball Championship
+629,Darren Appleton,Sinha Fahim,9,2,152,2015-09-07,2015 WPA World 9-Ball Championship
+630,Omar al-Shaheen,Bader al-Hamdan,9,4,153,2015-09-07,2015 WPA World 9-Ball Championship
+631,Darren Appleton,Mohamed Elmola,9,3,154,2015-09-07,2015 WPA World 9-Ball Championship
+632,Antonio Gabica,Omar al-Shaheen,9,3,155,2015-09-07,2015 WPA World 9-Ball Championship
+633,Sinha Fahim,Bader al-Hamdan,9,3,156,2015-09-07,2015 WPA World 9-Ball Championship
+634,Darren Appleton,Aloysius Yapp,5,9,157,2015-09-07,2015 WPA World 9-Ball Championship
+635,Mark Gray,Mohamed Elmola,9,1,158,2015-09-07,2015 WPA World 9-Ball Championship
+636,Antonio Gabica,Sinha Fahim,9,6,159,2015-09-07,2015 WPA World 9-Ball Championship
+637,Aloysius Yapp,Mark Gray,7,9,160,2015-09-07,2015 WPA World 9-Ball Championship
+638,Raymund Faraon,Warren Kiamco,9,11,161,2015-09-07,2015 WPA World 9-Ball Championship
+639,Jalal Yousef,Zhou Long,11,10,162,2015-09-07,2015 WPA World 9-Ball Championship
+640,Carlo Biado,Lee Van Corteza,11,5,163,2015-09-07,2015 WPA World 9-Ball Championship
+641,Ko Pin-yi,Justin Campbell,11,7,164,2015-09-07,2015 WPA World 9-Ball Championship
+642,Mika Immonen,Goh Chin Teck,11,3,165,2015-09-07,2015 WPA World 9-Ball Championship
+643,Wu Kun-lin,Ryu Seung-woo,11,9,166,2015-09-07,2015 WPA World 9-Ball Championship
+644,John Morra,Omran Salem,11,2,167,2015-09-07,2015 WPA World 9-Ball Championship
+645,Mark Gray,Ralf Souquet,11,10,168,2015-09-07,2015 WPA World 9-Ball Championship
+646,Naoyuki Ōi,Aloysius Yapp,9,11,169,2015-09-07,2015 WPA World 9-Ball Championship
+647,Jeffrey Ignacio,Jason Klatt,11,5,170,2015-09-07,2015 WPA World 9-Ball Championship
+648,Imran Majid,Liu Haitao (pool player),10,11,171,2015-09-07,2015 WPA World 9-Ball Championship
+649,Alexander Kazakis,Chao Fong-Pang,11,10,172,2015-09-07,2015 WPA World 9-Ball Championship
+650,Antonio Gabica,Ruslan Tschinachow,5,11,173,2015-09-07,2015 WPA World 9-Ball Championship
+651,Wang Can,Tōru Kuribayashi,11,7,174,2015-09-07,2015 WPA World 9-Ball Championship
+652,Satoshi Kawabata,Albin Ouschan,7,11,175,2015-09-07,2015 WPA World 9-Ball Championship
+653,Wu Jiaqing,Muhammad Simanjuntak,11,3,176,2015-09-07,2015 WPA World 9-Ball Championship
+654,Ko Ping-chung,Mario He,11,5,177,2015-09-07,2015 WPA World 9-Ball Championship
+655,Yukio Akakariyama,Johann Chua,11,5,178,2015-09-07,2015 WPA World 9-Ball Championship
+656,Li Hewen,Denis Grabe,7,11,179,2015-09-07,2015 WPA World 9-Ball Championship
+657,Mike Dechaine,Cheng Yu-hsuan,11,10,180,2015-09-07,2015 WPA World 9-Ball Championship
+658,David Alcaide,Yang Ching-shun,11,8,181,2015-09-07,2015 WPA World 9-Ball Championship
+659,Abdul Rahman al-Amar,Toh Lian Han,8,11,182,2015-09-07,2015 WPA World 9-Ball Championship
+660,Liu Cheng-chieh,Andreas Gerwen,11,5,183,2015-09-07,2015 WPA World 9-Ball Championship
+661,Wojciech Szewczyk,Marco Teutscher,11,8,184,2015-09-07,2015 WPA World 9-Ball Championship
+662,Chang Yu-Lung,Marc Bijsterbosch,11,4,185,2015-09-07,2015 WPA World 9-Ball Championship
+663,Karol Skowerski,Oliver Medenilla,4,11,186,2015-09-07,2015 WPA World 9-Ball Championship
+664,Shane Van Boening,Tomasz Kapłan,11,3,187,2015-09-07,2015 WPA World 9-Ball Championship
+665,Dang Jinhu,Francisco Díaz-Pizarro,10,11,188,2015-09-07,2015 WPA World 9-Ball Championship
+666,Mateusz Śniegocki,Hunter Lombardo,10,11,189,2015-09-07,2015 WPA World 9-Ball Championship
+667,Dennis Orcollo,Mishel Turkey,11,1,190,2015-09-07,2015 WPA World 9-Ball Championship
+668,Rubén Bautista,Darren Appleton,3,11,191,2015-09-07,2015 WPA World 9-Ball Championship
+669,Nikos Ekonomopoulos,Matey Ullah,11,7,192,2015-09-07,2015 WPA World 9-Ball Championship
+670,Warren Kiamco,Jalal Yousef,11,7,193,2015-09-07,2015 WPA World 9-Ball Championship
+671,Carlo Biado,Ko Pin-yi,4,11,194,2015-09-07,2015 WPA World 9-Ball Championship
+672,Mika Immonen,Wu Kun-lin,11,9,195,2015-09-07,2015 WPA World 9-Ball Championship
+673,John Morra,Mark Gray,11,10,196,2015-09-07,2015 WPA World 9-Ball Championship
+674,Aloysius Yapp,Jeffrey Ignacio,11,6,197,2015-09-07,2015 WPA World 9-Ball Championship
+675,Liu Haitao (pool player),Alexander Kazakis,9,11,198,2015-09-07,2015 WPA World 9-Ball Championship
+676,Ruslan Tschinachow,Wang Can,7,11,199,2015-09-07,2015 WPA World 9-Ball Championship
+677,Albin Ouschan,Wu Jiaqing,6,11,200,2015-09-07,2015 WPA World 9-Ball Championship
+678,Ko Ping-chung,Yukio Akakariyama,11,9,201,2015-09-07,2015 WPA World 9-Ball Championship
+679,Denis Grabe,Mike Dechaine,10,11,202,2015-09-07,2015 WPA World 9-Ball Championship
+680,David Alcaide,Toh Lian Han,11,7,203,2015-09-07,2015 WPA World 9-Ball Championship
+681,Liu Cheng-chieh,Wojciech Szewczyk,8,11,204,2015-09-07,2015 WPA World 9-Ball Championship
+682,Chang Yu-Lung,Oliver Medenilla,11,4,205,2015-09-07,2015 WPA World 9-Ball Championship
+683,Shane Van Boening,Francisco Díaz-Pizarro,11,5,206,2015-09-07,2015 WPA World 9-Ball Championship
+684,Hunter Lombardo,Dennis Orcollo,7,11,207,2015-09-07,2015 WPA World 9-Ball Championship
+685,Darren Appleton,Nikos Ekonomopoulos,11,7,208,2015-09-07,2015 WPA World 9-Ball Championship
+686,Warren Kiamco,Ko Pin-yi,9,11,209,2015-09-07,2015 WPA World 9-Ball Championship
+687,Mika Immonen,John Morra,8,11,210,2015-09-07,2015 WPA World 9-Ball Championship
+688,Aloysius Yapp,Alexander Kazakis,11,10,211,2015-09-07,2015 WPA World 9-Ball Championship
+689,Wang Can,Wu Jiaqing,9,11,212,2015-09-07,2015 WPA World 9-Ball Championship
+690,Ko Ping-chung,Mike Dechaine,11,9,213,2015-09-07,2015 WPA World 9-Ball Championship
+691,David Alcaide,Wojciech Szewczyk,10,11,214,2015-09-07,2015 WPA World 9-Ball Championship
+692,Chang Yu-Lung,Shane Van Boening,5,11,215,2015-09-07,2015 WPA World 9-Ball Championship
+693,Dennis Orcollo,Darren Appleton,11,2,216,2015-09-07,2015 WPA World 9-Ball Championship
+694,Ko Pin-yi,John Morra,11,6,217,2015-09-07,2015 WPA World 9-Ball Championship
+695,Aloysius Yapp,Wu Jiaqing,7,11,218,2015-09-07,2015 WPA World 9-Ball Championship
+696,Ko Ping-chung,Wojciech Szewczyk,11,5,219,2015-09-07,2015 WPA World 9-Ball Championship
+697,Shane Van Boening,Dennis Orcollo,11,1,220,2015-09-07,2015 WPA World 9-Ball Championship
+698,Ko Pin-yi,Wu Jiaqing,11,10,221,2015-09-07,2015 WPA World 9-Ball Championship
+699,Ko Ping-chung,Shane Van Boening,1,11,222,2015-09-07,2015 WPA World 9-Ball Championship
+700,Ko Pin-yi,Shane Van Boening,13,11,223,2015-09-07,2015 WPA World 9-Ball Championship
+701,Mazen Berjuai,Jeong Young-hwa,1,9,1,2016-06-30,2016 WPA World 9-Ball Championship
+702,Waleed Majid,Mario He,4,9,2,2016-06-30,2016 WPA World 9-Ball Championship
+703,Mohamed Elraousti,Mazen Berjuai,3,9,3,2016-06-30,2016 WPA World 9-Ball Championship
+704,Shahbaz Adil Khan,Waleed Majid,7,9,4,2016-06-30,2016 WPA World 9-Ball Championship
+705,Ko Pin-yi,Mohamed Elraousti,9,1,5,2016-06-30,2016 WPA World 9-Ball Championship
+706,Mazen Berjuai,Mario He,5,9,6,2016-06-30,2016 WPA World 9-Ball Championship
+707,Shahbaz Adil Khan,Thorsten Hohmann,4,9,7,2016-06-30,2016 WPA World 9-Ball Championship
+708,Jeong Young-hwa,Waleed Majid,9,5,8,2016-06-30,2016 WPA World 9-Ball Championship
+709,Ko Pin-yi,Mario He,9,5,9,2016-06-30,2016 WPA World 9-Ball Championship
+710,Thorsten Hohmann,Jeong Young-hwa,9,7,10,2016-06-30,2016 WPA World 9-Ball Championship
+711,Karol Skowerski,Petri Makkonen,9,6,11,2016-06-30,2016 WPA World 9-Ball Championship
+712,Francis Crevier,Jeffrey Ignacio,7,9,12,2016-06-30,2016 WPA World 9-Ball Championship
+713,Lo Ho Sum,Karol Skowerski,5,9,13,2016-06-30,2016 WPA World 9-Ball Championship
+714,Abdul Aziz Alawadhi,Francis Crevier,2,9,14,2016-06-30,2016 WPA World 9-Ball Championship
+715,Chang Jung-Lin,Lo Ho Sum,9,5,15,2016-06-30,2016 WPA World 9-Ball Championship
+716,Jeffrey Ignacio,Karol Skowerski,9,4,16,2016-06-30,2016 WPA World 9-Ball Championship
+717,Petri Makkonen,Abdul Aziz Alawadhi,9,0,17,2016-06-30,2016 WPA World 9-Ball Championship
+718,Francis Crevier,Johann Chua,8,9,18,2016-06-30,2016 WPA World 9-Ball Championship
+719,Chang Jung-Lin,Jeffrey Ignacio,9,7,19,2016-06-30,2016 WPA World 9-Ball Championship
+720,Petri Makkonen,Johann Chua,4,9,20,2016-06-30,2016 WPA World 9-Ball Championship
+721,Bruno Muratore,MD Almin,8,9,21,2016-06-30,2016 WPA World 9-Ball Championship
+722,Omar al-Shaheen,Darren Appleton,9,5,22,2016-06-30,2016 WPA World 9-Ball Championship
+723,Bruno Muratore,Henrique Correia,9,5,23,2016-06-30,2016 WPA World 9-Ball Championship
+724,Marcus Chamat,Omar al-Shaheen,4,9,24,2016-06-30,2016 WPA World 9-Ball Championship
+725,Darren Appleton,Bruno Muratore,9,4,25,2016-06-30,2016 WPA World 9-Ball Championship
+726,Chu Hong-ming,Henrique Correia,9,2,26,2016-06-30,2016 WPA World 9-Ball Championship
+727,MD Almin,Marcus Chamat,9,4,27,2016-06-30,2016 WPA World 9-Ball Championship
+728,Omar al-Shaheen,Ruslan Chinachov,4,9,28,2016-06-30,2016 WPA World 9-Ball Championship
+729,Darren Appleton,Chu Hong-ming,6,9,29,2016-06-30,2016 WPA World 9-Ball Championship
+730,MD Almin,Ruslan Chinachov,4,9,30,2016-06-30,2016 WPA World 9-Ball Championship
+731,Daryl Peach,Antonio Gabica,9,7,31,2016-06-30,2016 WPA World 9-Ball Championship
+732,Roberto Gomez,Christopher Tevez,9,3,32,2016-06-30,2016 WPA World 9-Ball Championship
+733,Aloysius Yapp,Daryl Peach,5,9,33,2016-06-30,2016 WPA World 9-Ball Championship
+734,Mohannad al-Ghumayz,Roberto Gomez,2,9,34,2016-06-30,2016 WPA World 9-Ball Championship
+735,Aloysius Yapp,Francisco Sánchez Ruíz,8,9,35,2016-06-30,2016 WPA World 9-Ball Championship
+736,Daryl Peach,Christopher Tevez,6,9,36,2016-06-30,2016 WPA World 9-Ball Championship
+737,Mohannad al-Ghumayz,Antonio Gabica,7,9,37,2016-06-30,2016 WPA World 9-Ball Championship
+738,Roberto Gomez,Albin Ouschan,6,9,38,2016-06-30,2016 WPA World 9-Ball Championship
+739,Francisco Sánchez Ruíz,Christopher Tevez,9,5,39,2016-06-30,2016 WPA World 9-Ball Championship
+740,Antonio Gabica,Albin Ouschan,8,9,40,2016-06-30,2016 WPA World 9-Ball Championship
+741,Artem Koshovyi,Lương Chí Dũng,9,8,41,2016-06-30,2016 WPA World 9-Ball Championship
+742,Yang Ching-shun,John Morra,9,6,42,2016-06-30,2016 WPA World 9-Ball Championship
+743,Artem Koshovyi,Aoki Ryoji,9,8,43,2016-06-30,2016 WPA World 9-Ball Championship
+744,Mohammad al-Kashawi,Yang Ching-shun,4,9,44,2016-06-30,2016 WPA World 9-Ball Championship
+745,John Morra,Artem Koshovyi,9,5,45,2016-06-30,2016 WPA World 9-Ball Championship
+746,Zhou Long,Aoki Ryoji,9,2,46,2016-06-30,2016 WPA World 9-Ball Championship
+747,Alex Pagulayan,Mohammad al-Kashawi,9,5,47,2016-06-30,2016 WPA World 9-Ball Championship
+748,Lương Chí Dũng,Yang Ching-shun,9,8,48,2016-06-30,2016 WPA World 9-Ball Championship
+749,John Morra,Zhou Long,2,9,49,2016-06-30,2016 WPA World 9-Ball Championship
+750,Alex Pagulayan,Lương Chí Dũng,9,4,50,2016-06-30,2016 WPA World 9-Ball Championship
+751,Naoyuki Ōi,Jeff de Luna,1,9,51,2016-06-30,2016 WPA World 9-Ball Championship
+752,Wang Can,Hamzaa Saeed Ali,7,9,52,2016-06-30,2016 WPA World 9-Ball Championship
+753,Mohammed Saeed,Naoyuki Ōi,2,9,53,2016-06-30,2016 WPA World 9-Ball Championship
+754,Armin Mahmoudi,Wang Can,7,9,54,2016-06-30,2016 WPA World 9-Ball Championship
+755,Karl Boyes,Mohammed Saeed,9,5,55,2016-06-30,2016 WPA World 9-Ball Championship
+756,Naoyuki Ōi,Hamzaa Saeed Ali,8,9,56,2016-06-30,2016 WPA World 9-Ball Championship
+757,Armin Mahmoudi,Toh Lian Han,5,9,57,2016-06-30,2016 WPA World 9-Ball Championship
+758,Jeff de Luna,Wang Can (pool player),9,6,58,2016-06-30,2016 WPA World 9-Ball Championship
+759,Karl Boyes,Hamzaa Saeed Ali,9,3,59,2016-06-30,2016 WPA World 9-Ball Championship
+760,Toh Lian Han,Jeff de Luna,9,6,60,2016-06-30,2016 WPA World 9-Ball Championship
+761,Imran Majid,Irsal Nasution,5,9,61,2016-06-30,2016 WPA World 9-Ball Championship
+762,Christian Götemann,Dennis Orcollo,7,9,62,2016-06-30,2016 WPA World 9-Ball Championship
+763,Abdullah Karmastaji,Imran Majid,2,9,63,2016-06-30,2016 WPA World 9-Ball Championship
+764,Ali Abdulhadi Almeri,Christian Götemann,6,9,64,2016-06-30,2016 WPA World 9-Ball Championship
+765,Dennis Orcollo,Abdullah Karmastaji,9,5,65,2016-06-30,2016 WPA World 9-Ball Championship
+766,Imran Majid,Ramil Gallego,6,9,66,2016-06-30,2016 WPA World 9-Ball Championship
+767,Irsal Nasution,Ali Abdulhadi Almeri,9,2,67,2016-06-30,2016 WPA World 9-Ball Championship
+768,Christian Götemann,David Alcaide,4,9,68,2016-06-30,2016 WPA World 9-Ball Championship
+769,Dennis Orcollo,Ramil Gallego,4,9,69,2016-06-30,2016 WPA World 9-Ball Championship
+770,Irsal Nasution,David Alcaide,8,9,70,2016-06-30,2016 WPA World 9-Ball Championship
+771,Konrad Juszczyszyn,Abdul Rahman al-Amar,8,9,71,2016-06-30,2016 WPA World 9-Ball Championship
+772,Justin Campbell,Jayson Shaw,7,9,72,2016-06-30,2016 WPA World 9-Ball Championship
+773,Konrad Juszczyszyn,Karar Abdulwahed,9,5,73,2016-06-30,2016 WPA World 9-Ball Championship
+774,Justin Campbell,Robert Hart,9,2,74,2016-06-30,2016 WPA World 9-Ball Championship
+775,Nikos Ekonomopoulos,Konrad Juszczyszyn,9,3,75,2016-06-30,2016 WPA World 9-Ball Championship
+776,Jayson Shaw,Karar Abdulwahed,9,3,76,2016-06-30,2016 WPA World 9-Ball Championship
+777,Justin Campbell,Abdul Rahman al-Amar,7,9,77,2016-06-30,2016 WPA World 9-Ball Championship
+778,Robert Hart,Ko Ping-chung,1,9,78,2016-06-30,2016 WPA World 9-Ball Championship
+779,Nikos Ekonomopoulos,Jayson Shaw,9,5,79,2016-06-30,2016 WPA World 9-Ball Championship
+780,Abdul Rahman al-Amar,Ko Ping-chung,8,9,80,2016-06-30,2016 WPA World 9-Ball Championship
+781,Shaun Wilkie,Niels Feijen,3,9,81,2016-06-30,2016 WPA World 9-Ball Championship
+782,Satoshi Kawabata,Jalal Yousef,9,7,82,2016-06-30,2016 WPA World 9-Ball Championship
+783,Andrew Kong Bu Hong,Shaun Wilkie,1,9,83,2016-06-30,2016 WPA World 9-Ball Championship
+784,Abdul Latif al-Fawal,Satoshi Kawabata,6,9,84,2016-06-30,2016 WPA World 9-Ball Championship
+785,Liu Haitao,Andrew Kong Bu Hong,9,6,85,2016-06-30,2016 WPA World 9-Ball Championship
+786,Jalal Yousef,Shaun Wilkie,9,6,86,2016-06-30,2016 WPA World 9-Ball Championship
+787,Niels Feijen,Abdul Latif al-Fawal,9,3,87,2016-06-30,2016 WPA World 9-Ball Championship
+788,Satoshi Kawabata,Alexander Kazakis,7,9,88,2016-06-30,2016 WPA World 9-Ball Championship
+789,Liu Haitao,Jalal Yousef,9,1,89,2016-06-30,2016 WPA World 9-Ball Championship
+790,Niels Feijen,Alexander Kazakis,6,9,90,2016-06-30,2016 WPA World 9-Ball Championship
+791,Hiroshi Takenaka,Ali Maghsoud,7,9,91,2016-06-30,2016 WPA World 9-Ball Championship
+792,Mieszko Fortuński,Rubén Bautista,9,5,92,2016-06-30,2016 WPA World 9-Ball Championship
+793,Nadim Okbani,Hiroshi Takenaka,3,9,93,2016-06-30,2016 WPA World 9-Ball Championship
+794,Mieszko Fortuński,Mika Immonen,9,4,94,2016-06-30,2016 WPA World 9-Ball Championship
+795,Chu Bingjie,Nadim Okbani,9,3,95,2016-06-30,2016 WPA World 9-Ball Championship
+796,Hiroshi Takenaka,Rubén Bautista,5,9,96,2016-06-30,2016 WPA World 9-Ball Championship
+797,Hsieh Chia-chen,Mieszko Fortuński,9,7,97,2016-06-30,2016 WPA World 9-Ball Championship
+798,Ali Maghsoud,Mika Immonen,9,8,98,2016-06-30,2016 WPA World 9-Ball Championship
+799,Chu Bingjie,Rubén Bautista,9,1,99,2016-06-30,2016 WPA World 9-Ball Championship
+800,Hsieh Chia-chen,Ali Maghsoud,9,5,100,2016-06-30,2016 WPA World 9-Ball Championship
+801,Skyler Woodward,Wojciech Szewczyk,5,9,101,2016-06-30,2016 WPA World 9-Ball Championship
+802,Ralf Souquet,Oliver Ortmann,9,7,102,2016-06-30,2016 WPA World 9-Ball Championship
+803,Omran Salem,Skyler Woodward,3,9,103,2016-06-30,2016 WPA World 9-Ball Championship
+804,Sayeem Hossain,Ralf Souquet,4,9,104,2016-06-30,2016 WPA World 9-Ball Championship
+805,Warren Kiamco,Omran Salem,9,5,105,2016-06-30,2016 WPA World 9-Ball Championship
+806,Oliver Ortmann,Skyler Woodward,9,5,106,2016-06-30,2016 WPA World 9-Ball Championship
+807,Sayeem Hossain,Wojciech Szewczyk,2,9,107,2016-06-30,2016 WPA World 9-Ball Championship
+808,Wu Kun-lin,Ralf Souquet,9,6,108,2016-06-30,2016 WPA World 9-Ball Championship
+809,Warren Kiamco,Oliver Ortmann,9,7,109,2016-06-30,2016 WPA World 9-Ball Championship
+810,Wojciech Szewczyk,Wu Kun-lin,3,9,110,2016-06-30,2016 WPA World 9-Ball Championship
+811,Nick van den Berg,Muhammad Simanjuntak,4,9,111,2016-06-30,2016 WPA World 9-Ball Championship
+812,Carlo Biado,Hayato Hijikata,9,8,112,2016-06-30,2016 WPA World 9-Ball Championship
+813,Nick van den Berg,Abdulla al-Yousif,9,7,113,2016-06-30,2016 WPA World 9-Ball Championship
+814,Fahad al-Jassas,Carlo Biado,1,9,114,2016-06-30,2016 WPA World 9-Ball Championship
+815,Nick van den Berg,Hayato Hijikata,7,9,115,2016-06-30,2016 WPA World 9-Ball Championship
+816,Abdulla al-Yousif,Francisco Díaz-Pizarro,7,9,116,2016-06-30,2016 WPA World 9-Ball Championship
+817,Muhammad Simanjuntak,Fahad al-Jassas,9,7,117,2016-06-30,2016 WPA World 9-Ball Championship
+818,Roman Hybler,Carlo Biado,9,6,118,2016-06-30,2016 WPA World 9-Ball Championship
+819,Hayato Hijikata,Francisco Díaz-Pizarro,3,9,119,2016-06-30,2016 WPA World 9-Ball Championship
+820,Muhammad Simanjuntak,Roman Hybler,6,9,120,2016-06-30,2016 WPA World 9-Ball Championship
+821,Ali al-Obaidly,Óscar Domínguez,6,9,121,2016-06-30,2016 WPA World 9-Ball Championship
+822,Mateusz Śniegocki,Ryu Seung-woo,9,5,122,2016-06-30,2016 WPA World 9-Ball Championship
+823,Ali al-Obaidly,Manuel Chau,9,7,123,2016-06-30,2016 WPA World 9-Ball Championship
+824,Mateusz Śniegocki,Tōru Kuribayashi,9,7,124,2016-06-30,2016 WPA World 9-Ball Championship
+825,Wu Jiaqing,Ali al-Obaidly,9,3,125,2016-06-30,2016 WPA World 9-Ball Championship
+826,Manuel Chau,Ryu Seung-woo,8,9,126,2016-06-30,2016 WPA World 9-Ball Championship
+827,Óscar Domínguez,Mateusz Śniegocki,9,8,127,2016-06-30,2016 WPA World 9-Ball Championship
+828,Tōru Kuribayashi,Denis Grabe,2,9,128,2016-06-30,2016 WPA World 9-Ball Championship
+829,Wu Jiaqing,Ryu Seung-woo,9,5,129,2016-06-30,2016 WPA World 9-Ball Championship
+830,Óscar Domínguez,Denis Grabe,4,9,130,2016-06-30,2016 WPA World 9-Ball Championship
+831,Marco Teutscher,Yukio Akakariyama,1,9,131,2016-06-30,2016 WPA World 9-Ball Championship
+832,Shane Van Boening,Francisco Felicilda,9,3,132,2016-06-30,2016 WPA World 9-Ball Championship
+833,Mohammed Berjaui,Marco Teutscher,1,9,133,2016-06-30,2016 WPA World 9-Ball Championship
+834,Ariel Casto,Shane Van Boening,2,9,134,2016-06-30,2016 WPA World 9-Ball Championship
+835,Li Hewen,Mohammed Berjaui,9,4,135,2016-06-30,2016 WPA World 9-Ball Championship
+836,Marco Teutscher,Francisco Felicilda,7,9,136,2016-06-30,2016 WPA World 9-Ball Championship
+837,Lo Li-wen,Ariel Casto,9,3,137,2016-06-30,2016 WPA World 9-Ball Championship
+838,Yukio Akakariyama,Shane Van Boening,9,5,138,2016-06-30,2016 WPA World 9-Ball Championship
+839,Li Hewen,Francisco Felicilda,9,4,139,2016-06-30,2016 WPA World 9-Ball Championship
+840,Lo Li-wen,Yukio Akakariyama,9,5,140,2016-06-30,2016 WPA World 9-Ball Championship
+841,Salah al-Remawi,Rogelio Belleca Sotero,9,5,141,2016-06-30,2016 WPA World 9-Ball Championship
+842,Chang Yu-Lung,Abdulla al-Shemmari,9,3,142,2016-06-30,2016 WPA World 9-Ball Championship
+843,Salah al-Remawi,Hunter Lombardo,9,6,143,2016-06-30,2016 WPA World 9-Ball Championship
+844,Do Hoang Quan,Chang Yu-Lung,2,9,144,2016-06-30,2016 WPA World 9-Ball Championship
+845,Lee Vann Corteza,Salah al-Remawi,9,5,145,2016-06-30,2016 WPA World 9-Ball Championship
+846,Abdulla al-Shemmari,Hunter Lombardo,9,4,146,2016-06-30,2016 WPA World 9-Ball Championship
+847,Rogelio Belleca Sotero,Do Hoang Quan,9,6,147,2016-06-30,2016 WPA World 9-Ball Championship
+848,Konstantin Stepanow,Chang Yu-Lung,9,8,148,2016-06-30,2016 WPA World 9-Ball Championship
+849,Lee Vann Corteza,Abdulla al-Shemmari,9,7,149,2016-06-30,2016 WPA World 9-Ball Championship
+850,Rogelio Belleca Sotero,Konstantin Stepanow,6,9,150,2016-06-30,2016 WPA World 9-Ball Championship
+851,Joshua Filler,Cheng Yu-hsuan,3,9,151,2016-06-30,2016 WPA World 9-Ball Championship
+852,Ahmed M. Salah,Bashar Hussain,9,5,152,2016-06-30,2016 WPA World 9-Ball Championship
+853,Abder Rehman Mebarki,Joshua Filler,0,9,153,2016-06-30,2016 WPA World 9-Ball Championship
+854,Ahmed M. Salah,Himanshu Jain,9,6,154,2016-06-30,2016 WPA World 9-Ball Championship
+855,Bashar Hussain,Abder Rehman Mebarki,9,6,155,2016-06-30,2016 WPA World 9-Ball Championship
+856,Dang Jinhu,Joshua Filler,9,8,156,2016-06-30,2016 WPA World 9-Ball Championship
+857,Han Haoxiang,Ahmed M. Salah,9,8,157,2016-06-30,2016 WPA World 9-Ball Championship
+858,Himanshu Jain,Cheng Yu-hsuan,3,9,158,2016-06-30,2016 WPA World 9-Ball Championship
+859,Bashar Hussain,Dang Jinhu,3,9,159,2016-06-30,2016 WPA World 9-Ball Championship
+860,Han Haoxiang,Cheng Yu-hsuan,9,3,160,2016-06-30,2016 WPA World 9-Ball Championship
+861,Ko Pin-yi,Jayson Shaw,5,11,161,2016-06-30,2016 WPA World 9-Ball Championship
+862,Thorsten Hohmann,Dennis Orcollo,8,11,162,2016-06-30,2016 WPA World 9-Ball Championship
+863,Chang Jung-Lin,Satoshi Kawabata,11,7,163,2016-06-30,2016 WPA World 9-Ball Championship
+864,Johann Chua,Artem Koshovyi,9,11,164,2016-06-30,2016 WPA World 9-Ball Championship
+865,Chu Hong-ming,Ralf Souquet,3,11,165,2016-06-30,2016 WPA World 9-Ball Championship
+866,Ruslan Tschinachow,Mario He,9,11,166,2016-06-30,2016 WPA World 9-Ball Championship
+867,Francisco Sánchez,Hamzaa Saeed Ali,11,8,167,2016-06-30,2016 WPA World 9-Ball Championship
+868,Albin Ouschan,Jeffrey Ignacio,11,7,168,2016-06-30,2016 WPA World 9-Ball Championship
+869,Zhou Long,Chang Yu-Lung,11,7,169,2016-06-30,2016 WPA World 9-Ball Championship
+870,Alex Pagulayan,Irsal Nasution,11,8,170,2016-06-30,2016 WPA World 9-Ball Championship
+871,Karl Boyes,Muhammad Simanjuntak,7,11,171,2016-06-30,2016 WPA World 9-Ball Championship
+872,Toh Lian Han,MD Almin,11,6,172,2016-06-30,2016 WPA World 9-Ball Championship
+873,Ramil Gallego,Carlo Biado,5,11,173,2016-06-30,2016 WPA World 9-Ball Championship
+874,David Alcaide,Jeong Young-hwa,9,11,174,2016-06-30,2016 WPA World 9-Ball Championship
+875,Nikos Ekonomopoulos,Jeff de Luna,11,7,175,2016-06-30,2016 WPA World 9-Ball Championship
+876,Ko Ping-chung,Wojciech Szewczyk,11,9,176,2016-06-30,2016 WPA World 9-Ball Championship
+877,Liu Haitao,Yukio Akakariyama,11,4,177,2016-06-30,2016 WPA World 9-Ball Championship
+878,Alexander Kazakis,Óscar Domínguez,11,4,178,2016-06-30,2016 WPA World 9-Ball Championship
+879,Chu Bingjie,Ahmed M. Salah,11,3,179,2016-06-30,2016 WPA World 9-Ball Championship
+880,Hsieh Chia-chen,Karol Skowerski,7,11,180,2016-06-30,2016 WPA World 9-Ball Championship
+881,Warren Kiamco,Shane Van Boening,7,11,181,2016-06-30,2016 WPA World 9-Ball Championship
+882,Wu Kun-lin,Abdul Rahman al-Amar,11,10,182,2016-06-30,2016 WPA World 9-Ball Championship
+883,Francisco Díaz-Pizarro,Omar al-Shaheen,9,11,183,2016-06-30,2016 WPA World 9-Ball Championship
+884,Roman Hybler,Salah al-Remawi,5,11,184,2016-06-30,2016 WPA World 9-Ball Championship
+885,Wu Jiaqing,Niels Feijen,11,9,185,2016-06-30,2016 WPA World 9-Ball Championship
+886,Denis Grabe,Mieszko Fortuński,11,3,186,2016-06-30,2016 WPA World 9-Ball Championship
+887,Li Hewen,Daryl Peach,7,11,187,2016-06-30,2016 WPA World 9-Ball Championship
+888,Lo Li-wen,Yang Ching-shun,11,10,188,2016-06-30,2016 WPA World 9-Ball Championship
+889,Lee Van Corteza,Cheng Yu-hsuan,10,11,189,2016-06-30,2016 WPA World 9-Ball Championship
+890,Konstantin Stepanow,Mateusz Śniegocki,11,8,190,2016-06-30,2016 WPA World 9-Ball Championship
+891,Dang Jinhu,Roberto Gomez,11,7,191,2016-06-30,2016 WPA World 9-Ball Championship
+892,Han Haoxiang,Ali Maghsoud,11,7,192,2016-06-30,2016 WPA World 9-Ball Championship
+893,Jayson Shaw,Dennis Orcollo,11,6,193,2016-06-30,2016 WPA World 9-Ball Championship
+894,Chang Jung-Lin,Artem Koshovyi,7,11,194,2016-06-30,2016 WPA World 9-Ball Championship
+895,Ralf Souquet,Mario He,10,11,195,2016-06-30,2016 WPA World 9-Ball Championship
+896,Francisco Sánchez,Albin Ouschan,6,11,196,2016-06-30,2016 WPA World 9-Ball Championship
+897,Zhou Long,Alex Pagulayan,8,11,197,2016-06-30,2016 WPA World 9-Ball Championship
+898,M. Simanjuntak,Toh Lian Han,11,10,198,2016-06-30,2016 WPA World 9-Ball Championship
+899,Carlo Biado,Jeong Young-hwa,11,4,199,2016-06-30,2016 WPA World 9-Ball Championship
+900,Nikos Ekonomopoulos,Ko Ping-chung,6,11,200,2016-06-30,2016 WPA World 9-Ball Championship
+901,Liu Haitao,Alexander Kazakis,6,11,201,2016-06-30,2016 WPA World 9-Ball Championship
+902,Chu Bingjie,Karol Skowerski,11,3,202,2016-06-30,2016 WPA World 9-Ball Championship
+903,Shane Van Boening,Wu Kun-lin,11,5,203,2016-06-30,2016 WPA World 9-Ball Championship
+904,Omar al-Shaheen,Salah al-Remawi,11,4,204,2016-06-30,2016 WPA World 9-Ball Championship
+905,Wu Jiaqing,Denis Grabe,7,11,205,2016-06-30,2016 WPA World 9-Ball Championship
+906,Daryl Peach,Lo Li-wen,11,5,206,2016-06-30,2016 WPA World 9-Ball Championship
+907,Cheng Yu-hsuan,Konstantin Stepanow,11,8,207,2016-06-30,2016 WPA World 9-Ball Championship
+908,Dang Jinhu,Han Haoxiang,11,7,208,2016-06-30,2016 WPA World 9-Ball Championship
+909,Jayson Shaw,Artem Koshovyi,11,10,209,2016-06-30,2016 WPA World 9-Ball Championship
+910,Mario He,Albin Ouschan,9,11,210,2016-06-30,2016 WPA World 9-Ball Championship
+911,Alex Pagulayan,M. Simanjuntak,11,7,211,2016-06-30,2016 WPA World 9-Ball Championship
+912,Carlo Biado,Ko Ping-chung,9,11,212,2016-06-30,2016 WPA World 9-Ball Championship
+913,Alexander Kazakis,Chu Bingjie,11,7,213,2016-06-30,2016 WPA World 9-Ball Championship
+914,Shane Van Boening,Omar al-Shaheen,11,5,214,2016-06-30,2016 WPA World 9-Ball Championship
+915,Denis Grabe,Daryl Peach,11,6,215,2016-06-30,2016 WPA World 9-Ball Championship
+916,Cheng Yu-hsuan,Dang Jinhu,11,8,216,2016-06-30,2016 WPA World 9-Ball Championship
+917,Jayson Shaw,Albin Ouschan,7,11,217,2016-06-30,2016 WPA World 9-Ball Championship
+918,Alex Pagulayan,Ko Ping-chung,11,10,218,2016-06-30,2016 WPA World 9-Ball Championship
+919,Alexander Kazakis,Shane Van Boening,9,11,219,2016-06-30,2016 WPA World 9-Ball Championship
+920,Denis Grabe,Cheng Yu-hsuan,3,11,220,2016-06-30,2016 WPA World 9-Ball Championship
+921,Albin Ouschan,Alex Pagulayan,11,4,221,2016-06-30,2016 WPA World 9-Ball Championship
+922,Shane Van Boening,Cheng Yu-hsuan,11,9,222,2016-06-30,2016 WPA World 9-Ball Championship
+923,Albin Ouschan,Shane Van Boening,13,6,223,2016-06-30,2016 WPA World 9-Ball Championship
+924,Hassan Zeraatgar,Mieszko Fortuński,7,9,1,2017-12-09,2017 WPA World 9-Ball Championship
+925,Maung Maung,Johann Chua,9,3,2,2017-12-09,2017 WPA World 9-Ball Championship
+926,Hassan Zeraatgar,Zine el-Abidine Cherif,9,6,3,2017-12-09,2017 WPA World 9-Ball Championship
+927,Maung Maung,Tomoo Takano,9,6,4,2017-12-09,2017 WPA World 9-Ball Championship
+928,Johann Chua,Hassan Zeraatgar,9,4,5,2017-12-09,2017 WPA World 9-Ball Championship
+929,Zine el-Abidine Cherif,Jalal al-Sarisi,1,9,6,2017-12-09,2017 WPA World 9-Ball Championship
+930,Mieszko Fortuński,Maung Maung,9,3,7,2017-12-09,2017 WPA World 9-Ball Championship
+931,Tomoo Takano,Francisco Sánchez,6,9,8,2017-12-09,2017 WPA World 9-Ball Championship
+932,Johann Chua,Jalal Yousef,8,9,9,2017-12-09,2017 WPA World 9-Ball Championship
+933,Mieszko Fortuński,Francisco Sánchez,5,9,10,2017-12-09,2017 WPA World 9-Ball Championship
+934,Lee jun-ho,Bader al-Awadhi,7,9,11,2017-12-09,2017 WPA World 9-Ball Championship
+935,Ryu Seung-woo,Muzammil Hussain,9,5,12,2017-12-09,2017 WPA World 9-Ball Championship
+936,Mohamed el-Raousti,Lee Jun-ho,1,9,13,2017-12-09,2017 WPA World 9-Ball Championship
+937,Ryu Seung-woo,Mika Immonen,9,5,14,2017-12-09,2017 WPA World 9-Ball Championship
+938,Jeffrey de Luna,Mohamed el-Raousti,9,1,15,2017-12-09,2017 WPA World 9-Ball Championship
+939,Muzammil Hussain,Lee Jun-ho,9,7,16,2017-12-09,2017 WPA World 9-Ball Championship
+940,Ryu Seung-woo,Bader al-Awadhi,6,9,17,2017-12-09,2017 WPA World 9-Ball Championship
+941,Keng Kwang Chan,Mika Immonen,9,6,18,2017-12-09,2017 WPA World 9-Ball Championship
+942,Jeffrey de Luna,Muzammil Hussain,9,3,19,2017-12-09,2017 WPA World 9-Ball Championship
+943,Bader al-Awadhi,Keng Kwang Chan,7,9,20,2017-12-09,2017 WPA World 9-Ball Championship
+944,Majed Alazmi,Dang Jinhu,0,9,21,2017-12-09,2017 WPA World 9-Ball Championship
+945,Teck Goh Chin,Warren Kiamco,6,9,22,2017-12-09,2017 WPA World 9-Ball Championship
+946,Jason Theron,Majed Alazmi,8,9,23,2017-12-09,2017 WPA World 9-Ball Championship
+947,Robert Hart,Teck Goh Chin,4,9,24,2017-12-09,2017 WPA World 9-Ball Championship
+948,Warren Kiamco,Jason Theron,9,3,25,2017-12-09,2017 WPA World 9-Ball Championship
+949,Majed Alazmi,Konstantin Stepanow,3,9,26,2017-12-09,2017 WPA World 9-Ball Championship
+950,Robert Hart,Jeffrey Ignacio,3,9,27,2017-12-09,2017 WPA World 9-Ball Championship
+951,Teck Goh Chin,Dang Jinhu,5,9,28,2017-12-09,2017 WPA World 9-Ball Championship
+952,Warren Kiamco,Konstantin Stepanow,7,9,29,2017-12-09,2017 WPA World 9-Ball Championship
+953,Jeffrey Ignacio,Dang Jinhu,9,6,30,2017-12-09,2017 WPA World 9-Ball Championship
+954,Fawaz al-Rashedi,Niels Feijen,6,9,31,2017-12-09,2017 WPA World 9-Ball Championship
+955,Wojciech Szewczyk,Lưu Minh Phúc,9,7,32,2017-12-09,2017 WPA World 9-Ball Championship
+956,Fawaz al-Rashedi,Farhat Bouchaib,9,3,33,2017-12-09,2017 WPA World 9-Ball Championship
+957,Wojciech Szewczyk,Ahmed Tanvir,9,6,34,2017-12-09,2017 WPA World 9-Ball Championship
+958,Ko Pin-yi,Fawaz al-Rashedi,9,6,35,2017-12-09,2017 WPA World 9-Ball Championship
+959,Lưu Minh Phúc,Farhat Bouchaib,9,2,36,2017-12-09,2017 WPA World 9-Ball Championship
+960,Wojciech Szewczyk,Christian Sparrenlöv,8,9,37,2017-12-09,2017 WPA World 9-Ball Championship
+961,Ahmed Tanvir,Niels Feijen,0,9,38,2017-12-09,2017 WPA World 9-Ball Championship
+962,Ko Pin-yi,Lưu Minh Phúc,9,8,39,2017-12-09,2017 WPA World 9-Ball Championship
+963,Christian Sparrenlöv,Niels Feijen,9,8,40,2017-12-09,2017 WPA World 9-Ball Championship
+964,Han Haoxiang,Kong Dejing,5,9,41,2017-12-09,2017 WPA World 9-Ball Championship
+965,Damianos Giallourakis,Ahmad Naiem,8,9,42,2017-12-09,2017 WPA World 9-Ball Championship
+966,Han Haoxiang,Hunter Lombardo,9,4,43,2017-12-09,2017 WPA World 9-Ball Championship
+967,Dharminder Lilly,Damianos Giallourakis,2,9,44,2017-12-09,2017 WPA World 9-Ball Championship
+968,Han Haoxiang,Ahmad Naiem,2,9,45,2017-12-09,2017 WPA World 9-Ball Championship
+969,Nick Malai,Hunter Lombardo,9,7,46,2017-12-09,2017 WPA World 9-Ball Championship
+970,Kong Dejing,Dharminder Lilly,9,6,47,2017-12-09,2017 WPA World 9-Ball Championship
+971,Damianos Giallourakis,Joshua Filler,6,9,48,2017-12-09,2017 WPA World 9-Ball Championship
+972,Ahmad Naiem,Nick Malai,7,9,49,2017-12-09,2017 WPA World 9-Ball Championship
+973,Kong Dejing,Joshua Filler,6,9,50,2017-12-09,2017 WPA World 9-Ball Championship
+974,Mohammad Berjawi,Roland Garcia,6,9,51,2017-12-09,2017 WPA World 9-Ball Championship
+975,Maxim Dudanez,Yukio Akakariyama,9,7,52,2017-12-09,2017 WPA World 9-Ball Championship
+976,Alex Pagulayan,Mohammad Berjawi,7,9,53,2017-12-09,2017 WPA World 9-Ball Championship
+977,Maxim Dudanez,Aayush Kumar,9,5,54,2017-12-09,2017 WPA World 9-Ball Championship
+978,Alex Pagulayan,Yukio Akakariyama,8,9,55,2017-12-09,2017 WPA World 9-Ball Championship
+979,Mohammad Berjawi,Lo Ho Sum,7,9,56,2017-12-09,2017 WPA World 9-Ball Championship
+980,Maxim Dudanez,Maximilian Lechner,4,9,57,2017-12-09,2017 WPA World 9-Ball Championship
+981,Aayush Kumar,Roland Garcia,6,9,58,2017-12-09,2017 WPA World 9-Ball Championship
+982,Yukio Akakariyama,Lo Ho Sum,7,9,59,2017-12-09,2017 WPA World 9-Ball Championship
+983,Maximilian Lechner,Roland Garcia,9,5,60,2017-12-09,2017 WPA World 9-Ball Championship
+984,Lo Li-wen,Cheng Yu-hsuan,9,6,61,2017-12-09,2017 WPA World 9-Ball Championship
+985,Wiktor Zieliński,Mario He,9,8,62,2017-12-09,2017 WPA World 9-Ball Championship
+986,Tao Ying Duo,Lo Li-wen,4,9,63,2017-12-09,2017 WPA World 9-Ball Championship
+987,Mazin Berjawi,Wiktor Zieliński,3,9,64,2017-12-09,2017 WPA World 9-Ball Championship
+988,Mario He,Tao Ying Duo,9,3,65,2017-12-09,2017 WPA World 9-Ball Championship
+989,Dương Quốc Hoàng,Lo Li-wen,9,6,66,2017-12-09,2017 WPA World 9-Ball Championship
+990,Martin Daigle,Mazin Berjawi,9,5,67,2017-12-09,2017 WPA World 9-Ball Championship
+991,Wiktor Zieliński,Cheng Yu-hsuan,3,9,68,2017-12-09,2017 WPA World 9-Ball Championship
+992,Mario He,Dương Quốc Hoàng,8,9,69,2017-12-09,2017 WPA World 9-Ball Championship
+993,Martin Daigle,Cheng Yu-hsuan,9,7,70,2017-12-09,2017 WPA World 9-Ball Championship
+994,Mohammadali Pordel,Nien Rong-chih,8,9,71,2017-12-09,2017 WPA World 9-Ball Championship
+995,Fjodor Gorst,Hsieh Chia-chen,3,9,72,2017-12-09,2017 WPA World 9-Ball Championship
+996,Abdulatif Alfawal,Mohammadali Pordel,5,9,73,2017-12-09,2017 WPA World 9-Ball Championship
+997,Wang Can,Fjodor Gorst,7,9,74,2017-12-09,2017 WPA World 9-Ball Championship
+998,Albin Ouschan,Abdulatif Alfawal,9,5,75,2017-12-09,2017 WPA World 9-Ball Championship
+999,Hsieh Chia-chen,Mohammadali Pordel,9,5,76,2017-12-09,2017 WPA World 9-Ball Championship
+1000,Wang Can,Nien Rong-chih,5,9,77,2017-12-09,2017 WPA World 9-Ball Championship
+1001,Fjodor Gorst,Liu Haitao,5,9,78,2017-12-09,2017 WPA World 9-Ball Championship
+1002,Albin Ouschan,Hsieh Chia-chen,9,5,79,2017-12-09,2017 WPA World 9-Ball Championship
+1003,Nien Rong-chih,Liu Haitao,5,9,80,2017-12-09,2017 WPA World 9-Ball Championship
+1004,Ali al-Obaidly,Ruslan Tschinachow,5,9,81,2017-12-09,2017 WPA World 9-Ball Championship
+1005,Nguyễn Anh Tuấn,Ralf Souquet,9,7,82,2017-12-09,2017 WPA World 9-Ball Championship
+1006,Ali al-Obaidly,Ip Tung Pong,9,4,83,2017-12-09,2017 WPA World 9-Ball Championship
+1007,Ali Maghsoud,Nguyễn Anh Tuấn,6,9,84,2017-12-09,2017 WPA World 9-Ball Championship
+1008,Ralf Souquet,Ali al-Obaidly,9,2,85,2017-12-09,2017 WPA World 9-Ball Championship
+1009,Ip Tung Pong,Roman Hybler,2,9,86,2017-12-09,2017 WPA World 9-Ball Championship
+1010,Ali Maghsoud,Tomasz Kapłan,2,9,87,2017-12-09,2017 WPA World 9-Ball Championship
+1011,Nguyễn Anh Tuấn,Ruslan Tschinachow,8,9,88,2017-12-09,2017 WPA World 9-Ball Championship
+1012,Ralf Souquet,Roman Hybler,7,9,89,2017-12-09,2017 WPA World 9-Ball Championship
+1013,Tomasz Kapłan,Ruslan Tschinachow,9,8,90,2017-12-09,2017 WPA World 9-Ball Championship
+1014,Waleed Majid,Chu Bingjie,1,9,91,2017-12-09,2017 WPA World 9-Ball Championship
+1015,Hiroshi Takenaka,Sebastian Ludwig,9,8,92,2017-12-09,2017 WPA World 9-Ball Championship
+1016,Nadim Okbani,Waleed Majid,2,9,93,2017-12-09,2017 WPA World 9-Ball Championship
+1017,Hiroshi Takenaka,Mohammed Hassan,9,2,94,2017-12-09,2017 WPA World 9-Ball Championship
+1018,Alexander Kazakis,Nadim Okbani,9,2,95,2017-12-09,2017 WPA World 9-Ball Championship
+1019,Sebastian Ludwig,Waleed Majid,9,1,96,2017-12-09,2017 WPA World 9-Ball Championship
+1020,Hiroshi Takenaka,Chu Bingjie,2,9,97,2017-12-09,2017 WPA World 9-Ball Championship
+1021,Mohammed Hassan,Eklent Kaçi,2,9,98,2017-12-09,2017 WPA World 9-Ball Championship
+1022,Alexander Kazakis,Sebastian Ludwig,9,7,99,2017-12-09,2017 WPA World 9-Ball Championship
+1023,Chu Bingjie,Eklent Kaçi,6,9,100,2017-12-09,2017 WPA World 9-Ball Championship
+1024,Mhanaa al-Obaidly,Md al-Amin,0,9,101,2017-12-09,2017 WPA World 9-Ball Championship
+1025,Henrique Correia,David Alcaide,5,9,102,2017-12-09,2017 WPA World 9-Ball Championship
+1026,Mhanaa al-Obaidly,Hashim Ahusanu,9,4,103,2017-12-09,2017 WPA World 9-Ball Championship
+1027,Tōru Kuribayashi,Henrique Correia,8,9,104,2017-12-09,2017 WPA World 9-Ball Championship
+1028,David Alcaide,Mhanaa al-Obaidly,9,0,105,2017-12-09,2017 WPA World 9-Ball Championship
+1029,Hashim Ahusanu,Radosław Babica,2,9,106,2017-12-09,2017 WPA World 9-Ball Championship
+1030,Md al-Amin,Tōru Kuribayashi,9,8,107,2017-12-09,2017 WPA World 9-Ball Championship
+1031,Henrique Correia,Ko Ping-chung,5,9,108,2017-12-09,2017 WPA World 9-Ball Championship
+1032,David Alcaide,Radosław Babica,4,9,109,2017-12-09,2017 WPA World 9-Ball Championship
+1033,Md al-Amin,Ko Ping-chung,5,9,110,2017-12-09,2017 WPA World 9-Ball Championship
+1034,Xu Xiaocong,Denis Grabe,9,8,111,2017-12-09,2017 WPA World 9-Ball Championship
+1035,Samuel Santos,Richard Halliday,9,4,112,2017-12-09,2017 WPA World 9-Ball Championship
+1036,Xu Xiaocong,Kwon Hojun,9,2,113,2017-12-09,2017 WPA World 9-Ball Championship
+1037,Samuel Santos,Osama Anga,9,3,114,2017-12-09,2017 WPA World 9-Ball Championship
+1038,Carlo Biado,Xu Xiaocong,9,6,115,2017-12-09,2017 WPA World 9-Ball Championship
+1039,Kwon Hojun,Richard Halliday,8,9,116,2017-12-09,2017 WPA World 9-Ball Championship
+1040,Hayato Hijikata,Samuel Santos,9,5,117,2017-12-09,2017 WPA World 9-Ball Championship
+1041,Osama Anga,Denis Grabe,1,9,118,2017-12-09,2017 WPA World 9-Ball Championship
+1042,Carlo Biado,Richard Halliday,9,4,119,2017-12-09,2017 WPA World 9-Ball Championship
+1043,Hayato Hijikata,Denis Grabe,9,4,120,2017-12-09,2017 WPA World 9-Ball Championship
+1044,Li Si-yu,Abdulkhizar Hasanin,9,6,121,2017-12-09,2017 WPA World 9-Ball Championship
+1045,Thorsten Hohmann,Petri Makkonen,9,7,122,2017-12-09,2017 WPA World 9-Ball Championship
+1046,Li Si-yu,Abderrahmane Mebarki,9,0,123,2017-12-09,2017 WPA World 9-Ball Championship
+1047,Bashar Hussain,Thorsten Hohmann,6,9,124,2017-12-09,2017 WPA World 9-Ball Championship
+1048,Wu Kun-lin,Li Si-yu,9,7,125,2017-12-09,2017 WPA World 9-Ball Championship
+1049,Abderrahmane Mebarki,Petri Makkonen,3,9,126,2017-12-09,2017 WPA World 9-Ball Championship
+1050,Bashar Hussain,Abdulkhizar Hasanin,8,9,127,2017-12-09,2017 WPA World 9-Ball Championship
+1051,Pijus Labutis,Thorsten Hohmann,9,3,128,2017-12-09,2017 WPA World 9-Ball Championship
+1052,Wu Kun-lin,Petri Makkonen,9,7,129,2017-12-09,2017 WPA World 9-Ball Championship
+1053,Abdulkhizar Hasanin,Pijus Labutis,4,9,130,2017-12-09,2017 WPA World 9-Ball Championship
+1054,Daniel Tångudd,Wu Jiaqing,9,5,131,2017-12-09,2017 WPA World 9-Ball Championship
+1055,Ariel Casto,John Morra,5,9,132,2017-12-09,2017 WPA World 9-Ball Championship
+1056,Daniel Tångudd,Mohammed Alkhashawi,9,3,133,2017-12-09,2017 WPA World 9-Ball Championship
+1057,Ariel Casto,Yang Ching-shun,9,6,134,2017-12-09,2017 WPA World 9-Ball Championship
+1058,Naoyuki Ōi,Daniel Tångudd,9,3,135,2017-12-09,2017 WPA World 9-Ball Championship
+1059,Mohammed Alkhashawi,John Morra,4,9,136,2017-12-09,2017 WPA World 9-Ball Championship
+1060,Marco Teutscher,Ariel Casto,9,5,137,2017-12-09,2017 WPA World 9-Ball Championship
+1061,Yang Ching-shun,Wu Jiaqing,5,9,138,2017-12-09,2017 WPA World 9-Ball Championship
+1062,Naoyuki Ōi,John Morra,9,8,139,2017-12-09,2017 WPA World 9-Ball Championship
+1063,Marco Teutscher,Wu Jiaqing,9,2,140,2017-12-09,2017 WPA World 9-Ball Championship
+1064,Israel Rota,André Lackner,9,4,141,2017-12-09,2017 WPA World 9-Ball Championship
+1065,Abdullah al-Yousef,Konrad Juszczyszyn,9,3,142,2017-12-09,2017 WPA World 9-Ball Championship
+1066,Israel Rota,Jeremiah Naidoo,9,1,143,2017-12-09,2017 WPA World 9-Ball Championship
+1067,Abdullah al-Yousef,Meshaal al-Murdhi,9,8,144,2017-12-09,2017 WPA World 9-Ball Championship
+1068,Liu Cheng-chieh,Israel Rota,9,6,145,2017-12-09,2017 WPA World 9-Ball Championship
+1069,Jeremiah Naidoo,Konrad Juszczyszyn,5,9,146,2017-12-09,2017 WPA World 9-Ball Championship
+1070,Abdullah al-Yousef,Gerson Martínez,5,9,147,2017-12-09,2017 WPA World 9-Ball Championship
+1071,André Lackner,Meshaal al-Murdhi,9,6,148,2017-12-09,2017 WPA World 9-Ball Championship
+1072,Liu Cheng-chieh,Konrad Juszczyszyn,9,7,149,2017-12-09,2017 WPA World 9-Ball Championship
+1073,Gerson Martínez,André Lackner,9,8,150,2017-12-09,2017 WPA World 9-Ball Championship
+1074,Albin Ouschan,Abdullah al-Yousef,11,6,151,2017-12-09,2017 WPA World 9-Ball Championship
+1075,Samuel Santos,Ryu Seung-woo,10,11,152,2017-12-09,2017 WPA World 9-Ball Championship
+1076,Warren Kiamco,Kong Dejing,11,4,153,2017-12-09,2017 WPA World 9-Ball Championship
+1077,Hiroshi Takenaka,Wu Kun-lin,4,11,154,2017-12-09,2017 WPA World 9-Ball Championship
+1078,Alexander Kazakis,Bader al-Awadhi,8,11,155,2017-12-09,2017 WPA World 9-Ball Championship
+1079,Martin Daigle,Hsieh Chia-chen,8,11,156,2017-12-09,2017 WPA World 9-Ball Championship
+1080,Chang Yu-Lung,Mieszko Fortuński,11,8,157,2017-12-09,2017 WPA World 9-Ball Championship
+1081,Xu Xiaocong,Thorsten Hohmann,5,11,158,2017-12-09,2017 WPA World 9-Ball Championship
+1082,Carlo Biado,Daniel Tångudd,11,6,159,2017-12-09,2017 WPA World 9-Ball Championship
+1083,Tomasz Kapłan,Wojciech Szewczyk,11,9,160,2017-12-09,2017 WPA World 9-Ball Championship
+1084,Jeffrey Ignacio,Lo Ho Sum,11,4,161,2017-12-09,2017 WPA World 9-Ball Championship
+1085,Francisco Felicilda,Naoyuki Ōi,11,7,162,2017-12-09,2017 WPA World 9-Ball Championship
+1086,Francisco Sánchez,Gerson Martínez,11,6,163,2017-12-09,2017 WPA World 9-Ball Championship
+1087,Israel Rota,Liu Haitao,3,11,164,2017-12-09,2017 WPA World 9-Ball Championship
+1088,Radosław Babica,Li Si-yu,11,8,165,2017-12-09,2017 WPA World 9-Ball Championship
+1089,Pijus Labutis,Ko Ping-chung,10,11,166,2017-12-09,2017 WPA World 9-Ball Championship
+1090,Ko Pin-yi,Maximilian Lechner,11,3,167,2017-12-09,2017 WPA World 9-Ball Championship
+1091,Nien Rong-chih,Hayato Hijikata,11,10,168,2017-12-09,2017 WPA World 9-Ball Championship
+1092,Niels Feijen,Keng Kwang Chan,11,9,169,2017-12-09,2017 WPA World 9-Ball Championship
+1093,Md al-Amin,Roland Garcia,4,11,170,2017-12-09,2017 WPA World 9-Ball Championship
+1094,Ruslan Tschinachow,Jalal al-Sarisi,6,11,171,2017-12-09,2017 WPA World 9-Ball Championship
+1095,Dương Quốc Hoàng,Liu Cheng-chieh,11,10,172,2017-12-09,2017 WPA World 9-Ball Championship
+1096,Lo Li-wen,Nguyễn Anh Tuấn,11,7,173,2017-12-09,2017 WPA World 9-Ball Championship
+1097,Christian Sparrenlöv,Dang Jinhu,8,11,174,2017-12-09,2017 WPA World 9-Ball Championship
+1098,Jeffrey de Luna,Maxim Dudanez,11,7,175,2017-12-09,2017 WPA World 9-Ball Championship
+1099,Maung Maung,Chu Bingjie,11,8,176,2017-12-09,2017 WPA World 9-Ball Championship
+1100,Mateusz Śniegocki,Nick Malai,11,10,177,2017-12-09,2017 WPA World 9-Ball Championship
+1101,Ahmad Naiem,Joshua Filler,7,11,178,2017-12-09,2017 WPA World 9-Ball Championship
+1102,Eklent Kaçi,Roman Hybler,11,6,179,2017-12-09,2017 WPA World 9-Ball Championship
+1103,Wiktor Zieliński,David Alcaide,5,11,180,2017-12-09,2017 WPA World 9-Ball Championship
+1104,Konstantin Stepanow,Marco Teutscher,11,7,181,2017-12-09,2017 WPA World 9-Ball Championship
+1105,John Morra,Chang Jung-Lin,11,9,182,2017-12-09,2017 WPA World 9-Ball Championship
+1106,Albin Ouschan,Ryu Seung-woo,11,9,183,2017-12-09,2017 WPA World 9-Ball Championship
+1107,Warren Kiamco,Wu Kun-lin,8,11,184,2017-12-09,2017 WPA World 9-Ball Championship
+1108,Bader al-Awadhi,Hsieh Chia-chen,3,11,185,2017-12-09,2017 WPA World 9-Ball Championship
+1109,Chang Yu-Lung,Thorsten Hohmann,10,11,186,2017-12-09,2017 WPA World 9-Ball Championship
+1110,Carlo Biado,Tomasz Kapłan,11,8,187,2017-12-09,2017 WPA World 9-Ball Championship
+1111,Jeffrey Ignacio,Francisco Felicilda,11,9,188,2017-12-09,2017 WPA World 9-Ball Championship
+1112,Francisco Sánchez,Liu Haitao,10,11,189,2017-12-09,2017 WPA World 9-Ball Championship
+1113,Radosław Babica,Ko Ping-chung,9,11,190,2017-12-09,2017 WPA World 9-Ball Championship
+1114,Ko Pin-yi,Nien Rong-chih,11,4,191,2017-12-09,2017 WPA World 9-Ball Championship
+1115,Niels Feijen,Roland Garcia,7,11,192,2017-12-09,2017 WPA World 9-Ball Championship
+1116,Jalal al-Sarisi,Dương Quốc Hoàng,11,3,193,2017-12-09,2017 WPA World 9-Ball Championship
+1117,Lo Li-wen,Dang Jinhu,5,11,194,2017-12-09,2017 WPA World 9-Ball Championship
+1118,Jeffrey de Luna,Maung Maung,9,11,195,2017-12-09,2017 WPA World 9-Ball Championship
+1119,Mateusz Śniegocki,Joshua Filler,7,11,196,2017-12-09,2017 WPA World 9-Ball Championship
+1120,Eklent Kaçi,David Alcaide,11,4,197,2017-12-09,2017 WPA World 9-Ball Championship
+1121,Konstantin Stepanow,John Morra,9,11,198,2017-12-09,2017 WPA World 9-Ball Championship
+1122,Albin Ouschan,Wu Kun-lin,3,11,199,2017-12-09,2017 WPA World 9-Ball Championship
+1123,Hsieh Chia-chen,Thorsten Hohmann,11,7,200,2017-12-09,2017 WPA World 9-Ball Championship
+1124,Carlo Biado,Jeffrey Ignacio,11,7,201,2017-12-09,2017 WPA World 9-Ball Championship
+1125,Liu Haitao,Ko Ping-chung,11,10,202,2017-12-09,2017 WPA World 9-Ball Championship
+1126,Ko Pin-yi,Roland Garcia,8,11,203,2017-12-09,2017 WPA World 9-Ball Championship
+1127,Jalal al-Sarisi,Dang Jinhu,11,7,204,2017-12-09,2017 WPA World 9-Ball Championship
+1128,Maung Maung,Joshua Filler,11,6,205,2017-12-09,2017 WPA World 9-Ball Championship
+1129,Eklent Kaçi,John Morra,11,7,206,2017-12-09,2017 WPA World 9-Ball Championship
+1130,Wu Kun-lin,Hsieh Chia-chen,11,8,207,2017-12-09,2017 WPA World 9-Ball Championship
+1131,Roland Garcia,Jalal al-Sarisi,11,4,208,2017-12-09,2017 WPA World 9-Ball Championship
+1132,Maung Maung,Eklent Kaçi,7,11,209,2017-12-09,2017 WPA World 9-Ball Championship
+1133,Wu Kun-lin,Carlo Biado,6,11,210,2017-12-09,2017 WPA World 9-Ball Championship
+1134,Roland Garcia,Eklent Kaçi,11,6,211,2017-12-09,2017 WPA World 9-Ball Championship
+1135,Carlo Biado,Roland Garcia,13,5,212,2017-12-09,2017 WPA World 9-Ball Championship
+1136,Abdulatif Alfawal,Witalij Pazura,6,9,1,2018-12-10,2018 WPA World 9-Ball Championship
+1137,Ryu Seung-woo,Meshaal al-Murdhi,9,3,2,2018-12-10,2018 WPA World 9-Ball Championship
+1138,Alejandro Carvajal,Abdulatif Alfawal,4,9,3,2018-12-10,2018 WPA World 9-Ball Championship
+1139,Fayaz Hussain,Ryu Seung-woo,3,9,4,2018-12-10,2018 WPA World 9-Ball Championship
+1140,Eklent Kaçi,Alejandro Carvajal,9,7,5,2018-12-10,2018 WPA World 9-Ball Championship
+1141,Meshaal al-Murdhi,Abdulatif Alfawal,9,5,6,2018-12-10,2018 WPA World 9-Ball Championship
+1142,Aloysius Yapp,Fayaz Hussain,9,3,7,2018-12-10,2018 WPA World 9-Ball Championship
+1143,Witalij Pazura,Ryu Seung-woo,9,5,8,2018-12-10,2018 WPA World 9-Ball Championship
+1144,Eklent Kaçi,Meshaal al-Murdhi,9,6,9,2018-12-10,2018 WPA World 9-Ball Championship
+1145,Aloysius Yapp,Witalij Pazura,9,8,10,2018-12-10,2018 WPA World 9-Ball Championship
+1146,Matthew Edwards,Radosław Babica,7,9,11,2018-12-10,2018 WPA World 9-Ball Championship
+1147,Hunter Lombardo,Mazen Berjaoui,8,9,12,2018-12-10,2018 WPA World 9-Ball Championship
+1148,Stanimir Ruslanow,Matthew Edwards,5,9,13,2018-12-10,2018 WPA World 9-Ball Championship
+1149,Hunter Lombardo,Sami Koylu,9,7,14,2018-12-10,2018 WPA World 9-Ball Championship
+1150,Joshua Filler,Stanimir Ruslanow,9,5,15,2018-12-10,2018 WPA World 9-Ball Championship
+1151,Mazen Berjaoui,Matthew Edwards,9,6,16,2018-12-10,2018 WPA World 9-Ball Championship
+1152,Hunter Lombardo,Radosław Babica,5,9,17,2018-12-10,2018 WPA World 9-Ball Championship
+1153,Sami Koylu,Jeff de Luna,7,9,18,2018-12-10,2018 WPA World 9-Ball Championship
+1154,Joshua Filler,Mazen Berjaoui,9,5,19,2018-12-10,2018 WPA World 9-Ball Championship
+1155,Radosław Babica,Jeff de Luna,6,9,20,2018-12-10,2018 WPA World 9-Ball Championship
+1156,Roland Garcia,Billy Thorpe,9,5,21,2018-12-10,2018 WPA World 9-Ball Championship
+1157,David Alcaide,Bader al-Awadhi,7,9,22,2018-12-10,2018 WPA World 9-Ball Championship
+1158,Roland Garcia,Ahmed Nizam Uddin,9,5,23,2018-12-10,2018 WPA World 9-Ball Championship
+1159,Ahmed Aleqaly,David Alcaide,2,9,24,2018-12-10,2018 WPA World 9-Ball Championship
+1160,Roland Garcia,Hsu Jui-an,8,9,25,2018-12-10,2018 WPA World 9-Ball Championship
+1161,Ahmed Nizam Uddin,Bader al-Awadhi,1,9,26,2018-12-10,2018 WPA World 9-Ball Championship
+1162,Billy Thorpe,Ahmed Aleqaly,9,4,27,2018-12-10,2018 WPA World 9-Ball Championship
+1163,Liu Ri-teng,David Alcaide,9,1,28,2018-12-10,2018 WPA World 9-Ball Championship
+1164,Hsu Jui-an,Bader al-Awadhi,9,1,29,2018-12-10,2018 WPA World 9-Ball Championship
+1165,Billy Thorpe,Liu Ri-teng,7,9,30,2018-12-10,2018 WPA World 9-Ball Championship
+1166,Omar al-Shaheen,Sanjin Pehlivanović,9,6,31,2018-12-10,2018 WPA World 9-Ball Championship
+1167,Johann Chua,Jeong Young-hwa,9,7,32,2018-12-10,2018 WPA World 9-Ball Championship
+1168,Omar al-Shaheen,Mohammad Soufi,9,6,33,2018-12-10,2018 WPA World 9-Ball Championship
+1169,Wojciech Szewczyk,Johann Chua,3,9,34,2018-12-10,2018 WPA World 9-Ball Championship
+1170,Fjodor Gorst,Omar al-Shaheen,9,6,35,2018-12-10,2018 WPA World 9-Ball Championship
+1171,Mohammad Soufi,Jeong Young-hwa,7,9,36,2018-12-10,2018 WPA World 9-Ball Championship
+1172,Wojciech Szewczyk,Robbie Capito,5,9,37,2018-12-10,2018 WPA World 9-Ball Championship
+1173,Sanjin Pehlivanović,Johann Chua,9,7,38,2018-12-10,2018 WPA World 9-Ball Championship
+1174,Fjodor Gorst,Jeong Young-hwa,9,1,39,2018-12-10,2018 WPA World 9-Ball Championship
+1175,Robbie Capito,Sanjin Pehlivanović,9,5,40,2018-12-10,2018 WPA World 9-Ball Championship
+1176,Chang Yu-Lung,Petri Makkonen,6,9,41,2018-12-10,2018 WPA World 9-Ball Championship
+1177,Ahmed Tanvir,Francisco Díaz-Pizarro,5,9,42,2018-12-10,2018 WPA World 9-Ball Championship
+1178,Chang Yu-Lung,Israel Rota,9,5,43,2018-12-10,2018 WPA World 9-Ball Championship
+1179,Ahmed Tanvir,Fawaz al-Rashedi,9,4,44,2018-12-10,2018 WPA World 9-Ball Championship
+1180,Niels Feijen,Chang Yu-Lung,9,5,45,2018-12-10,2018 WPA World 9-Ball Championship
+1181,Francisco Díaz-Pizarro,Israel Rota,9,2,46,2018-12-10,2018 WPA World 9-Ball Championship
+1182,Corey Deuel,Ahmed Tanvir,9,5,47,2018-12-10,2018 WPA World 9-Ball Championship
+1183,Fawaz al-Rashedi,Petri Makkonen,3,9,48,2018-12-10,2018 WPA World 9-Ball Championship
+1184,Niels Feijen,Francisco Díaz-Pizarro,9,7,49,2018-12-10,2018 WPA World 9-Ball Championship
+1185,Corey Deuel,Petri Makkonen,9,4,50,2018-12-10,2018 WPA World 9-Ball Championship
+1186,Satoshi Kawabata,Jeffrey Ignacio,6,9,51,2018-12-10,2018 WPA World 9-Ball Championship
+1187,Abdullah Alenzi,Ruslan Chinachov,2,9,52,2018-12-10,2018 WPA World 9-Ball Championship
+1188,Satoshi Kawabata,Mika Immonen,9,4,53,2018-12-10,2018 WPA World 9-Ball Championship
+1189,Vincent Halliday,Abdullah Alenzi,1,9,54,2018-12-10,2018 WPA World 9-Ball Championship
+1190,Hsieh Chia-chen,Satoshi Kawabata,9,3,55,2018-12-10,2018 WPA World 9-Ball Championship
+1191,Ruslan Chinachov,Mika Immonen,9,5,56,2018-12-10,2018 WPA World 9-Ball Championship
+1192,Mateusz Śniegocki,Vincent Halliday,9,7,57,2018-12-10,2018 WPA World 9-Ball Championship
+1193,Abdullah Alenzi,Jeffrey Ignacio,6,9,58,2018-12-10,2018 WPA World 9-Ball Championship
+1194,Hsieh Chia-chen,Ruslan Chinachov,9,8,59,2018-12-10,2018 WPA World 9-Ball Championship
+1195,Mateusz Śniegocki,Jeffrey Ignacio,9,5,60,2018-12-10,2018 WPA World 9-Ball Championship
+1196,Ko Ping-han,Xu Xiaocong,9,7,61,2018-12-10,2018 WPA World 9-Ball Championship
+1197,Cheng Yu-hsuan,Hayato Hijikata,9,5,62,2018-12-10,2018 WPA World 9-Ball Championship
+1198,Jakub Koniar,Ko Ping-han,4,9,63,2018-12-10,2018 WPA World 9-Ball Championship
+1199,Ahmad Mohamad Sllah,Cheng Yu-hsuan,2,9,64,2018-12-10,2018 WPA World 9-Ball Championship
+1200,Alexander Kazakis,Jakub Koniar,9,8,65,2018-12-10,2018 WPA World 9-Ball Championship
+1201,Ko Ping-han,Hayato Hijikata,4,9,66,2018-12-10,2018 WPA World 9-Ball Championship
+1202,Xu Xiaocong,Ahmad Mohamad Sllah,9,8,67,2018-12-10,2018 WPA World 9-Ball Championship
+1203,Waleed Majid,Cheng Yu-hsuan,9,5,68,2018-12-10,2018 WPA World 9-Ball Championship
+1204,Alexander Kazakis,Hayato Hijikata,9,8,69,2018-12-10,2018 WPA World 9-Ball Championship
+1205,Xu Xiaocong,Waleed Majid,6,9,70,2018-12-10,2018 WPA World 9-Ball Championship
+1206,Sharik Aslam Sayed,Roman Hybler,9,4,71,2018-12-10,2018 WPA World 9-Ball Championship
+1207,Hasan Idan,Tōru Kuribayashi,6,9,72,2018-12-10,2018 WPA World 9-Ball Championship
+1208,Mohammad Berjaoui,Sharik Aslam Sayed,6,9,73,2018-12-10,2018 WPA World 9-Ball Championship
+1209,Mohammad al-Amin,Hasan Idan,6,9,74,2018-12-10,2018 WPA World 9-Ball Championship
+1210,Alex Pagulayan,Mohammad Berjaoui,9,8,75,2018-12-10,2018 WPA World 9-Ball Championship
+1211,Sharik Aslam Sayed,Tōru Kuribayashi,5,9,76,2018-12-10,2018 WPA World 9-Ball Championship
+1212,Roman Hybler,Mohammad al-Amin,9,8,77,2018-12-10,2018 WPA World 9-Ball Championship
+1213,Hasan Idan,Ko Pin-yi,4,9,78,2018-12-10,2018 WPA World 9-Ball Championship
+1214,Alex Pagulayan,Tōru Kuribayashi,9,8,79,2018-12-10,2018 WPA World 9-Ball Championship
+1215,Roman Hybler,Ko Pin-yi,1,9,80,2018-12-10,2018 WPA World 9-Ball Championship
+1216,Nguyễn Anh Tuấn,Dương Quốc Hoàng,9,5,81,2018-12-10,2018 WPA World 9-Ball Championship
+1217,Wiktor Zieliński,Sergei Luzker,9,7,82,2018-12-10,2018 WPA World 9-Ball Championship
+1218,Jorge Llanos,Nguyễn Anh Tuấn,2,9,83,2018-12-10,2018 WPA World 9-Ball Championship
+1219,Wiktor Zieliński,Ameer Ali,9,8,84,2018-12-10,2018 WPA World 9-Ball Championship
+1220,Carlo Biado,Jorge Llanos,9,3,85,2018-12-10,2018 WPA World 9-Ball Championship
+1221,Sergei Luzker,Nguyễn Anh Tuấn,9,8,86,2018-12-10,2018 WPA World 9-Ball Championship
+1222,Wiktor Zieliński,Tomoya Iima,7,9,87,2018-12-10,2018 WPA World 9-Ball Championship
+1223,Ameer Ali,Dương Quốc Hoàng,5,9,88,2018-12-10,2018 WPA World 9-Ball Championship
+1224,Carlo Biado,Sergei Luzker,9,5,89,2018-12-10,2018 WPA World 9-Ball Championship
+1225,Tomoya Iima,Dương Quốc Hoàng,9,7,90,2018-12-10,2018 WPA World 9-Ball Championship
+1226,Marlon Manalo,Casper Matikainen,2,9,91,2018-12-10,2018 WPA World 9-Ball Championship
+1227,Martin Daigle,Liu Haitao,6,9,92,2018-12-10,2018 WPA World 9-Ball Championship
+1228,Ali Abdulhadi,Marlon Manalo,2,9,93,2018-12-10,2018 WPA World 9-Ball Championship
+1229,Martin Daigle,Abdullah Falah,9,3,94,2018-12-10,2018 WPA World 9-Ball Championship
+1230,Liu Haitao,Ali Abdulhadi,9,2,95,2018-12-10,2018 WPA World 9-Ball Championship
+1231,Marlon Manalo,Wang Can,6,9,96,2018-12-10,2018 WPA World 9-Ball Championship
+1232,Martin Daigle,Casper Matikainen,8,9,97,2018-12-10,2018 WPA World 9-Ball Championship
+1233,Abdullah Falah,Naoyuki Ōi,2,9,98,2018-12-10,2018 WPA World 9-Ball Championship
+1234,Liu Haitao,Wang Can,6,9,99,2018-12-10,2018 WPA World 9-Ball Championship
+1235,Casper Matikainen,Naoyuki Ōi,4,9,100,2018-12-10,2018 WPA World 9-Ball Championship
+1236,Thorsten Hohmann,Wu Jiaqing,6,9,101,2018-12-10,2018 WPA World 9-Ball Championship
+1237,Maximilian Lechner,Jason Theron,9,5,102,2018-12-10,2018 WPA World 9-Ball Championship
+1238,Thorsten Hohmann,Takhti Zarekani,9,7,103,2018-12-10,2018 WPA World 9-Ball Championship
+1239,Maximilian Lechner,Jimmy Worung,9,6,104,2018-12-10,2018 WPA World 9-Ball Championship
+1240,Thorsten Hohmann,Jason Theron,6,9,105,2018-12-10,2018 WPA World 9-Ball Championship
+1241,Takhti Zarekani,Tomasz Kapłan,6,9,106,2018-12-10,2018 WPA World 9-Ball Championship
+1242,Maximilian Lechner,Tomoo Takano,7,9,107,2018-12-10,2018 WPA World 9-Ball Championship
+1243,Jimmy Worung,Wu Jiaqing,1,9,108,2018-12-10,2018 WPA World 9-Ball Championship
+1244,Jason Theron,Tomasz Kapłan,5,9,109,2018-12-10,2018 WPA World 9-Ball Championship
+1245,Tomoo Takano,Wu Jiaqing,9,8,110,2018-12-10,2018 WPA World 9-Ball Championship
+1246,Ali Maghsoud,Yukio Akakariyama,3,9,111,2018-12-10,2018 WPA World 9-Ball Championship
+1247,Wojciech Sroczyński,Richard Halliday,9,3,112,2018-12-10,2018 WPA World 9-Ball Championship
+1248,Marc Bijsterbosch,Ali Maghsoud,8,9,113,2018-12-10,2018 WPA World 9-Ball Championship
+1249,Maxim Dudanez,Wojciech Sroczyński,7,9,114,2018-12-10,2018 WPA World 9-Ball Championship
+1250,Chris Melling,Marc Bijsterbosch,9,2,115,2018-12-10,2018 WPA World 9-Ball Championship
+1251,Ali Maghsoud,Richard Halliday,8,9,116,2018-12-10,2018 WPA World 9-Ball Championship
+1252,Maxim Dudanez,Yukio Akakariyama,6,9,117,2018-12-10,2018 WPA World 9-Ball Championship
+1253,Wojciech Sroczyński,Wu Kun-lin,5,9,118,2018-12-10,2018 WPA World 9-Ball Championship
+1254,Chris Melling,Richard Halliday,9,3,119,2018-12-10,2018 WPA World 9-Ball Championship
+1255,Yukio Akakariyama,Wu Kun-lin,7,9,120,2018-12-10,2018 WPA World 9-Ball Championship
+1256,Ivar Saris,Jalal Yousef,6,9,121,2018-12-10,2018 WPA World 9-Ball Championship
+1257,Marek Kudlik,Nick Malai,8,9,122,2018-12-10,2018 WPA World 9-Ball Championship
+1258,Ivar Saris,Robert Hart,9,3,123,2018-12-10,2018 WPA World 9-Ball Championship
+1259,Oliver Szolnoki,Marek Kudlik,8,9,124,2018-12-10,2018 WPA World 9-Ball Championship
+1260,Ko Ping-chung,Ivar Saris,9,6,125,2018-12-10,2018 WPA World 9-Ball Championship
+1261,Nick Malai,Robert Hart,9,3,126,2018-12-10,2018 WPA World 9-Ball Championship
+1262,Jalal Yousef,Oliver Szolnoki,9,5,127,2018-12-10,2018 WPA World 9-Ball Championship
+1263,Marek Kudlik,Shane Van Boening,1,9,128,2018-12-10,2018 WPA World 9-Ball Championship
+1264,Ko Ping-chung,Nick Malai,9,6,129,2018-12-10,2018 WPA World 9-Ball Championship
+1265,Jalal Yousef,Shane Van Boening,7,9,130,2018-12-10,2018 WPA World 9-Ball Championship
+1266,Denis Grabe,Dang Jinhu,6,9,131,2018-12-10,2018 WPA World 9-Ball Championship
+1267,Lin Ta Li,Lo Ho Sum,9,6,132,2018-12-10,2018 WPA World 9-Ball Championship
+1268,Denis Grabe,Toh Lian Han,9,2,133,2018-12-10,2018 WPA World 9-Ball Championship
+1269,Enrique Rojas,Lin Ta Li,8,9,134,2018-12-10,2018 WPA World 9-Ball Championship
+1270,Denis Grabe,Phone Myint Kyaw,3,9,135,2018-12-10,2018 WPA World 9-Ball Championship
+1271,Toh Lian Han,Lo Ho Sum,3,9,136,2018-12-10,2018 WPA World 9-Ball Championship
+1272,Konstantin Stepanow,Enrique Rojas,9,8,137,2018-12-10,2018 WPA World 9-Ball Championship
+1273,Lin Ta Li,Dang Jinhu,8,9,138,2018-12-10,2018 WPA World 9-Ball Championship
+1274,Phone Myint Kyaw,Lo Ho Sum,9,4,139,2018-12-10,2018 WPA World 9-Ball Championship
+1275,Konstantin Stepanow,Dang Jinhu,9,4,140,2018-12-10,2018 WPA World 9-Ball Championship
+1276,Aung Moe Thu,Albin Ouschan,5,9,141,2018-12-10,2018 WPA World 9-Ball Championship
+1277,Thomas Tokoph,John Morra,3,9,142,2018-12-10,2018 WPA World 9-Ball Championship
+1278,Aung Moe Thu,Roberto Brillantes,9,3,143,2018-12-10,2018 WPA World 9-Ball Championship
+1279,Kong Bu Hong,Thomas Tokoph,8,9,144,2018-12-10,2018 WPA World 9-Ball Championship
+1280,Francisco Sánchez,Aung Moe Thu,9,6,145,2018-12-10,2018 WPA World 9-Ball Championship
+1281,Roberto Brillantes,John Morra,0,9,146,2018-12-10,2018 WPA World 9-Ball Championship
+1282,Konrad Juszczyszyn,Kong Bu Hong,9,4,147,2018-12-10,2018 WPA World 9-Ball Championship
+1283,Thomas Tokoph,Albin Ouschan,4,9,148,2018-12-10,2018 WPA World 9-Ball Championship
+1284,Francisco Sánchez,John Morra,9,2,149,2018-12-10,2018 WPA World 9-Ball Championship
+1285,Konrad Juszczyszyn,Albin Ouschan,9,4,150,2018-12-10,2018 WPA World 9-Ball Championship
+1286,Bing Chen Gao,Damianos Giallourakis,9,7,151,2018-12-10,2018 WPA World 9-Ball Championship
+1287,Kwon Hojun,Lo Li-wen,5,9,152,2018-12-10,2018 WPA World 9-Ball Championship
+1288,Mohammed Hassan,Bing Chen Gao,6,9,153,2018-12-10,2018 WPA World 9-Ball Championship
+1289,Bashar Abdulmajeed,Kwon Hojun,4,9,154,2018-12-10,2018 WPA World 9-Ball Championship
+1290,Ralf Souquet,Mohammed Hassan,9,3,155,2018-12-10,2018 WPA World 9-Ball Championship
+1291,Bing Chen Gao,Lo Li-wen,5,9,156,2018-12-10,2018 WPA World 9-Ball Championship
+1292,Bashar Abdulmajeed,Damianos Giallourakis,7,9,157,2018-12-10,2018 WPA World 9-Ball Championship
+1293,Kwon Hojun,Chang Jung-Lin,8,9,158,2018-12-10,2018 WPA World 9-Ball Championship
+1294,Ralf Souquet,Lo Li-wen,9,2,159,2018-12-10,2018 WPA World 9-Ball Championship
+1295,Damianos Giallourakis,Chang Jung-Lin,8,9,160,2018-12-10,2018 WPA World 9-Ball Championship
+1296,Eklent Kaçi,Bing Chen Gao,11,4,161,2018-12-10,2018 WPA World 9-Ball Championship
+1297,Mazen Berjaoui,Robbie Capito,4,11,162,2018-12-10,2018 WPA World 9-Ball Championship
+1298,Wang Can,Nguyễn Anh Tuấn,9,11,163,2018-12-10,2018 WPA World 9-Ball Championship
+1299,Nick Malai,Joshua Filler,5,11,164,2018-12-10,2018 WPA World 9-Ball Championship
+1300,Roland Garcia,Waleed Majid,11,7,165,2018-12-10,2018 WPA World 9-Ball Championship
+1301,Albin Ouschan,Hsieh Chia-chen,11,6,166,2018-12-10,2018 WPA World 9-Ball Championship
+1302,Tomasz Kapłan,Wiktor Zieliński,4,11,167,2018-12-10,2018 WPA World 9-Ball Championship
+1303,Phone Myint Kyaw,Johann Chua,2,11,168,2018-12-10,2018 WPA World 9-Ball Championship
+1304,Niels Feijen,Bader al-Awadhi,11,4,169,2018-12-10,2018 WPA World 9-Ball Championship
+1305,Ko Ping-han,Mateusz Śniegocki,2,11,170,2018-12-10,2018 WPA World 9-Ball Championship
+1306,Tomoo Takano,Casper Matikainen,5,11,171,2018-12-10,2018 WPA World 9-Ball Championship
+1307,Radosław Babica,Alexander Kazakis,10,11,172,2018-12-10,2018 WPA World 9-Ball Championship
+1308,Naoyuki Ōi,Francisco Díaz-Pizarro,10,11,173,2018-12-10,2018 WPA World 9-Ball Championship
+1309,John Morra,Corey Deuel,6,11,174,2018-12-10,2018 WPA World 9-Ball Championship
+1310,Konstantin Stepanov,Ryu Seung-woo,8,11,175,2018-12-10,2018 WPA World 9-Ball Championship
+1311,Liu Ri-teng,Ko Pin-yi,5,11,176,2018-12-10,2018 WPA World 9-Ball Championship
+1312,Carlo Biado,Witalij Pazura,11,9,177,2018-12-10,2018 WPA World 9-Ball Championship
+1313,Lo Li-wen,Konrad Juszczyszyn,7,11,178,2018-12-10,2018 WPA World 9-Ball Championship
+1314,Tomoya Iima,Wu Jia-qing,4,11,179,2018-12-10,2018 WPA World 9-Ball Championship
+1315,Tōru Kuribayashi,Francisco Sánchez,11,7,180,2018-12-10,2018 WPA World 9-Ball Championship
+1316,Jeffrey Ignacio,Petri Makkonen,9,11,181,2018-12-10,2018 WPA World 9-Ball Championship
+1317,Wojciech Sroczyński,Fedor Gorst,6,11,182,2018-12-10,2018 WPA World 9-Ball Championship
+1318,Alex Pagulayan,Liu Haitao,6,11,183,2018-12-10,2018 WPA World 9-Ball Championship
+1319,Maximilian Lechner,Wu Kun-lin,4,11,184,2018-12-10,2018 WPA World 9-Ball Championship
+1320,Ko Ping-chung,Yukio Akakariyama,8,11,185,2018-12-10,2018 WPA World 9-Ball Championship
+1321,Hsu Jui-an,Chris Melling,8,11,186,2018-12-10,2018 WPA World 9-Ball Championship
+1322,Shane Van Boening,Cheng Yu-hsuan,11,7,187,2018-12-10,2018 WPA World 9-Ball Championship
+1323,Jalal Yousef,Dang Jinhu,11,10,188,2018-12-10,2018 WPA World 9-Ball Championship
+1324,Jeff de Luna,Lin Ta Li,9,11,189,2018-12-10,2018 WPA World 9-Ball Championship
+1325,Sharik Aslam Sayed,Aloysius Yapp,11,10,190,2018-12-10,2018 WPA World 9-Ball Championship
+1326,Ralf Souquet,Ruslan Chinachov,11,6,191,2018-12-10,2018 WPA World 9-Ball Championship
+1327,Omar al-Shaheen,Chang Jung-lin,1,11,192,2018-12-10,2018 WPA World 9-Ball Championship
+1328,Eklent Kaçi,Robbie Capito,10,11,193,2018-12-10,2018 WPA World 9-Ball Championship
+1329,Nguyễn Anh Tuấn,Joshua Filler,6,11,194,2018-12-10,2018 WPA World 9-Ball Championship
+1330,Roland Garcia,Albin Ouschan,8,11,195,2018-12-10,2018 WPA World 9-Ball Championship
+1331,Wiktor Zieliński,Johann Chua,11,5,196,2018-12-10,2018 WPA World 9-Ball Championship
+1332,Niels Feijen,Mateusz Śniegocki,11,1,197,2018-12-10,2018 WPA World 9-Ball Championship
+1333,Casper Matikainen,Alexander Kazakis,9,11,198,2018-12-10,2018 WPA World 9-Ball Championship
+1334,Francisco Díaz-Pizarro,Corey Deuel,7,11,199,2018-12-10,2018 WPA World 9-Ball Championship
+1335,Ryu Seung-woo,Ko Pin-yi,4,11,200,2018-12-10,2018 WPA World 9-Ball Championship
+1336,Carlo Biado,Konrad Juszczyszyn,11,7,201,2018-12-10,2018 WPA World 9-Ball Championship
+1337,Wu Jia-qing,Tōru Kuribayashi,11,6,202,2018-12-10,2018 WPA World 9-Ball Championship
+1338,Petri Makkonen,Fjodor Gorst,11,8,203,2018-12-10,2018 WPA World 9-Ball Championship
+1339,Liu Haitao,Wu Kun-lin,10,11,204,2018-12-10,2018 WPA World 9-Ball Championship
+1340,Yukio Akakariyama,Chris Melling,2,11,205,2018-12-10,2018 WPA World 9-Ball Championship
+1341,Shane Van Boening,Jalal Yousef,11,7,206,2018-12-10,2018 WPA World 9-Ball Championship
+1342,Lin Ta Li,Sharik Aslam Sayed,11,7,207,2018-12-10,2018 WPA World 9-Ball Championship
+1343,Ralf Souquet,Chang Jung-lin,6,11,208,2018-12-10,2018 WPA World 9-Ball Championship
+1344,Robbie Capito,Joshua Filler,1,11,209,2018-12-10,2018 WPA World 9-Ball Championship
+1345,Albin Ouschan,Wiktor Zieliński,11,8,210,2018-12-10,2018 WPA World 9-Ball Championship
+1346,Niels Feijen,Alexander Kazakis,10,11,211,2018-12-10,2018 WPA World 9-Ball Championship
+1347,Corey Deuel,Ko Pin-yi,11,9,212,2018-12-10,2018 WPA World 9-Ball Championship
+1348,Carlo Biado,Wu Jia-qing,11,9,213,2018-12-10,2018 WPA World 9-Ball Championship
+1349,Petri Makkonen,Wu Kun-lin,6,11,214,2018-12-10,2018 WPA World 9-Ball Championship
+1350,Chris Melling,Shane Van Boening,5,11,215,2018-12-10,2018 WPA World 9-Ball Championship
+1351,Lin Ta Li,Chang Jung-lin,7,11,216,2018-12-10,2018 WPA World 9-Ball Championship
+1352,Joshua Filler,Albin Ouschan,11,6,217,2018-12-10,2018 WPA World 9-Ball Championship
+1353,Alexander Kazakis,Corey Deuel,11,8,218,2018-12-10,2018 WPA World 9-Ball Championship
+1354,Carlo Biado,Wu Kun-lin,11,4,219,2018-12-10,2018 WPA World 9-Ball Championship
+1355,Shane Van Boening,Chang Jung-lin,11,8,220,2018-12-10,2018 WPA World 9-Ball Championship
+1356,Joshua Filler,Alexander Kazakis,11,10,221,2018-12-10,2018 WPA World 9-Ball Championship
+1357,Carlo Biado,Shane Van Boening,11,6,222,2018-12-10,2018 WPA World 9-Ball Championship
+1358,Joshua Filler,Carlo Biado,13,10,223,2018-12-10,2018 WPA World 9-Ball Championship
