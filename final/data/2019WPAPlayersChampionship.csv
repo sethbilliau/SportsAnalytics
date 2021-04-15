@@ -1,0 +1,62 @@
+,playerA,playerB,playerARacks,playerBRacks,matchIndex,date,competition
+0,Alex Kazakis,Toru Kuribayashi,2,7,1,2019-04-16,2019 WPA Players Championship
+1,Shaun Wilkie,Billy Thorpe,7,5,2,2019-04-16,2019 WPA Players Championship
+2,David Anderson,Max Eberle,7,5,3,2019-04-16,2019 WPA Players Championship
+3,Che-Wei Fu,Yu Hsuan Cheng,4,7,4,2019-04-16,2019 WPA Players Championship
+4,Chris Melling,Cristopher Tevez Ocamp,7,3,5,2019-04-16,2019 WPA Players Championship
+5,Gabe Owen,Radoslaw Babica,3,7,6,2019-04-16,2019 WPA Players Championship
+6,Jeffrey De Luna,Ri Teng Liu,7,5,7,2019-04-16,2019 WPA Players Championship
+7,Gerson Martinez Boza,Jayson Shaw,3,7,8,2019-04-16,2019 WPA Players Championship
+8,Pin-Yi Ko,Waleed Majid,7,5,9,2019-04-16,2019 WPA Players Championship
+9,Szu-Ting Kuo,Jason Theron,6,8,10,2019-04-16,2019 WPA Players Championship
+10,Omar Alshaheen,Ping-Chung Ko,4,7,11,2019-04-16,2019 WPA Players Championship
+11,Kun-Lin Wu,Johann Chua,6,8,12,2019-04-16,2019 WPA Players Championship
+12,Mika Immonen,Jeffrey Ignacio,7,5,13,2019-04-16,2019 WPA Players Championship
+13,Nick Malaj,Hunter Lombardo,8,6,14,2019-04-16,2019 WPA Players Championship
+14,Maksim Dudanets,Jung-Lin Chang,7,4,15,2019-04-16,2019 WPA Players Championship
+15,Carlo Biado,Ruben Bautista Escaler,7,3,16,2019-04-16,2019 WPA Players Championship
+16,Bashar Hussain,Skyler Woodward,2,7,17,2019-04-16,2019 WPA Players Championship
+17,Mitch Ellerman,Ching-Shun Yang,3,7,18,2019-04-16,2019 WPA Players Championship
+18,Darren Appleton,Thorsten Hohmann,7,5,19,2019-04-16,2019 WPA Players Championship
+19,Eklent Kaci,Richard Halliday,7,5,20,2019-04-16,2019 WPA Players Championship
+20,Nicholas De Leon,Matt Edwards,5,7,21,2019-04-16,2019 WPA Players Championship
+21,Kin-Ling Yip,Wojciech Szewczyk,3,7,22,2019-04-16,2019 WPA Players Championship
+22,Kai Lun Hsu,Shane Van Boening,5,7,23,2019-04-16,2019 WPA Players Championship
+23,Fedor Gorst,Naoyuki Oi,9,10,24,2019-04-16,2019 WPA Players Championship
+24,Alex Pagulayan,Yu-Lung Chang,3,7,25,2019-04-16,2019 WPA Players Championship
+25,Marc Bijsterbosch,Denis Grabe,7,2,26,2019-04-16,2019 WPA Players Championship
+26,Ralf Souquet,Brandon Shuff,7,2,27,2019-04-16,2019 WPA Players Championship
+27,The Kien Do,John Morra,7,5,28,2019-04-16,2019 WPA Players Championship
+28,Raymund Faraon,Robbie Capito,7,5,29,2019-04-16,2019 WPA Players Championship
+29,Corey Deuel,Niels Feijen,7,2,30,2019-04-16,2019 WPA Players Championship
+30,Toru Kuribayashi,Shaun Wilkie,4,7,31,2019-04-16,2019 WPA Players Championship
+31,David Anderson,Yu Hsuan Cheng,2,7,32,2019-04-16,2019 WPA Players Championship
+32,Chris Melling,Radoslaw Babica,1,7,33,2019-04-16,2019 WPA Players Championship
+33,Jeffrey De Luna,Jayson Shaw,2,7,34,2019-04-16,2019 WPA Players Championship
+34,Pin-Yi Ko,Duong Quoc Hoang,5,7,35,2019-04-16,2019 WPA Players Championship
+35,Jason Theron,Ping-Chung Ko,1,7,36,2019-04-16,2019 WPA Players Championship
+36,Johann Chua,Mika Immonen,8,6,37,2019-04-16,2019 WPA Players Championship
+37,Nick Malaj,Maksim Dudanets,7,4,38,2019-04-16,2019 WPA Players Championship
+38,Carlo Biado,Skyler Woodward,7,5,39,2019-04-16,2019 WPA Players Championship
+39,Ching-Shun Yang,Darren Appleton,7,1,40,2019-04-16,2019 WPA Players Championship
+40,Eklent Kaci,Matt Edwards,7,5,41,2019-04-16,2019 WPA Players Championship
+41,Wojciech Szewczyk,Shane Van Boening,5,7,42,2019-04-16,2019 WPA Players Championship
+42,Naoyuki Oi,James Aranas,5,7,43,2019-04-16,2019 WPA Players Championship
+43,Yu-Lung Chang,Marc Bijsterbosch,7,3,44,2019-04-16,2019 WPA Players Championship
+44,Ralf Souquet,The Kien Do,7,4,45,2019-04-16,2019 WPA Players Championship
+45,Raymund Faraon,Corey Deuel,7,3,46,2019-04-16,2019 WPA Players Championship
+46,Shaun Wilkie,Yu Hsuan Cheng,4,7,47,2019-04-16,2019 WPA Players Championship
+47,Radoslaw Babica,Jayson Shaw,3,7,48,2019-04-16,2019 WPA Players Championship
+48,Duong Quoc Hoang,Ping-Chung Ko,7,5,49,2019-04-16,2019 WPA Players Championship
+49,Johann Chua,Nick Malaj,10,9,50,2019-04-16,2019 WPA Players Championship
+50,Carlo Biado,Ching-Shun Yang,8,6,51,2019-04-16,2019 WPA Players Championship
+51,Eklent Kaci,Shane Van Boening,1,7,52,2019-04-16,2019 WPA Players Championship
+52,James Aranas,Yu-Lung Chang,6,8,53,2019-04-16,2019 WPA Players Championship
+53,Ralf Souquet,Raymund Faraon,7,0,54,2019-04-16,2019 WPA Players Championship
+54,Yu Hsuan Cheng,Jayson Shaw,7,5,55,2019-04-16,2019 WPA Players Championship
+55,Duong Quoc Hoang,Johann Chua,3,7,56,2019-04-16,2019 WPA Players Championship
+56,Carlo Biado,Shane Van Boening,7,4,57,2019-04-16,2019 WPA Players Championship
+57,Yu-Lung Chang,Ralf Souquet,7,5,58,2019-04-16,2019 WPA Players Championship
+58,Yu Hsuan Cheng,Johann Chua,9,6,59,2019-04-16,2019 WPA Players Championship
+59,Carlo Biado,Yu-Lung Chang,9,6,60,2019-04-16,2019 WPA Players Championship
+60,Yu Hsuan Cheng,Carlo Biado,12,11,61,2019-04-16,2019 WPA Players Championship
