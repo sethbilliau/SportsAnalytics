@@ -1,0 +1,99 @@
+matchIndex,matchNumber,date,playerA,playerARacks,playerB,playerBRacks,competition
+3,,12/1/2020 0:00:00,Eklent Kaci,5,Chris Robinson,4,2020 Mosconi Cup
+5,,12/1/2020 0:00:00,Albin Ouschan,4,Shane Van Boening,5,2020 Mosconi Cup
+6,,12/2/2020 0:00:00,Jayson Shaw,5,Shane Van Boening,4,2020 Mosconi Cup
+8,,12/2/2020 0:00:00,Fedor Gorst,5,Corey Deuel,2,2020 Mosconi Cup
+10,,12/2/2020 0:00:00,Jayson Shaw,5,Billy Thorpe,3,2020 Mosconi Cup
+12,,12/3/2020 0:00:00,Joshua Filler,5,Skyler Woodward,0,2020 Mosconi Cup
+14,,12/3/2020 0:00:00,Jayson Shaw,5,Shane Van Boening,3,2020 Mosconi Cup
+3,,11/25/2019 0:00:00,Billy Thorpe,0,Joshua Filler,5,2019 Mosconi Cup
+5,,11/25/2019 0:00:00,Justin Bergman,3,Jayson Shaw,5,2019 Mosconi Cup
+6,,11/26/2019 0:00:00,Shane Van Boening,1,Joshua Filler,5,2019 Mosconi Cup
+8,,11/26/2019 0:00:00,Tyler Styer,1,Eklent Kaci,5,2019 Mosconi Cup
+10,,11/26/2019 0:00:00,Shane Van Boening,5,Alexander Kazakis,1,2019 Mosconi Cup
+12,,11/27/2019 0:00:00,Skyler Woodward,5,Niels Feijen,3,2019 Mosconi Cup
+14,,11/27/2019 0:00:00,Shane Van Boening,0,Joshua Filler,5,2019 Mosconi Cup
+16,,11/28/2019 0:00:00,Billy Thorpe,5,Jayson Shaw,3,2019 Mosconi Cup
+17,,11/28/2019 0:00:00,Tyler Styer,1,Eklent Kaci,5,2019 Mosconi Cup
+18,,11/28/2019 0:00:00,Shane Van Boening,5,Alexander Kazakis,3,2019 Mosconi Cup
+19,,11/28/2019 0:00:00,Skyler Woodward,5,Joshua Filler,3,2019 Mosconi Cup
+3,,12/4/2018 0:00:00,Niels Feijen,3,Tyler Styer,5,2018 Mosconi Cup
+5,,12/4/2018 0:00:00,Jayson Shaw,0,Shane Van Boening,5,2018 Mosconi Cup
+6,,12/5/2018 0:00:00,Jayson Shaw,5,Shane Van Boening,2,2018 Mosconi Cup
+8,,12/5/2018 0:00:00,Albin Ouschan,5,Corey Deuel,3,2018 Mosconi Cup
+10,,12/5/2018 0:00:00,Eklent Kaci,3,Billy Thorpe,5,2018 Mosconi Cup
+12,,12/6/2018 0:00:00,Alexander Kazakis,3,Skyler Woodward,5,2018 Mosconi Cup
+14,,12/6/2018 0:00:00,Jayson Shaw,4,Skyler Woodward,5,2018 Mosconi Cup
+16,,12/7/2018 0:00:00,Albin Ouschan,4,Skyler Woodward,5,2018 Mosconi Cup
+17,,12/7/2018 0:00:00,Jayson Shaw,5,Tyler Styer,3,2018 Mosconi Cup
+18,,12/7/2018 0:00:00,Niels Feijen,5,Corey Deuel,1,2018 Mosconi Cup
+19,,12/7/2018 0:00:00,Eklent Kaci,5,Billy Thorpe,2,2018 Mosconi Cup
+20,,12/7/2018 0:00:00,Alexander Kazakis,3,Shane Van Boening,5,2018 Mosconi Cup
+3,,12/4/2017 0:00:00,Dennis Hatch,4,Joshua Filler,5,2017 Mosconi Cup
+5,,12/4/2017 0:00:00,Shane Van Boening,5,Jayson Shaw,1,2017 Mosconi Cup
+7,,12/5/2017 0:00:00,Oscar Dominguez,3,Ralf Souquet,5,2017 Mosconi Cup
+9,,12/5/2017 0:00:00,Skyler Woodward,1,David Alcaide,5,2017 Mosconi Cup
+12,,12/6/2017 0:00:00,Billy Thorpe,5,Nick van den Berg,4,2017 Mosconi Cup
+14,,12/6/2017 0:00:00,Shane Van Boening,4,Jayson Shaw,5,2017 Mosconi Cup
+15,,12/7/2017 0:00:00,Dennis Hatch,3,Joshua Filler,5,2017 Mosconi Cup
+3,,12/6/2016 0:00:00,Niels Feijen,5,Mike Dechaine,2,2016 Mosconi Cup
+5,,12/6/2016 0:00:00,Darren Appleton,5,Shane Van Boening,3,2016 Mosconi Cup
+7,,12/7/2016 0:00:00,Jayson Shaw,3,Rodney Morris,5,2016 Mosconi Cup
+9,,12/7/2016 0:00:00,Mark Gray,5,Justin Bergman,1,2016 Mosconi Cup
+12,,12/8/2016 0:00:00,Albin Ouschan,5,Skyler Woodward,4,2016 Mosconi Cup
+14,,12/9/2016 0:00:00,Jayson Shaw,5,Mike Dechaine,1,2016 Mosconi Cup
+3,,12/7/2015 0:00:00,Justin Bergman,2,Niels Feijen,5,2015 Mosconi Cup
+5,,12/7/2015 0:00:00,Shane Van Boening,1,Darren Appleton,5,2015 Mosconi Cup
+7,,12/8/2015 0:00:00,Mike Dechaine,3,Albin Ouschan,5,2015 Mosconi Cup
+9,,12/8/2015 0:00:00,Skyler Woodward,3,Karl Boyes,5,2015 Mosconi Cup
+12,,12/9/2015 0:00:00,Corey Deuel,5,Nick van den Berg,4,2015 Mosconi Cup
+14,,12/9/2015 0:00:00,Shane Van Boening,4,Niels Feijen,5,2015 Mosconi Cup
+15,,12/9/2015 0:00:00,Justin Bergman,5,Darren Appleton,2,2015 Mosconi Cup
+16,,12/10/2015 0:00:00,Justin Bergman,4,Niels Feijen,5,2015 Mosconi Cup
+17,,12/10/2015 0:00:00,Shane Van Boening,5,Karl Boyes,4,2015 Mosconi Cup
+18,,12/10/2015 0:00:00,Skyler Woodward,4,Albin Ouschan,5,2015 Mosconi Cup
+3,,12/1/2014 0:00:00,Mark Gray,3,John Schmidt,5,2014 Mosconi Cup
+5,,12/1/2014 0:00:00,Darren Appleton,5,Shane Van Boening,3,2014 Mosconi Cup
+7,,12/2/2014 0:00:00,Karl Boyes,5,Corey Deuel,2,2014 Mosconi Cup
+9,,12/2/2014 0:00:00,Niels Feijen,5,Justin Bergman,3,2014 Mosconi Cup
+12,,12/3/2014 0:00:00,Nikos Ekonomopoulos,3,Justin Hall,5,2014 Mosconi Cup
+14,,12/3/2014 0:00:00,Niels Feijen,5,Justin Bergman,2,2014 Mosconi Cup
+15,,12/4/2014 0:00:00,Darren Appleton,5,Shane Van Boening,2,2014 Mosconi Cup
+16,,12/4/2014 0:00:00,Nikos Ekonomopoulos,5,Shane Van Boening,2,2014 Mosconi Cup
+3,,12/2/2013 0:00:00,Mika Immonen,6,Shane Van Boening,5,2013 Mosconi Cup
+5,,12/2/2013 0:00:00,Darren Appleton,6,Rodney Morris,4,2013 Mosconi Cup
+7,,12/3/2013 0:00:00,Ralf Souquet,6,Dennis Hatch,5,2013 Mosconi Cup
+9,,12/3/2013 0:00:00,Niels Feijen,6,Johnny Archer,0,2013 Mosconi Cup
+12,,12/4/2013 0:00:00,Karl Boyes,6,Earl Strickland,4,2013 Mosconi Cup
+3,,12/10/2012 0:00:00,Niels Feijen,5,Mike Dechaine,0,2012 Mosconi Cup
+5,,12/10/2012 0:00:00,Darren Appleton,5,Brandon Shuff,2,2012 Mosconi Cup
+7,,12/11/2012 0:00:00,Nikos Ekonomopoulos,5,Shane Van Boening,3,2012 Mosconi Cup
+9,,12/11/2012 0:00:00,Chris Melling,5,Dennis Hatch,3,2012 Mosconi Cup
+12,,12/12/2012 0:00:00,Nick van den Berg,4,Johnny Archer,5,2012 Mosconi Cup
+14,,12/12/2012 0:00:00,Chris Melling,5,Brandon Shuff,2,2012 Mosconi Cup
+15,,12/12/2012 0:00:00,Darren Appleton,5,Shane Van Boening,0,2012 Mosconi Cup
+16,,12/13/2012 0:00:00,Nikos Ekonomopoulos,3,Dennis Hatch,5,2012 Mosconi Cup
+17,,12/13/2012 0:00:00,Niels Feijen,1,Johnny Archer,5,2012 Mosconi Cup
+18,,12/13/2012 0:00:00,Darren Appleton,1,Shane Van Boening,5,2012 Mosconi Cup
+19,,12/13/2012 0:00:00,Chris Melling,5,Brandon Shuff,2,2012 Mosconi Cup
+20,,12/13/2012 0:00:00,Nick van den Berg,5,Mike Dechaine,2,2012 Mosconi Cup
+3,,12/8/2011 0:00:00,Niels Feijen,6,Rodney Morris,0,2011 Mosconi Cup
+5,,12/8/2011 0:00:00,Chris Melling,6,Shane Van Boening,5,2011 Mosconi Cup
+7,,12/9/2011 0:00:00,Ralf Souquet,1,Mike Dechaine,6,2011 Mosconi Cup
+9,,12/9/2011 0:00:00,Nick van den Berg,6,Johnny Archer,1,2011 Mosconi Cup
+12,,12/10/2011 0:00:00,Darren Appleton,6,Shawn Putnam,2,2011 Mosconi Cup
+14,,12/10/2011 0:00:00,Nick van den Berg,5,Shane Van Boening,6,2011 Mosconi Cup
+15,,12/10/2011 0:00:00,Chris Melling,6,Mike Dechaine,2,2011 Mosconi Cup
+16,,12/11/2011 0:00:00,Nick van den Berg,2,Shane Van Boening,6,2011 Mosconi Cup
+17,,12/11/2011 0:00:00,Darren Appleton,3,Johnny Archer,6,2011 Mosconi Cup
+18,,12/11/2011 0:00:00,Niels Feijen,6,Rodney Morris,4,2011 Mosconi Cup
+3,,12/9/2010 0:00:00,Mika Immonen,4,Corey Deuel,6,2010 Mosconi Cup
+5,,12/10/2010 0:00:00,Ralf Souquet,5,Johnny Archer,6,2010 Mosconi Cup
+7,,12/10/2010 0:00:00,Nick van den Berg,5,Shane Van Boening,6,2010 Mosconi Cup
+10,,12/11/2010 0:00:00,Karl Boyes,5,Rodney Morris,2,2010 Mosconi Cup
+13,,12/11/2010 0:00:00,Darren Appleton,5,Dennis Hatch,4,2010 Mosconi Cup
+15,,12/12/2010 0:00:00,Mika Immonen,6,Rodney Morris,1,2010 Mosconi Cup
+16,,12/12/2010 0:00:00,Karl Boyes,5,Johnny Archer,6,2010 Mosconi Cup
+17,,12/12/2010 0:00:00,Nick van den Berg,5,Dennis Hatch,6,2010 Mosconi Cup
+18,,12/12/2010 0:00:00,Darren Appleton,6,Shane Van Boening,2,2010 Mosconi Cup
+19,,12/12/2010 0:00:00,Ralf Souquet,6,Corey Deuel,4,2010 Mosconi Cup
