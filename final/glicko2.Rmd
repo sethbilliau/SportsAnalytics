@@ -79,6 +79,7 @@ get_accuracy = function(newdata, ratings){
 }
 
 # function for pooling players
+
 pool_players = function(df, min_games){
   
   # creating list of all players
@@ -108,6 +109,7 @@ pool_players = function(df, min_games){
 }
 
 # function for setting rating period
+
 set_rating_period = function(pooled_df, rating_period){
   # option 1 is 2007-2020 (essentially the entire dataset)
   if(rating_period == 1){
@@ -161,6 +163,7 @@ find_optimal_tau = function(df, min_games, rating_period, newdata){
 }
 
 # function that creates dataframe of optimal tau value for every min_games and rating_period combination
+
 get_optimal_tau_df = function(df, newdata, min_games_list, rating_period_list){
   
   # initializing array
@@ -313,6 +316,7 @@ get_best_model(metric = 'log-likelihood',
 ```
 
 ```{r}
+# calculating ratings for optimal model
 get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3) %>% 
   filter(Games >= 30)
 ```
