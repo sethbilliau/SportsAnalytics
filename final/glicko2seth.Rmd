@@ -1,0 +1,445 @@
+---
+title: "Glicko2 Implementation"
+author: "Dasha Metropolitansky"
+date: "4/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(PlayerRatings)
+library(readr)
+library(lubridate)
+
+# reading in data
+full_df = read_csv('data/fulldf.csv')[,-1]
+clp_df = read_csv('data/predatorCLPClean.csv')[,-1]
+```
+
+# Setting up functions
+
+```{r}
+# function for probability that player A wins
+
+expected = function(A_rating, B_rating, B_deviation){
+  g = 1/sqrt(1 + (3*B_deviation^2/pi^2))
+  proba = 1/(1 + exp(-g*(A_rating - B_rating)))
+  return(proba)
+}
+
+# function for calculating log likelihood 
+
+get_log_likelihood = function(newdata, ratings){
+  log_likelihood = 0
+  for(i in 1:nrow(newdata)) {
+    row = newdata[i,]
+    if(row$score == 1){
+      winner = row$mod_playerA
+      loser = row$mod_playerB
+    }
+    else{
+      winner = row$mod_playerB
+      loser = row$mod_playerA
+    }
+    winner_rating = ratings[ratings$Player == winner, 2]
+    loser_rating = ratings[ratings$Player == loser, 2]
+    loser_deviation = ratings[ratings$Player == loser, 3]
+    proba = expected(winner_rating, loser_rating, loser_deviation)
+    log_likelihood = log_likelihood + log(proba)
+  }
+  return(log_likelihood)
+}  
+
+
+# function for calculating accuracy
+
+get_accuracy = function(newdata, ratings){
+  accuracy = list()
+  for(i in 1:nrow(newdata)) {
+    row = newdata[i,]
+    if(row$score == 1){
+      winner = row$mod_playerA
+      loser = row$mod_playerB
+    }
+    else{
+      winner = row$mod_playerB
+      loser = row$mod_playerA
+    }
+    winner_rating = ratings[ratings$Player == winner, 2]
+    loser_rating = ratings[ratings$Player == loser, 2]
+    loser_deviation = ratings[ratings$Player == loser, 3]
+    proba = expected(winner_rating, loser_rating, loser_deviation)
+    if(proba <= 0.5){
+      accuracy[i] = 0
+    }
+    else{
+      accuracy[i] = 1
+    }
+  }
+  return(mean(unlist(accuracy)))
+}
+
+# function for pooling players
+
+pool_players = function(df, min_games){
+  
+  # creating list of all players
+  players = c(as.list(full_df$playerA), as.list(full_df$playerB))
+  
+  # pooling players with less than min_games number of games
+  players_df = as.data.frame(matrix(unlist(players))) %>% 
+  rename(c('player' = 'V1')) %>% 
+  group_by(player) %>% 
+  summarize(num_matches = n()) %>% 
+  mutate(mod_player = case_when(num_matches < min_games ~ paste('Pooled', num_matches, 'games', sep = ' '),
+                                TRUE ~ player)) 
+
+  # creating new df with pooling
+  pooled_df = df %>% 
+  left_join(players_df %>% select(player, mod_player) %>% rename(c('mod_playerA' = 'mod_player')), 
+            by = c('playerA' = 'player')) %>% 
+  left_join(players_df %>% select(player, mod_player) %>% rename(c('mod_playerB' = 'mod_player')),
+            by = c('playerB' = 'player')) %>% 
+      mutate(year = year(date),
+             score = case_when(playerARacks > playerBRacks ~ 1,
+                               playerARacks < playerBRacks ~ 0,
+                               playerARacks == playerBRacks ~ 0.5)) %>% 
+      select(year, mod_playerA, mod_playerB, score)
+  
+  return(pooled_df)
+}
+
+# function for setting rating period
+
+set_rating_period = function(pooled_df, rating_period){
+  # option 1 is 2007-2020 (essentially the entire dataset)
+  if(rating_period == 1){
+    df = pooled_df %>% 
+      filter(year > 2006)
+  }
+  # option 2 is 2010-2020
+  else if(rating_period == 2){
+     df = pooled_df %>% 
+      filter(year > 2009)
+  }
+  # option 3 is 2010-2020 where 2011-2014 are combined
+  else if(rating_period == 3){
+    df = pooled_df %>% 
+      mutate(year = case_when(year %in% c(2011, 2012, 2013, 2014) ~ 2011,
+                              TRUE ~ year)) %>% 
+      filter(year > 2009)
+  }
+  # option 4 is 2016-2020
+  else if(rating_period == 4){
+    df = pooled_df %>% 
+      filter(year > 2015)
+  }
+  return(df)
+}
+
+# function for getting ratings
+
+get_ratings = function(df, min_games, rating_period, tau_val){
+  pooled_df = pool_players(df = df, min_games = min_games)
+  df = set_rating_period(pooled_df = pooled_df, rating_period = rating_period)
+  # running glicko2 function from PlayerRatings package
+  glicko2_obj = glicko2(df, tau = tau_val)
+  ratings = glicko2_obj[[1]]
+  return(ratings)
+}
+
+# function for finding optimal tau value for a given min_games and rating_period combination
+
+find_optimal_tau = function(df, min_games, rating_period, newdata){
+  tau_vals = seq(0.3, 1.2, 0.1)
+  log_likelihoods = list()
+  for(i in 1:length(tau_vals)){
+    ratings = get_ratings(df = df, min_games = min_games, rating_period = rating_period, tau_val = tau_vals[i])
+    test_df = pool_players(df = newdata, min_games = min_games)
+    log_likelihoods[i] = get_log_likelihood(newdata = test_df, ratings = ratings)
+  }
+  # finding index of largest log_likelihood and applying to tau values list
+  optimal_tau = tau_vals[[which.max(log_likelihoods)]]
+  return(optimal_tau) 
+}
+
+# function that creates dataframe of optimal tau value for every min_games and rating_period combination
+
+get_optimal_tau_df = function(df, newdata, min_games_list, rating_period_list){
+  
+  # initializing array
+  tau_df = array(data = NA, dim = c(length(rating_period_list), length(min_games_list)))
+  
+  # finding optimal tau value for each combination of rating_period and min_games and adding to array
+  for(m in 1:length(min_games_list)){
+    for(r in 1:length(rating_period_list)){
+      optimal_tau = find_optimal_tau(df = df, min_games = min_games_list[m], rating_period = rating_period_list[r], newdata = newdata)
+      tau_df[[r, m]] = optimal_tau
+    }
+  }
+  row.names(tau_df) = rating_period_list
+  colnames(tau_df) = min_games_list
+  
+  return(tau_df)
+}
+
+# function that creates dataframe of log likelihood or accuracy for every min_games, rating_period and optimal tau combination
+
+eval_models = function(metric, df, newdata, min_games_list, rating_period_list){
+  
+  # initializing array
+  eval_df = array(data = NA, dim = c(length(rating_period_list), length(min_games_list)))
+  
+  # finding optimal tau for each combination of rating_period and min_games 
+  tau_df = get_optimal_tau_df(df = df, newdata = newdata, min_games_list = min_games_list, rating_period_list = rating_period_list)
+  
+  # calculating optimal tau value for each combination of rating_period and min_games and adding to array
+  for(m in 1:length(min_games_list)){
+    for(r in 1:length(rating_period_list)){
+      optimal_tau = tau_df[[r, m]]
+      ratings_df = get_ratings(df = df, min_games = min_games_list[m], rating_period = rating_period_list[r], tau_val = optimal_tau)
+      test_df = pool_players(df = newdata, min_games = min_games_list[m])
+      if(metric == 'accuracy'){
+        accuracy = get_accuracy(newdata = test_df, ratings = ratings_df)
+        eval_df[[r, m]] = accuracy
+      }
+      else if(metric == 'log-likelihood'){
+        log_likelihood = get_log_likelihood(newdata = test_df, ratings = ratings_df)
+        eval_df[[r, m]] = log_likelihood
+      }
+    }
+  }
+  row.names(eval_df) = rating_period_list
+  colnames(eval_df) = min_games_list
+  
+  return(eval_df)
+}
+
+# function to return the parameters of the optimal model (either by maximizing log likelihood or accuracy)
+
+get_best_model = function(metric, df, newdata, min_games_list, rating_period_list){
+  if(metric == 'accuracy'){
+    eval_df = eval_models(metric = 'accuracy', df = df, newdata = newdata, min_games_list = min_games_list, rating_period_list = rating_period_list)
+  }
+  if(metric == 'log-likelihood'){
+    eval_df = eval_models(metric = 'log-likelihood', df = df, newdata = newdata, min_games_list = min_games_list, rating_period_list = rating_period_list)
+  }
+  optimal_tau_df = get_optimal_tau_df(df = df, newdata = newdata, min_games_list = min_games_list, rating_period_list = rating_period_list)
+
+  # finding parameters corresponding to largest value 
+  rating_period = row.names(eval_df)[which(eval_df == max(eval_df), arr.ind = T, useNames = F)[,1]]
+  min_games = colnames(eval_df)[which(eval_df == max(eval_df), arr.ind = T, useNames = F)[,2]]
+  tau = list()
+  for(i in 1:length(rating_period)){
+    tau[i] = optimal_tau_df[as.character(rating_period[i]), as.character(min_games[i])]
+  }
+  tau = unlist(tau)
+  result = eval_df[which(eval_df == max(eval_df), arr.ind = T, useNames = F)]
+  best_model = data.frame(rating_period, min_games, tau, result)
+  
+  return(best_model)
+}
+
+# function for calculating player level accuracy
+
+get_player_accuracies = function(df, min_games, rating_period, tau_val, newdata){
+  
+  ratings_df = get_ratings(df = df, min_games = min_games, rating_period = rating_period, tau_val = tau_val)
+  test_df = pool_players(df = newdata, min_games = min_games)
+  
+  # finding all players in the test dataset
+  test_players = unique(c(as.list(test_df$mod_playerA), as.list(test_df$mod_playerB)))
+  player_accuracies = list()
+  
+  # for each player, find the matches they're in and compute the mean accuracy across those matches
+  for(p in 1:length(test_players)){
+    matches = test_df %>% 
+      filter(mod_playerA == test_players[p] | mod_playerB == test_players[p])
+    accuracy = list()
+    for(i in 1:nrow(matches)) {
+      row = test_df[i,]
+      if(row$score == 1){
+        winner = row$mod_playerA
+        loser = row$mod_playerB
+      }
+      else{
+        winner = row$mod_playerB
+        loser = row$mod_playerA
+      }
+      winner_rating = ratings_df[ratings_df$Player == winner, 2]
+      loser_rating = ratings_df[ratings_df$Player == loser, 2]
+      loser_deviation = ratings_df[ratings_df$Player == loser, 3]
+      proba = expected(winner_rating, loser_rating, loser_deviation)
+      if(proba <= 0.5){
+        accuracy[i] = 0
+      }
+      else{
+        accuracy[i] = 1
+      }
+    }
+    player_accuracies[p] = mean(unlist(accuracy))
+  } 
+  
+  # creating a dataframe with all of the players' accuracies
+  player_accuracies_df = data.frame(unlist(test_players), unlist(player_accuracies))
+  colnames(player_accuracies_df) = c('player', 'accuracy')
+  
+  return(player_accuracies_df %>% arrange(desc(accuracy)))
+}
+```
+
+# Finding optimal model
+
+```{r}
+# finding optimal tau for all model combinations
+get_optimal_tau_df(df = full_df, 
+                   newdata = clp_df, 
+                   min_games_list = append(list(1), seq(5, 50, 5)), 
+                   rating_period_list = list(1,2,3,4))
+```
+
+```{r}
+# calculating log-likelihood of all model combinations
+eval_models(metric = 'log-likelihood', 
+            df = full_df, 
+            newdata = clp_df, 
+            min_games_list = append(list(1), seq(5, 50, 5)), 
+            rating_period_list = list(1,2,3,4))
+
+```
+
+```{r}
+# find the parameters of the optimal model (by accuracy or log likelihood)
+get_best_model(metric = 'log-likelihood', 
+               df = full_df, 
+               newdata = clp_df, 
+               min_games_list = append(list(1), seq(5, 50, 5)), 
+               rating_period_list = list(1,2,3,4))
+
+
+```
+
+```{r}
+# calculating ratings for optimal model
+get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3) %>% 
+  filter(Games >= 30)
+
+unique(clp_df$playerA)
+
+ratingsdf = get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3) %>% 
+  filter(Player %in% unique(clp_df$playerA))
+ratingsdf$Deviation
+expected(ratingsdf$Rating[1], ratingsdf$Rating[2], ratingsdf$Deviation[2])
+
+
+
+```
+
+# EDA
+
+```{r}
+# EDA BEFORE POOLING
+
+# number of matches in each year
+full_df %>% 
+  mutate(year = year(date)) %>% 
+  group_by(year) %>% 
+  count() 
+
+# number of players
+players = c(as.list(full_df$playerA), as.list(full_df$playerB))
+length(unique(players))
+
+# number of matches for each player
+as.data.frame(matrix(unlist(players))) %>% 
+  rename(c('player' = 'V1')) %>% 
+  group_by(player) %>% 
+  summarize(num_matches = n()) %>% View()
+
+# distribution of number of matches per player
+as.data.frame(matrix(unlist(players))) %>% 
+  rename(c('player' = 'V1')) %>% 
+  group_by(player) %>% 
+  summarize(num_matches = n()) %>% 
+  group_by(num_matches) %>% 
+  summarize(num_players = n())
+```
+
+```{r}
+# EDA AFTER POOLING 
+
+min_games = 20 # change this accordingly
+rating_period = 1 # change this accordingly
+
+players = c(as.list(full_df$playerA), as.list(full_df$playerB))
+players_df = as.data.frame(matrix(unlist(players))) %>% 
+  rename(c('player' = 'V1')) %>% 
+  group_by(player) %>% 
+  summarize(num_matches = n()) %>% 
+  mutate(mod_player = case_when(num_matches < min_games ~ paste('Pooled', num_matches, 'games', sep = ' '),
+                                TRUE ~ player)) 
+full_df_pooled = pool_players(df = full_df, min_games = min_games)
+full_df_pooled = set_rating_period(pooled_df = full_df_pooled, rating_period = rating_period)
+  
+# number of players that have at least 50 games (aren't pooled)
+players_df %>% 
+  filter(num_matches >= 50) %>% 
+  nrow()
+
+# total number of players after pooling
+players_df %>% 
+  select(mod_player) %>% 
+  unique() %>% 
+  nrow()
+
+# calculating number of unique players from matches in a given year
+full_df_pooled %>% 
+  group_by(year) %>% 
+  summarize(unique_players = n_distinct(c(mod_playerA, mod_playerB)))
+
+# calculating the average number of matches per player for each year
+full_df_pooled %>% 
+  gather(role, player, mod_playerA:mod_playerB) %>% 
+  select(year, player) %>% 
+  group_by(player, year) %>% 
+  count() %>% 
+  group_by(year) %>% 
+  summarize(avg_matches_per_player = mean(n))
+```
+
+```{r}
+# Plotting the relationship between log-likelihood and accuracy for various models
+l = eval_models(metric = 'log-likelihood', 
+            df = full_df, 
+            newdata = clp_df, 
+            min_games_list = append(list(1), seq(5, 55, 5)), 
+            rating_period_list = list(1,2,3))
+
+a = eval_models(metric = 'accuracy', 
+            df = full_df, 
+            newdata = clp_df, 
+            min_games_list = append(list(1), seq(5, 55, 5)), 
+            rating_period_list = list(1,2,3))
+
+library(reshape2)
+l_df = melt(l) %>% 
+  rename(c('rating_period' = 'Var1',
+           'minimum_games' = 'Var2',
+           'log_likelihood' = 'value'))
+a_df = melt(a) %>% 
+  rename(c('rating_period' = 'Var1',
+           'minimum_games' = 'Var2',
+           'accuracy' = 'value'))
+l_df %>% 
+  left_join(a_df, by = c('rating_period', 'minimum_games')) %>% 
+  ggplot(aes(x = accuracy,
+             y = log_likelihood)) + 
+  geom_point(aes(color = minimum_games)) + 
+  theme_classic()
+```
+
+Loss vs accuracy notes: 
+- low accuracy and large loss: when it's wrong, it's very confident + it's often wrong)
+- low accuracy and small loss: when it's wrong, it's not confident + it's often wrong)
+- high accuracy and small loss: when it's wrong, it's not confident + it's not often wrong)
+- high accuracy and large loss: when it's wrong, it's very confident + it's not often wrong) 
