@@ -10,6 +10,7 @@ library(tidyverse)
 library(PlayerRatings)
 library(readr)
 library(lubridate)
+library(stargazer)
 
 # reading in data
 full_df = read_csv('fulldf.csv')[,-1]
@@ -30,6 +31,12 @@ expected = function(A_rating, B_rating, B_deviation){
 # function for calculating log likelihood 
 
 get_log_likelihood = function(newdata, ratings){
+  
+  # converting to glicko-2 scale
+  ratings = ratings %>% 
+    mutate(Rating = (Rating-1500)/173.7178,
+           Deviation = Deviation/173.7178)
+  
   log_likelihood = 0
   for(i in 1:nrow(newdata)) {
     row = newdata[i,]
@@ -287,7 +294,7 @@ get_player_accuracies = function(df, min_games, rating_period, tau_val, newdata)
 }
 ```
 
-# Finding optimal model
+# Application
 
 ```{r}
 # finding optimal tau for all model combinations
@@ -299,15 +306,17 @@ get_optimal_tau_df(df = full_df,
 
 ```{r}
 # calculating log-likelihood of all model combinations
-eval_models(metric = 'log-likelihood', 
+m = eval_models(metric = 'log-likelihood', 
             df = full_df, 
             newdata = clp_df, 
             min_games_list = append(list(1), seq(5, 50, 5)), 
             rating_period_list = list(1,2,3,4))
+
+as.data.frame(m)
 ```
 
 ```{r}
-# find the parameters of the optimal model (by accuracy or log likelihood)
+# finding the parameters of the optimal model
 get_best_model(metric = 'log-likelihood', 
                df = full_df, 
                newdata = clp_df, 
@@ -317,8 +326,7 @@ get_best_model(metric = 'log-likelihood',
 
 ```{r}
 # calculating ratings for optimal model
-get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3) %>% 
-  filter(Games >= 30)
+get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3)
 ```
 
 # EDA
@@ -340,7 +348,8 @@ length(unique(players))
 as.data.frame(matrix(unlist(players))) %>% 
   rename(c('player' = 'V1')) %>% 
   group_by(player) %>% 
-  summarize(num_matches = n()) %>% View()
+  summarize(num_matches = n()) %>% 
+  filter(num_matches >= 30)
 
 # distribution of number of matches per player
 as.data.frame(matrix(unlist(players))) %>% 
@@ -354,7 +363,7 @@ as.data.frame(matrix(unlist(players))) %>%
 ```{r}
 # EDA AFTER POOLING 
 
-min_games = 20 # change this accordingly
+min_games = 1 # change this accordingly
 rating_period = 1 # change this accordingly
 
 players = c(as.list(full_df$playerA), as.list(full_df$playerB))
@@ -390,42 +399,22 @@ full_df_pooled %>%
   group_by(player, year) %>% 
   count() %>% 
   group_by(year) %>% 
-  summarize(avg_matches_per_player = mean(n))
+  summarize(avg_matches_per_player = round(mean(n),2))
 ```
 
 ```{r}
-# Plotting the relationship between log-likelihood and accuracy for various models
-l = eval_models(metric = 'log-likelihood', 
-            df = full_df, 
-            newdata = clp_df, 
-            min_games_list = append(list(1), seq(5, 55, 5)), 
-            rating_period_list = list(1,2,3))
+# Finding rankings for specific players
+clp_players = unique(c(as.list(clp_df$playerA), as.list(clp_df$playerB)))
+top_players = list('Ko Ping-Chung', 'Joshua Filler', 'Shane Van Boening', 'Fedor Gorst', 'Niels Feijen',
+                   'Chang Jung-Lin', 'Ko Pin Yi', 'Alex Pagulayan', 'Jayson Shaw', 'Alex Kazakis')
 
-a = eval_models(metric = 'accuracy', 
-            df = full_df, 
-            newdata = clp_df, 
-            min_games_list = append(list(1), seq(5, 55, 5)), 
-            rating_period_list = list(1,2,3))
+clp_rankings = get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3) %>% 
+  filter(Player %in% clp_players) %>% 
+  select(Player) %>% 
+  mutate(ranking = row_number())
 
-library(reshape2)
-l_df = melt(l) %>% 
-  rename(c('rating_period' = 'Var1',
-           'minimum_games' = 'Var2',
-           'log_likelihood' = 'value'))
-a_df = melt(a) %>% 
-  rename(c('rating_period' = 'Var1',
-           'minimum_games' = 'Var2',
-           'accuracy' = 'value'))
-l_df %>% 
-  left_join(a_df, by = c('rating_period', 'minimum_games')) %>% 
-  ggplot(aes(x = accuracy,
-             y = log_likelihood)) + 
-  geom_point(aes(color = minimum_games)) + 
-  theme_classic()
+top_rankings = get_ratings(df = full_df, min_games = 1, rating_period = 4, tau_val = 0.3) %>% 
+  filter(Player %in% top_players) %>% 
+  select(Player) %>% 
+  mutate(ranking = row_number())
 ```
-
-Loss vs accuracy notes: 
-- low accuracy and large loss: when it's wrong, it's very confident + it's often wrong)
-- low accuracy and small loss: when it's wrong, it's not confident + it's often wrong)
-- high accuracy and small loss: when it's wrong, it's not confident + it's not often wrong)
-- high accuracy and large loss: when it's wrong, it's very confident + it's not often wrong) 
